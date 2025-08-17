@@ -2,7 +2,7 @@
   "version": 1,
   "datasets": [
     {
-      "id": "regions-england",
+      "id": "regions-england.json",
       "title": "Regions — England",
       "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-england.json",
       "srid": 4326,
@@ -14,7 +14,7 @@
       "maxZoomHint": 22
     },
     {
-      "id": "regions-europe",
+      "id": "regions-europe.geojson",
       "title": "Regions — Europe",
       "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe.geojson",
       "srid": 4326,

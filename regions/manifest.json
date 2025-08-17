@@ -4,7 +4,7 @@
     {
       "id": "regions-england",
       "title": "Regions — England",
-      "url": "https://raw.githubusercontent.com/<your-user-or-org>/Traxplore-geo/main/regions/regions-england.json",
+      "url": "https://raw.githubusercontent.com/<your-user-or-org>/traxplore-geo/main/regions/regions-england.json",
       "srid": 4326,
       "geomTypes": ["Polygon", "MultiPolygon"],
       "bbox": [-6.4, 49.8, 1.8, 55.9],
@@ -16,7 +16,7 @@
     {
       "id": "regions-europe",
       "title": "Regions — Europe",
-      "url": "https://raw.githubusercontent.com/<your-user-or-org>/Traxplore-geo/main/regions/regions-europe.geojson",
+      "url": "https://raw.githubusercontent.com/<your-user-or-org>/traxplore-geo/main/regions/regions-europe.geojson",
       "srid": 4326,
       "geomTypes": ["Polygon", "MultiPolygon"],
       "bbox": [-31.3, 27.6, 44.9, 71.2],

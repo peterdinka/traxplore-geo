@@ -97,10 +97,72 @@
       "minZoomHint": 0,
       "maxZoomHint": 22
     },
+
+    // 🔽 replaced regions-europe.geojson with your six split files
     {
-      "id": "regions-europe.geojson",
-      "title": "Regions — Europe (coarse)",
-      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe.geojson",
+      "id": "regions-europe-split-1.geojson",
+      "title": "Regions — Europe (split 1/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-1.geojson",
+      "srid": 4326,
+      "geomTypes": ["Polygon", "MultiPolygon"],
+      "bbox": [-31.30, 27.60, 44.90, 71.20],
+      "approxFeatureCount": 0,
+      "priority": 50,
+      "minZoomHint": 0,
+      "maxZoomHint": 22
+    },
+    {
+      "id": "regions-europe-split-2.geojson",
+      "title": "Regions — Europe (split 2/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-2.geojson",
+      "srid": 4326,
+      "geomTypes": ["Polygon", "MultiPolygon"],
+      "bbox": [-31.30, 27.60, 44.90, 71.20],
+      "approxFeatureCount": 0,
+      "priority": 50,
+      "minZoomHint": 0,
+      "maxZoomHint": 22
+    },
+    {
+      "id": "regions-europe-split-3.geojson",
+      "title": "Regions — Europe (split 3/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-3.geojson",
+      "srid": 4326,
+      "geomTypes": ["Polygon", "MultiPolygon"],
+      "bbox": [-31.30, 27.60, 44.90, 71.20],
+      "approxFeatureCount": 0,
+      "priority": 50,
+      "minZoomHint": 0,
+      "maxZoomHint": 22
+    },
+    {
+      "id": "regions-europe-split-4.geojson",
+      "title": "Regions — Europe (split 4/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-4.geojson",
+      "srid": 4326,
+      "geomTypes": ["Polygon", "MultiPolygon"],
+      "bbox": [-31.30, 27.60, 44.90, 71.20],
+      "approxFeatureCount": 0,
+      "priority": 50,
+      "minZoomHint": 0,
+      "maxZoomHint": 22
+    },
+    {
+      "id": "regions-europe-split-5.geojson",
+      "title": "Regions — Europe (split 5/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-5.geojson",
+      "srid": 4326,
+      "geomTypes": ["Polygon", "MultiPolygon"],
+      "bbox": [-31.30, 27.60, 44.90, 71.20],
+      "approxFeatureCount": 0,
+      "priority": 50,
+      "minZoomHint": 0,
+      "maxZoomHint": 22
+    },
+    {
+      "id": "regions-europe-split-6.geojson",
+      "title": "Regions — Europe (split 6/6)",
+      "url": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/regions/regions-europe-split-6.geojson",
       "srid": 4326,
       "geomTypes": ["Polygon", "MultiPolygon"],
       "bbox": [-31.30, 27.60, 44.90, 71.20],

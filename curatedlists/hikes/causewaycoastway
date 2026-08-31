@@ -1,0 +1,169 @@
+{
+  "trail": "Causeway Coast Way",
+  "country": "United Kingdom",
+  "region": "Northern Ireland",
+  "distance_miles": 33,
+  "distance_km": 53,
+  "waypoints": [
+    {
+      "id": 1,
+      "name": "Portstewart Strand Trailhead",
+      "category": "Trailhead / Beach",
+      "coordinates": {
+        "latitude": 55.1831,
+        "longitude": -6.7118
+      },
+      "description": "The official starting point of the trail featuring a 2-mile stretch of golden sand dunes and coastal views."
+    },
+    {
+      "id": 2,
+      "name": "Portstewart Promenade",
+      "category": "Town / Scenic Walk",
+      "coordinates": {
+        "latitude": 55.1812,
+        "longitude": -6.6738
+      },
+      "description": "A bustling waterfront path along Portstewart's bay, offering sea views across to the Donegal headlands."
+    },
+    {
+      "id": 3,
+      "name": "Portrush Harbour",
+      "category": "Harbour / Waterfront",
+      "coordinates": {
+        "latitude": 55.2046,
+        "longitude": -6.6575
+      },
+      "description": "A vibrant coastal harbour situated on Ramore Head peninsula, surrounded by traditional seafood restaurants."
+    },
+    {
+      "id": 4,
+      "name": "Whiterocks Beach",
+      "category": "Beach / Natural Feature",
+      "coordinates": {
+        "latitude": 55.2053,
+        "longitude": -6.6190
+      },
+      "description": "A scenic beach flanked by dramatic white limestone cliffs, natural arches, and sea caves carved into the rock."
+    },
+    {
+      "id": 5,
+      "name": "Dunluce Castle",
+      "category": "Historical Site / Castle",
+      "coordinates": {
+        "latitude": 55.2108,
+        "longitude": -6.5794
+      },
+      "description": "Iconic ruins of a 16th-century medieval fortress perched precariously on a sheer basalt outcrop over the sea."
+    },
+    {
+      "id": 6,
+      "name": "Portballintrae Harbour",
+      "category": "Harbour / Village",
+      "coordinates": {
+        "latitude": 55.2084,
+        "longitude": -6.5448
+      },
+      "description": "A quiet sheltered bay and village harbour marking the route's transition toward the Giant's Causeway area."
+    },
+    {
+      "id": 7,
+      "name": "Runkerry House & Headland",
+      "category": "Historical Building / Cliff Walk",
+      "coordinates": {
+        "latitude": 55.2078,
+        "longitude": -6.5292
+      },
+      "description": "A 19th-century mansion overlooking high cliff paths that afford panoramic Atlantic ocean vistas."
+    },
+    {
+      "id": 8,
+      "name": "Giant's Causeway",
+      "category": "UNESCO World Heritage Site / Geological Feature",
+      "coordinates": {
+        "latitude": 55.2408,
+        "longitude": -6.5116
+      },
+      "description": "A famous geological wonder composed of over 40,000 interlocking basalt columns formed by volcanic activity."
+    },
+    {
+      "id": 9,
+      "name": "Hamilton's Seat",
+      "category": "Viewpoint / Cliff Top",
+      "coordinates": {
+        "latitude": 55.2344,
+        "longitude": -6.4712
+      },
+      "description": "The highest point along the Causeway Coast Way, offering sweeping panoramic views of the entire coastline."
+    },
+    {
+      "id": 10,
+      "name": "Dunseverick Castle",
+      "category": "Historical Site / Castle Ruins",
+      "coordinates": {
+        "latitude": 55.2326,
+        "longitude": -6.4415
+      },
+      "description": "Ancient promontory fort ruins with rich historical connections dating back to Saint Patrick in the 5th century."
+    },
+    {
+      "id": 11,
+      "name": "Whitepark Bay",
+      "category": "Beach / Nature Reserve",
+      "coordinates": {
+        "latitude": 55.2335,
+        "longitude": -6.3980
+      },
+      "description": "A secluded arc of white sand backed by ancient dunes, chalk cliffs, and rich coastal wildlife habitat."
+    },
+    {
+      "id": 12,
+      "name": "Ballintoy Harbour",
+      "category": "Harbour / Scenic Spot",
+      "coordinates": {
+        "latitude": 55.2438,
+        "longitude": -6.3686
+      },
+      "description": "A picturesque, rugged fishing harbour framed by sea stacks and limestone tidal pools."
+    },
+    {
+      "id": 13,
+      "name": "Carrick-a-Rede",
+      "category": "Landmark / Rope Bridge",
+      "coordinates": {
+        "latitude": 55.2396,
+        "longitude": -6.3323
+      },
+      "description": "A famous rope bridge suspended nearly 100 feet above the ocean connecting the mainland to a small salmon fishing island."
+    },
+    {
+      "id": 14,
+      "name": "Portaneevey Viewpoint",
+      "category": "Viewpoint",
+      "coordinates": {
+        "latitude": 55.2384,
+        "longitude": -6.3218
+      },
+      "description": "A cliff-edge vantage point offering direct views across to Carrick-a-Rede Rope Bridge and Rathlin Island."
+    },
+    {
+      "id": 15,
+      "name": "Kinbane Castle",
+      "category": "Historical Site / Castle Ruins",
+      "coordinates": {
+        "latitude": 55.2289,
+        "longitude": -6.2863
+      },
+      "description": "Remains of a 1547 castle situated on a narrow white limestone headland projecting out into the sea."
+    },
+    {
+      "id": 16,
+      "name": "Ballycastle Harbour",
+      "category": "Trail End / Harbour",
+      "coordinates": {
+        "latitude": 55.2066,
+        "longitude": -6.2428
+      },
+      "description": "The official eastern terminus of the trail located at Ballycastle seafront overlooking Fair Head and the North Channel."
+    }
+  ]
+}

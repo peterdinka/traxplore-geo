@@ -1,0 +1,128 @@
+[
+  {
+    "order": 1,
+    "name": "Winchester",
+    "latitude": 51.057375,
+    "longitude": -1.305076
+  },
+  {
+    "order": 2,
+    "name": "Cheesefoot Head",
+    "latitude": 51.046270,
+    "longitude": -1.243390
+  },
+  {
+    "order": 3,
+    "name": "Beacon Hill",
+    "latitude": 51.000431,
+    "longitude": -1.139844
+  },
+  {
+    "order": 4,
+    "name": "Old Winchester Hill",
+    "latitude": 50.980800,
+    "longitude": -1.088300
+  },
+  {
+    "order": 5,
+    "name": "Butser Hill",
+    "latitude": 50.977750,
+    "longitude": -0.980512
+  },
+  {
+    "order": 6,
+    "name": "Queen Elizabeth Country Park",
+    "latitude": 50.961461,
+    "longitude": -0.979003
+  },
+  {
+    "order": 7,
+    "name": "Harting Down",
+    "latitude": 50.958800,
+    "longitude": -0.870460
+  },
+  {
+    "order": 8,
+    "name": "Cocking Hill",
+    "latitude": 50.942251,
+    "longitude": -0.750142
+  },
+  {
+    "order": 9,
+    "name": "Bignor Hill",
+    "latitude": 50.910177,
+    "longitude": -0.605352
+  },
+  {
+    "order": 10,
+    "name": "Amberley",
+    "latitude": 50.901988,
+    "longitude": -0.543704
+  },
+  {
+    "order": 11,
+    "name": "Washington",
+    "latitude": 50.902922,
+    "longitude": -0.408564
+  },
+  {
+    "order": 12,
+    "name": "Chanctonbury Ring",
+    "latitude": 50.896819,
+    "longitude": -0.381341
+  },
+  {
+    "order": 13,
+    "name": "Devil's Dyke",
+    "latitude": 50.884803,
+    "longitude": -0.212990
+  },
+  {
+    "order": 14,
+    "name": "Ditchling Beacon",
+    "latitude": 50.901720,
+    "longitude": -0.107590
+  },
+  {
+    "order": 15,
+    "name": "Housedean Farm",
+    "latitude": 50.866128,
+    "longitude": -0.057377
+  },
+  {
+    "order": 16,
+    "name": "Southease",
+    "latitude": 50.828854,
+    "longitude": 0.019176
+  },
+  {
+    "order": 17,
+    "name": "Firle Beacon",
+    "latitude": 50.833800,
+    "longitude": 0.108020
+  },
+  {
+    "order": 18,
+    "name": "Alfriston",
+    "latitude": 50.806621,
+    "longitude": 0.155897
+  },
+  {
+    "order": 19,
+    "name": "Seven Sisters Country Park",
+    "latitude": 50.775222,
+    "longitude": 0.151616
+  },
+  {
+    "order": 20,
+    "name": "Beachy Head",
+    "latitude": 50.740048,
+    "longitude": 0.252055
+  },
+  {
+    "order": 21,
+    "name": "Eastbourne",
+    "latitude": 50.776199,
+    "longitude": 0.289253
+  }
+]

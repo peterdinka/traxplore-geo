@@ -1,0 +1,68 @@
+{
+  "id": "somerset",
+  "name": "Somerset",
+  "description": "Somerset is a predominantly rural county in South West England known for the Somerset Levels, Mendip Hills, cider orchards and historic towns. Bath is internationally renowned for its Roman and Georgian heritage, while Wells, Taunton and Glastonbury contribute to the county's rich history.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1611146479742-12b6cdacfbab?q=80&w=2012&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Bath and North East Somerset",
+      "latitude": 51.356319,
+      "longitude": -2.493216,
+      "description": "A district centred on the Georgian city of Bath, famous for its Roman baths, honey-coloured stone crescents, and status as a UNESCO World Heritage Site.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Mendip",
+      "latitude": 51.194512,
+      "longitude": -2.543558,
+      "description": "A district in Somerset named for the Mendip Hills, home to Wells, England's smallest city, and the dramatic limestone gorge at Cheddar.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "North Somerset",
+      "latitude": 51.396647,
+      "longitude": -2.851126,
+      "description": "A district covering the seaside resort of Weston-super-Mare and countryside on the edge of the Mendip Hills.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Sedgemoor",
+      "latitude": 51.184812,
+      "longitude": -2.963174,
+      "description": "A district in Somerset covering the Somerset Levels wetlands and the town of Bridgwater, site of the 1685 Battle of Sedgemoor, the last pitched battle fought on English soil.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "South Somerset",
+      "latitude": 50.984279,
+      "longitude": -2.709118,
+      "description": "A rural district around the market town of Yeovil, with rolling hills, historic Montacute House, and the picturesque town of Sherborne just over the Dorset border.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Taunton Deane",
+      "latitude": 51.004737,
+      "longitude": -3.149911,
+      "description": "A former district in Somerset centred on the county town of Taunton, historically a centre for the wool and cider trades.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "West Somerset",
+      "latitude": 51.118307,
+      "longitude": -3.445695,
+      "description": "A rural, coastal district covering part of Exmoor National Park and the seaside town of Minehead, known for dramatic moorland and the West Somerset Railway heritage line.",
+      "category": "Region",
+      "order": 7
+    }
+  ]
+}

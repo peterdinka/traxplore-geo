@@ -1,0 +1,124 @@
+{
+  "id": "lancashire",
+  "name": "Lancashire",
+  "description": "Lancashire is a historic county in North West England with a strong industrial and textile heritage. Its landscape ranges from the Lancashire coast and urban towns such as Preston and Blackburn to the Forest of Bowland and rural valleys.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1741593010595-7bf9e9d42c20?q=80&w=2233&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Pendle",
+      "latitude": 53.878972,
+      "longitude": -2.189358,
+      "description": "A district in Lancashire named for Pendle Hill, infamous for the 1612 witch trials that made it one of England's most notorious folklore landmarks.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Blackburn with Darwen",
+      "latitude": 53.699196,
+      "longitude": -2.463653,
+      "description": "A former cotton-milling powerhouse in Lancashire, its skyline still marked by Victorian mill chimneys. Home to Blackburn Cathedral and a strong regional football tradition at Ewood Park.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Blackpool",
+      "latitude": 53.82441,
+      "longitude": -3.022187,
+      "description": "England's classic bucket-and-spade seaside resort, famous for its illuminations, the Blackpool Tower, and Pleasure Beach amusement park.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Burnley",
+      "latitude": 53.774089,
+      "longitude": -2.227291,
+      "description": "A former cotton-mill town in Lancashire's Pennine foothills, its Victorian textile heritage still visible in the mill architecture. Home to Turf Moor, one of English football's oldest grounds.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Chorley",
+      "latitude": 53.672499,
+      "longitude": -2.66769,
+      "description": "A market town in Lancashire known for its flat cakes, its Victorian covered market, and its proximity to the West Pennine Moors.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Fylde",
+      "latitude": 53.797974,
+      "longitude": -2.918678,
+      "description": "A coastal district in Lancashire between Blackpool and the Ribble estuary, mostly flat farmland and small towns like Lytham St Annes, known for its genteel promenade.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Hyndburn",
+      "latitude": 53.760641,
+      "longitude": -2.389767,
+      "description": "A former cotton-weaving town in Lancashire's Hyndburn valley, its mill heritage still visible in the local architecture.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Lancaster",
+      "latitude": 54.078812,
+      "longitude": -2.691602,
+      "description": "A historic city in Lancashire on the River Lune, with a Norman castle that later served as a courthouse and prison, and deep ties to the 18th-century transatlantic trade.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "Preston",
+      "latitude": 53.822183,
+      "longitude": -2.710717,
+      "description": "A historic market and mill town in Lancashire, granted city status in 2002, with a guild history stretching back to 1179 and a still-celebrated 'Preston Guild' tradition.",
+      "category": "Region",
+      "order": 9
+    },
+    {
+      "name": "Ribble Valley",
+      "latitude": 53.90264,
+      "longitude": -2.417676,
+      "description": "A rural district in Lancashire around the market town of Clitheroe, known for its rolling countryside, the Forest of Bowland, and views of Pendle Hill, infamous for the 17th-century witch trials.",
+      "category": "Region",
+      "order": 10
+    },
+    {
+      "name": "Rossendale",
+      "latitude": 53.684764,
+      "longitude": -2.278123,
+      "description": "A district in Lancashire's Pennine valleys, its towns like Rawtenstall shaped by the cotton and footwear industries.",
+      "category": "Region",
+      "order": 11
+    },
+    {
+      "name": "South Ribble",
+      "latitude": 53.727091,
+      "longitude": -2.700221,
+      "description": "A district in Lancashire between Preston and the Ribble estuary, largely residential and suburban, with the historic village of Hoghton and its Tudor hall among its notable spots.",
+      "category": "Region",
+      "order": 12
+    },
+    {
+      "name": "West Lancashire",
+      "latitude": 53.608337,
+      "longitude": -2.868008,
+      "description": "A rural, flat agricultural district in Lancashire around the market town of Ormskirk, known for its bulb and vegetable farming.",
+      "category": "Region",
+      "order": 13
+    },
+    {
+      "name": "Wyre",
+      "latitude": 53.900102,
+      "longitude": -2.83224,
+      "description": "A coastal district in Lancashire including the resort town of Fleetwood and stretches of Fylde coast countryside, historically tied to the fishing industry.",
+      "category": "Region",
+      "order": 14
+    }
+  ]
+}

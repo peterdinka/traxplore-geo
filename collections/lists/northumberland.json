@@ -1,0 +1,20 @@
+{
+  "id": "northumberland",
+  "name": "Northumberland",
+  "description": "Northumberland is England's northernmost county, stretching from the Scottish border to the North Sea. It is renowned for vast open landscapes, rugged coastline, castles and Hadrian's Wall, with relatively low population density compared with most English counties.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1524349009849-8867fb3e3df0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Northumberland",
+      "latitude": 55.296721,
+      "longitude": -2.075772,
+      "description": "England's northernmost county, a vast and sparsely populated landscape of Hadrian's Wall, dramatic coastline, and medieval castles including Alnwick and Bamburgh. One of the best places in England for dark-sky stargazing.",
+      "category": "Region",
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "id": "national-scenic-areas",
+  "name": "National Scenic Areas",
+  "description": "Scotland's 40 National Scenic Areas — the Scottish equivalent of National Landscapes, protecting remote mountains, lochs, islands, and coastlines of exceptional scenic value.",
+  "country": "Scotland",
+  "location": "Scotland",
+  "coverImageURL": "https://images.unsplash.com/photo-1546706872-9c90b8d0c94f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Causeway Cost "
+    },
+    {
+      "name": "Assynt-Coigach",
+      "latitude": 58.0123398,
+      "longitude": -5.2623156,
+      "description": "A dramatic Highland landscape of isolated, distinctively shaped mountains rising from ancient bog and lochan-studded moorland in northwest Sutherland.",
+      "category": "Nature",
+      "order": 1
+    },
+    {
+      "name": "Ben Nevis and Glen Coe",
+      "latitude": 56.7840843,
+      "longitude": -5.0053726,
+      "description": "Home to the UK's highest peak and one of Scotland's most iconic and dramatic glens, scarred by the 1692 Massacre of Glencoe.",
+      "category": "Nature",
+      "order": 2
+    },
+    {
+      "name": "Cairngorm Mountains",
+      "latitude": 57.0606743,
+      "longitude": -3.6066143,
+      "description": "A sub-arctic plateau landscape at the heart of the Cairngorms National Park, Britain's largest area of land over 1,000 metres.",
+      "category": "Nature",
+      "order": 3
+    },
+    {
+      "name": "Cuillin Hills",
+      "latitude": 57.2166667,
+      "longitude": -6.2166667,
+      "description": "The jagged, near-vertical peaks of the Black Cuillin on Skye, widely regarded as the most challenging mountain terrain in the British Isles.",
+      "category": "Nature",
+      "order": 4
+    },
+    {
+      "name": "Deeside and Lochnagar",
+      "latitude": 56.95,
+      "longitude": -3.2666667,
+      "description": "Royal Deeside's valley and the mountain of Lochnagar, long favoured by the Royal Family and the subject of a children's book written by King Charles III.",
+      "category": "Nature",
+      "order": 5
+    },
+    {
+      "name": "Dornoch Firth",
+      "latitude": 57.8519083,
+      "longitude": -4.083742,
+      "description": "A sheltered estuary in the Highlands known for dolphin sightings, sandy beaches, and the golf links of Royal Dornoch.",
+      "category": "Nature",
+      "order": 6
+    },
+    {
+      "name": "East Stewartry Coast",
+      "latitude": 54.8376793,
+      "longitude": -4.0517151,
+      "description": "A rocky, indented coastline in Dumfries and Galloway around Kirkcudbright, an artists' town long known as the 'Scottish St Ives.'",
+      "category": "Nature",
+      "order": 7
+    },
+    {
+      "name": "Eildon and Leaderfoot",
+      "latitude": 55.5872727,
+      "longitude": -2.7087533,
+      "description": "Three distinctive volcanic peaks in the Scottish Borders near Melrose, associated with legends of King Arthur and the wizard Michael Scot.",
+      "category": "Nature",
+      "order": 8
+    },
+    {
+      "name": "Fleet Valley",
+      "latitude": 54.878,
+      "longitude": -4.188,
+      "description": "A wooded estuary landscape in Dumfries and Galloway around Gatehouse of Fleet, mixing woodland, farmland, and tidal mudflats.",
+      "category": "Nature",
+      "order": 9
+    },
+    {
+      "name": "Glen Affric",
+      "latitude": 57.3049648,
+      "longitude": -4.8748465,
+      "description": "Often called the most beautiful glen in Scotland, home to remnants of the ancient Caledonian pine forest and a chain of lochs.",
+      "category": "Nature",
+      "order": 10
+    },
+    {
+      "name": "Glen Strathfarrar",
+      "latitude": 57.4166667,
+      "longitude": -4.8333333,
+      "description": "A remote, access-restricted glen in the Highlands with a gated road, kept quiet and undeveloped, home to red deer and golden eagles.",
+      "category": "Nature",
+      "order": 11
+    },
+    {
+      "name": "Hoy and West Mainland",
+      "latitude": 58.8549769,
+      "longitude": -3.3255766,
+      "description": "Orkney's most mountainous island, home to the Old Man of Hoy sea stack and dramatic cliffs including the UK's highest vertical rock face.",
+      "category": "Nature",
+      "order": 12
+    },
+    {
+      "name": "Jura",
+      "latitude": 55.9041798,
+      "longitude": -5.9414209,
+      "description": "A sparsely populated Hebridean island dominated by the three conical Paps of Jura, where George Orwell wrote 1984.",
+      "category": "Nature",
+      "order": 13
+    },
+    {
+      "name": "Kintail",
+      "latitude": 57.205833,
+      "longitude": -5.352222,
+      "description": "A range of dramatic peaks in the western Highlands including the Five Sisters of Kintail, a classic ridge-walking destination.",
+      "category": "Nature",
+      "order": 14
+    },
+    {
+      "name": "Knapdale",
+      "latitude": 56.0006148,
+      "longitude": -5.551582,
+      "description": "A quiet peninsula in Argyll between Loch Fyne and the Sound of Jura, notable as the site of Scotland's beaver reintroduction trial.",
+      "category": "Nature",
+      "order": 15
+    },
+    {
+      "name": "Knoydart",
+      "latitude": 57.0699614,
+      "longitude": -5.6599638,
+      "description": "Mainland Britain's most remote community, accessible only by boat or a long hike, nicknamed 'the last wilderness.'",
+      "category": "Nature",
+      "order": 16
+    },
+    {
+      "name": "Kyle of Tongue",
+      "latitude": 58.505919,
+      "longitude": -4.4174972,
+      "description": "A sea loch on Scotland's remote north coast, part of the North Coast 500 route, overlooked by the peak of Ben Loyal.",
+      "category": "Nature",
+      "order": 17
+    },
+    {
+      "name": "Kyles of Bute",
+      "latitude": 55.8541446,
+      "longitude": -5.1970819,
+      "description": "The narrow, sheltered sea channels separating the Isle of Bute from Argyll's Cowal peninsula, a popular sailing and sea-kayaking route.",
+      "category": "Nature",
+      "order": 18
+    },
+    {
+      "name": "Loch Lomond",
+      "latitude": 56.1113678,
+      "longitude": -4.6288602,
+      "description": "Britain's largest lake by surface area, its bonnie banks made famous in Scotland's best-known folk song.",
+      "category": "Nature",
+      "order": 19
+    },
+    {
+      "name": "Loch na Keal (Isle of Mull)",
+      "latitude": 56.4754888,
+      "longitude": -6.0636492,
+      "description": "A sea loch on Mull's west coast known as one of the best places in Britain to spot white-tailed sea eagles.",
+      "category": "Nature",
+      "order": 20
+    },
+    {
+      "name": "Loch Rannoch and Glen Lyon",
+      "latitude": 56.6976723,
+      "longitude": -4.2282552,
+      "description": "A remote Highland Perthshire landscape of loch, forest, and Scotland's longest enclosed glen, overlooked by the Munro Schiehallion.",
+      "category": "Nature",
+      "order": 21
+    },
+    {
+      "name": "Loch Shiel",
+      "latitude": 56.786873,
+      "longitude": -5.6065058,
+      "description": "A long, narrow freshwater loch in the western Highlands, familiar to Harry Potter fans as the on-screen 'Black Lake' near Hogwarts.",
+      "category": "Nature",
+      "order": 22
+    },
+    {
+      "name": "Loch Tummel",
+      "latitude": 56.7097668,
+      "longitude": -3.9451106,
+      "description": "A Perthshire loch famous for the 'Queen's View' viewpoint, reputedly named for Queen Victoria's visit in 1866.",
+      "category": "Nature",
+      "order": 23
+    },
+    {
+      "name": "Lynn of Lorn",
+      "latitude": 56.333333,
+      "longitude": -5.75,
+      "description": "A stretch of sheltered sea and islands near Oban on Scotland's west coast, a gateway to the Inner Hebrides.",
+      "category": "Nature",
+      "order": 24
+    },
+    {
+      "name": "Morar, Moidart and Ardnamurchan",
+      "latitude": 56.7166667,
+      "longitude": -6,
+      "description": "Mainland Britain's westernmost point, a rugged coastal peninsula of white-sand beaches, single-track roads, and abundant wildlife.",
+      "category": "Nature",
+      "order": 25
+    },
+    {
+      "name": "North Arran",
+      "latitude": 55.6258333,
+      "longitude": -5.1918888,
+      "description": "The mountainous northern half of the Isle of Arran, dominated by Goatfell, whose granite peaks have earned Arran the nickname 'Scotland in Miniature.'",
+      "category": "Nature",
+      "order": 26
+    },
+    {
+      "name": "Nith Estuary",
+      "latitude": 55.2043139,
+      "longitude": -3.7660368,
+      "description": "The tidal mouth of the River Nith in Dumfries and Galloway, an important wintering site for migratory wildfowl.",
+      "category": "Nature",
+      "order": 27
+    },
+    {
+      "name": "North West Sutherland",
+      "latitude": 58.3701064,
+      "longitude": -4.9037339,
+      "description": "One of Europe's last true wildernesses, an ancient landscape of isolated mountains and lochans on some of the world's oldest exposed rock.",
+      "category": "Nature",
+      "order": 28
+    },
+    {
+      "name": "River Earn (Comrie to St Fillans)",
+      "latitude": 56.3362829,
+      "longitude": -3.6881687,
+      "description": "A gentle Perthshire river valley running from Comrie, a village once nicknamed 'Scotland's earthquake capital' for its seismic activity, to Loch Earn.",
+      "category": "Nature",
+      "order": 29
+    },
+    {
+      "name": "River Tay (Dunkeld)",
+      "latitude": 56.5029221,
+      "longitude": -3.4139011,
+      "description": "A wooded stretch of Scotland's longest river around the cathedral town of Dunkeld, framed by the Hermitage's dramatic waterfall gorge.",
+      "category": "Nature",
+      "order": 30
+    },
+    {
+      "name": "Scarba, Lunga and the Garvellachs",
+      "latitude": 56.2333333,
+      "longitude": -5.7833333,
+      "description": "A cluster of remote, largely uninhabited islands in the Firth of Lorn, close to the Corryvreckan whirlpool, one of the world's largest tidal whirlpools.",
+      "category": "Nature",
+      "order": 31
+    },
+    {
+      "name": "Shetland",
+      "latitude": 60.346957,
+      "longitude": -1.23566,
+      "description": "Britain's northernmost island group, closer to Norway than Edinburgh, known for dramatic sea cliffs, puffin colonies, and Viking heritage.",
+      "category": "Nature",
+      "order": 32
+    },
+    {
+      "name": "Small Isles",
+      "latitude": 57,
+      "longitude": -6.25,
+      "description": "Four small Hebridean islands — Eigg, Rum, Muck, and Canna — known for dramatic geology, wildlife, and tiny, tight-knit communities.",
+      "category": "Nature",
+      "order": 33
+    },
+    {
+      "name": "South Lewis, Harris and North Uist",
+      "latitude": 57.7925758,
+      "longitude": -6.9794705,
+      "description": "A vast, scenically extreme stretch of the Outer Hebrides, spanning Harris's mountains and the white sands of Luskentyre beach.",
+      "category": "Nature",
+      "order": 34
+    },
+    {
+      "name": "South Uist Machair",
+      "latitude": 57.1641619,
+      "longitude": -7.4099736,
+      "description": "A low-lying coastal strip of flower-rich grassland (machair) unique to the Scottish and Irish Atlantic coasts, vital for breeding wading birds.",
+      "category": "Nature",
+      "order": 35
+    },
+    {
+      "name": "St Kilda",
+      "latitude": 57.8348132,
+      "longitude": -8.5635441,
+      "description": "A remote archipelago 40 miles into the Atlantic, a dual UNESCO World Heritage Site for both nature and culture, abandoned by its last residents in 1930.",
+      "category": "Nature",
+      "order": 36
+    },
+    {
+      "name": "The Trossachs",
+      "latitude": 56.234312,
+      "longitude": -4.409999,
+      "description": "Often called the 'Highlands in miniature,' a compact landscape of lochs and wooded hills that inspired Sir Walter Scott's poetry.",
+      "category": "Nature",
+      "order": 37
+    },
+    {
+      "name": "Trotternish",
+      "latitude": 57.6441102,
+      "longitude": -6.2658428,
+      "description": "Skye's northernmost peninsula, home to the otherworldly rock formations of the Quiraing and the Old Man of Storr.",
+      "category": "Nature",
+      "order": 38
+    },
+    {
+      "name": "Upper Tweeddale",
+      "latitude": 55.5875798,
+      "longitude": -3.4370416,
+      "description": "The upland source of the River Tweed in the Scottish Borders, a landscape of rounded hills and remote farming valleys.",
+      "category": "Nature",
+      "order": 39
+    },
+    {
+      "name": "Wester Ross",
+      "latitude": 57.549,
+      "longitude": -5.52,
+      "description": "One of Scotland's most celebrated wild landscapes, home to Torridon's ancient sandstone peaks among the oldest rock formations on Earth.",
+      "category": "Nature",
+      "order": 40
+    }
+  ]
+}

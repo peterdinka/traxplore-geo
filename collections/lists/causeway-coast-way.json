@@ -1,0 +1,11 @@
+{
+  "id": "causeway-coast-way",
+  "name": "Causeway Coast Way",
+  "description": "The Causeway Coast Way is a premier 33-mile (53 km) long-distance trail tracing Northern Ireland’s rugged northern shoreline from Portstewart to Ballycastle. Widely celebrated for its dramatic coastal scenery, the route weaves past sweeping sand dunes, chalk cliffs, historic seaside towns, and centuries-old castle ruins perched precariously over the North Atlantic.",
+  "country": "United Kingdom",
+  "location": "Northern Ireland",
+  "coverImageURL": "https://images.unsplash.com/photo-1558464919-9938f8ce37b0?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "dataSourceURL": "https://github.com/peterdinka/traxplore-geo/blob/main/curatedlists/hikes/causewaycoastway"
+}

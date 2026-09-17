@@ -1,0 +1,84 @@
+{
+  "id": "staffordshire",
+  "name": "Staffordshire",
+  "description": "Staffordshire is a centrally located county in the West Midlands known for its industrial heritage, pottery, ceramics and historic towns. Stafford, Stoke-on-Trent and Tamworth are major centres, while Cannock Chase and the Staffordshire Moorlands provide extensive countryside.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1629845964841-7e4287c36c71?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Lichfield",
+      "latitude": 52.696342,
+      "longitude": -1.774762,
+      "description": "A cathedral city in Staffordshire notable for its three-spired medieval cathedral and as the birthplace of Samuel Johnson, compiler of one of the first English dictionaries.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Newcastle-under-Lyme",
+      "latitude": 52.9949,
+      "longitude": -2.325996,
+      "description": "A market town in Staffordshire distinct from Newcastle upon Tyne, with a history tied to coal mining and pottery, and a well-preserved medieval street layout.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Staffordshire Moorlands",
+      "latitude": 53.071443,
+      "longitude": -1.993486,
+      "description": "A district covering the southern Peak District fringes in Staffordshire, including the pottery town of Leek, known for its textile heritage.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Tamworth",
+      "latitude": 52.623083,
+      "longitude": -1.68438,
+      "description": "A market town in Staffordshire, once the capital of the Anglo-Saxon kingdom of Mercia, with a castle dating to the Norman period still standing above the town.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Cannock Chase",
+      "latitude": 52.706908,
+      "longitude": -1.982725,
+      "description": "A district in Staffordshire named for its Area of Outstanding Natural Beauty — one of England's smallest AONBs — a stretch of ancient heathland and forest that was once a royal hunting ground.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "East Staffordshire",
+      "latitude": 52.887877,
+      "longitude": -1.81445,
+      "description": "A district around the brewing town of Burton upon Trent, long known as the historic centre of English beer production thanks to its mineral-rich water.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "South Staffordshire",
+      "latitude": 52.60483,
+      "longitude": -2.154611,
+      "description": "A rural district surrounding the Black Country conurbation, with villages and countryside offering a green contrast to the industrial towns nearby.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Stafford",
+      "latitude": 52.847797,
+      "longitude": -2.174856,
+      "description": "The county town of Staffordshire, with a partly timber-framed medieval centre and strong historical ties to shoemaking.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "Stoke-on-Trent",
+      "latitude": 53.019446,
+      "longitude": -2.159001,
+      "description": "The heart of England's ceramics industry, historically known as 'The Potteries' for the six towns that merged to form the city, including famous names like Wedgwood and Spode.",
+      "category": "Region",
+      "order": 9
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "nottinghamshire",
+  "name": "Nottinghamshire",
+  "description": "Nottinghamshire is a county in the East Midlands known for its association with the legend of Robin Hood, Sherwood Forest and the city of Nottingham. It combines a major urban centre with former coalfield communities, agricultural areas and historic market towns.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1542925079-824644333e47?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Ashfield",
+      "latitude": 53.089757,
+      "longitude": -1.254424,
+      "description": "A former coal-mining district in Nottinghamshire, its towns like Hucknall still carrying the legacy of the pits, alongside associations with poet Lord Byron.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Bassetlaw",
+      "latitude": 53.349572,
+      "longitude": -0.98045,
+      "description": "A district in Nottinghamshire around the market town of Retford, historically linked to the Pilgrim Fathers, several of whom came from villages in this area before sailing for America.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Broxtowe",
+      "latitude": 52.973365,
+      "longitude": -1.25935,
+      "description": "A district in Nottinghamshire on the western edge of Nottingham city, including the town of Beeston and countryside associated with author D.H. Lawrence, who was born nearby.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Gedling",
+      "latitude": 53.026051,
+      "longitude": -1.11919,
+      "description": "A district on Nottingham's eastern edge, largely suburban, taking its name from a former colliery village now redeveloped into a country park.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Mansfield",
+      "latitude": 53.175197,
+      "longitude": -1.177352,
+      "description": "A former coal-mining town in Nottinghamshire, its identity long shaped by the pits, with the Sherwood Forest fringes lying nearby.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Newark and Sherwood",
+      "latitude": 53.108994,
+      "longitude": -0.92215,
+      "description": "A district in Nottinghamshire covering the historic market town of Newark-on-Trent and the legendary Sherwood Forest, home of the Robin Hood legend.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Nottingham",
+      "latitude": 52.953828,
+      "longitude": -1.16648,
+      "description": "A historic city famed for its Robin Hood legend, with a medieval castle, extensive cave network beneath the city, and a strong lace-making heritage.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Rushcliffe",
+      "latitude": 52.91265,
+      "longitude": -1.045239,
+      "description": "An affluent suburban district south of Nottingham, covering West Bridgford and the National Water Sports Centre at Holme Pierrepont.",
+      "category": "Region",
+      "order": 8
+    }
+  ]
+}

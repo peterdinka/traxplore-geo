@@ -1,0 +1,163 @@
+{
+  "id": "beautiful-budapest",
+  "name": "Beautiful Budapest",
+  "type": "Multiple Days",
+  "city": "Budapest",
+  "country": "Hungary",
+  "description": "Explore the most beautiful spots in the Hungarian capital.",
+  "coverImageURL": "https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "durationEstimate": "4 days",
+  "order": 1,
+  "published": true,
+  "stops": [
+    {
+      "title": "Hungarian Parliament",
+      "order": 1,
+      "day": 1,
+      "narrative": "The Országház is the largest building in Hungary and one of the most spectacular parliament buildings in the world. Completed in 1902 to mark the 1000th anniversary of the Magyar conquest, its Gothic Revival silhouette stretches 268 metres along the Danube. Inside, 691 rooms, 40 kilograms of gold leaf and the Holy Crown of St Stephen — Hungary's millennium-old coronation regalia — make this as much a national symbol as a working legislature.",
+      "category": "Architecture",
+      "estimatedMinutes": 30,
+      "practicalTip": "Book the guided tour online well in advance — English slots sell out, especially in summer. EU citizens get reduced entry with ID. Best photo spot is from the Buda side near Batthyány tér at sunset.",
+      "latitude": 47.5072,
+      "longitude": 19.0458,
+      "history": "This is the most important buildings of all....\n\n[PhotoURL1]\n\nMy personal recommendation to everyone who comes to Budapest.\n\n[PhotoURL2] [PhotoURL3]\n",
+      "photos": [
+        "https://images.unsplash.com/photo-1565426873118-a17ed65d74b9?q=80&w=1776&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1616432902940-b7a1acbc60b3?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1588587242292-d5cf80112f32?q=80&w=2229&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Shoes on the Danube Bank",
+      "order": 2,
+      "day": 1,
+      "narrative": "Sixty pairs of iron shoes scattered along the Pest embankment — a 2005 memorial by sculptor Gyula Pauer and filmmaker Can Togay. They commemorate Jews shot into the Danube by Arrow Cross militiamen during the winter of 1944–45. Victims were ordered to remove their shoes — valuable items in wartime — before being executed at the river's edge. The cast-iron pairs are deliberately mismatched in size and style: men's brogues, women's court shoes, a child's pair.",
+      "category": "History",
+      "estimatedMinutes": 15,
+      "practicalTip": "Free and always accessible, on the embankment about 300m south of Parliament. Visit at dusk for the most reflective light. People leave candles and small stones in the shoes — please don't move them.",
+      "latitude": 47.5044,
+      "longitude": 19.0454,
+      "photos": [
+        "https://images.unsplash.com/photo-1768373622906-c7cf73b89388?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "St. Stephen's Basilica",
+      "order": 3,
+      "day": 1,
+      "narrative": "Neoclassical basilica completed in 1905 after more than 50 years of construction — including a famous dome collapse during a storm in 1868 that forced a full rebuild. Named for István I, Hungary's first king, crowned on Christmas Day in the year 1000. The treasury upstairs holds the Szent Jobb — the mummified right hand of St Stephen — paraded through the city each year on 20 August. At 96m it's tied with Parliament for the tallest building in Budapest, a deliberate balance reflecting equal standing between church and state.",
+      "category": "Architecture",
+      "estimatedMinutes": 45,
+      "practicalTip": "Free entry to the nave; small fee for the dome panorama (one of the best 360° views in the city) and the treasury. The square outside is pedestrian and one of Budapest's best evening hangouts. Check the schedule for regular organ concerts — exceptional acoustics.",
+      "latitude": 47.5008,
+      "longitude": 19.054,
+      "photos": [
+        "https://images.unsplash.com/photo-1645193155767-a8e4f757d876?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Hungarian State Opera House",
+      "order": 4,
+      "day": 1,
+      "narrative": "Neo-Renaissance opera house by Miklós Ybl, opened 1884. Emperor Franz Joseph funded it on the condition that it not be larger than Vienna's court opera — so Ybl made it more beautiful instead. The auditorium is drenched in gilt and frescoes by Károly Lotz, with one of the finest acoustic spaces in Europe. Gustav Mahler and Otto Klemperer both served as music directors here. Reopened in 2022 after a five-year restoration.",
+      "category": "Architecture",
+      "estimatedMinutes": 60,
+      "practicalTip": "Daily guided tours run in English (typically 3pm) — cheaper than a show and they let you into the royal box. Standing-room opera tickets can still go for around 500 HUF (~£1) if you queue on the day. Andrássy Avenue itself is UNESCO-listed — stroll the section between Oktogon and Heroes' Square.",
+      "latitude": 47.5028,
+      "longitude": 19.0578,
+      "photos": [
+        "https://images.unsplash.com/photo-1662930470616-f6ee42ebb6ce?q=80&w=2074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1753798893785-30842fabf578?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Chain Bridge",
+      "order": 5,
+      "day": 2,
+      "narrative": "Hungary's first permanent bridge across the Danube, opened in 1849. Commissioned by Count István Széchenyi after he was stuck on the wrong side of the river for eight days waiting for the ice to clear during his father's funeral. Designed by English engineer William Tierney Clark and built by Scottish engineer Adam Clark (no relation). Blown up by retreating German forces in January 1945 and faithfully rebuilt by 1949. The stone lions guarding each end famously do have tongues — the old rumour that they don't is wrong.",
+      "category": "Architecture",
+      "estimatedMinutes": 20,
+      "practicalTip": "Walk across rather than drive — the pedestrian lanes give you the full panorama of Parliament on one side and the Castle on the other. Free, and most photogenic after sunset when the bridge is illuminated. The Buda end drops you right at the historic Sikló funicular up to the Castle.",
+      "latitude": 47.4988,
+      "longitude": 19.0432,
+      "photos": [
+        "https://images.unsplash.com/photo-1694445945983-2570db3bb618?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Buda Castle",
+      "order": 6,
+      "day": 2,
+      "narrative": "A royal residence has stood on this hill since the 13th century, when Béla IV moved his court here after the Mongol invasion of 1241. Sigismund of Luxembourg and Matthias Corvinus made it one of Renaissance Europe's most lavish courts — until the Ottomans took the city in 1541. Retaken in 1686, rebuilt as a Habsburg residence, destroyed again in the 1945 Siege of Budapest, and rebuilt in a more austere Soviet-modernist key. The wings now house the Hungarian National Gallery and the Budapest History Museum. UNESCO World Heritage.",
+      "category": "History",
+      "estimatedMinutes": 90,
+      "practicalTip": "Free to wander the courtyards, ramparts, and Castle Garden Bazaar at the base; the museums charge separately. Take the Sikló funicular up from Clark Ádám tér — it's been running since 1870 and the views on the way up are part of the experience.",
+      "latitude": 47.4961,
+      "longitude": 19.0399,
+      "photos": [
+        "https://images.unsplash.com/photo-1699636351389-5ea4559d2e5b?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1674824856234-8d8e6bff9018?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Matthias Church",
+      "order": 7,
+      "day": 2,
+      "narrative": "Officially the Church of the Assumption of the Virgin Mary, but nobody calls it that — it's named for King Matthias Corvinus, who married both his wives here in the 15th century. The current Gothic appearance is largely a 19th-century reimagining by Frigyes Schulek. The last Habsburg coronation in Hungarian history — Charles IV, in December 1916 — took place inside these walls. The polychrome Zsolnay-tiled roof is one of Hungary's most photographed details.",
+      "category": "Architecture",
+      "estimatedMinutes": 45,
+      "practicalTip": "Modest entry fee. Don't miss the upstairs Loreto Chapel and the small ecclesiastical museum displaying coronation regalia replicas. The Sunday 10am Latin Mass is sung and worth attending even if you're not religious.",
+      "latitude": 47.5018,
+      "longitude": 19.0344,
+      "photos": [
+        "https://images.unsplash.com/photo-1518471152222-d42e38ce6873?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1636636608747-d1eb57d0ba3d?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Fisherman's Bastion",
+      "order": 8,
+      "day": 2,
+      "narrative": "Looks medieval but isn't — built between 1895 and 1902 purely as a decorative viewing terrace. The seven white-stone turrets represent the seven Magyar chieftains who founded Hungary in 895 AD. Named for the fishermen's guild that historically defended this stretch of the castle wall in the Middle Ages. Designed by Frigyes Schulek (the same architect who restored Matthias Church next door) for the 1896 millennium celebrations.",
+      "category": "Architecture",
+      "estimatedMinutes": 30,
+      "practicalTip": "Lower terraces are free; the upper turrets charge a small fee but the views are nearly identical from below. Come at sunrise for empty platforms and the best light on Parliament across the river. The café tucked into the bastion is overpriced — better coffee in the Castle District just behind.",
+      "latitude": 47.502,
+      "longitude": 19.0349,
+      "photos": [
+        "https://images.unsplash.com/photo-1577366755809-a3589066ad81?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1688415506015-467021091e22?q=80&w=986&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Heroes' Square",
+      "order": 9,
+      "day": 3,
+      "narrative": "Built for the 1896 millennium celebrations marking 1000 years since the Magyar conquest. The colonnade carries 14 statues of Hungarian rulers and leaders, from St Stephen to Lajos Kossuth — originally the Habsburg monarchs were included, but they were replaced with Hungarian national heroes after WWII. The central column is topped by Archangel Gabriel holding the Hungarian crown and the apostolic cross. Flanked by the Museum of Fine Arts and the Műcsarnok. UNESCO World Heritage as part of the Andrássy Avenue ensemble.",
+      "category": "History",
+      "estimatedMinutes": 30,
+      "practicalTip": "Free and always open. Combine with City Park (Városliget) behind it — Vajdahunyad Castle, the boating lake (an ice rink in winter), and the Széchenyi Baths are all within a few minutes' walk. Metro line M1, the oldest electrified underground railway on the European continent (1896), terminates here.",
+      "latitude": 47.5149,
+      "longitude": 19.0777,
+      "photos": [
+        "https://images.unsplash.com/photo-1724492665339-58ffc8914cb0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1605990172487-fb940cb680ec?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Széchenyi Thermal Baths",
+      "order": 10,
+      "day": 3,
+      "narrative": "Europe's largest medicinal thermal bath complex, opened 1913 in neo-Baroque style. Fed by two hot springs reaching 74°C and 77°C, with 18 pools (15 indoor, 3 outdoor) drawing on water rich in calcium, magnesium and sulphate. The outdoor chess scene has been going since the 1970s — locals play in the steaming pool year-round, even in snow. The mustard-yellow facade is one of Budapest's most recognisable images.",
+      "category": "Culture",
+      "estimatedMinutes": 120,
+      "practicalTip": "Book tickets online in advance — same price, no queue. Bring a swimsuit, flip-flops, and a towel (rentals are pricey). The outdoor pools are most magical when it's snowing. Heads-up: Friday and Saturday nights host 'sparties' — DJ pool parties — so pick a weekday for a calmer visit.",
+      "latitude": 47.5189,
+      "longitude": 19.0817,
+      "photos": [
+        "https://images.unsplash.com/photo-1629182585837-96b0f31301b9?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://plus.unsplash.com/premium_photo-1752332356218-88a09a2743d9?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ]
+}

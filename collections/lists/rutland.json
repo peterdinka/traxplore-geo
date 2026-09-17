@@ -1,0 +1,20 @@
+{
+  "id": "rutland",
+  "name": "Rutland",
+  "description": "Rutland is England's smallest ceremonial county, centred on the towns of Oakham and Uppingham. It is predominantly rural and is particularly known for Rutland Water, rolling farmland and its quiet market-town character.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1457601893031-bfb36abc37c4?q=80&w=2048&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Rutland",
+      "latitude": 52.642338,
+      "longitude": -0.625077,
+      "description": "England's smallest historic county, a compact patchwork of stone villages and farmland centred on Rutland Water, one of the largest reservoirs in Europe and a major spot for birdwatching and sailing.",
+      "category": "Region",
+      "order": 1
+    }
+  ]
+}

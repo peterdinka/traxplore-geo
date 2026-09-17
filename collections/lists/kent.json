@@ -1,0 +1,116 @@
+{
+  "id": "kent",
+  "name": "Kent",
+  "description": "Kent is a large county in south-east England stretching from the London fringe to the English Channel. Known as the 'Garden of England', it combines orchards and rolling countryside with historic cities, coastal towns and major transport links to continental Europe.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1619889067276-c3648b9955a2?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Ashford",
+      "latitude": 51.129869,
+      "longitude": 0.809774,
+      "description": "A market town in Kent that grew rapidly as a rail hub, now a gateway to the Eurostar and the countryside of the Kent Downs.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Canterbury",
+      "latitude": 51.278644,
+      "longitude": 1.099966,
+      "description": "A cathedral city in Kent and the spiritual heart of the Church of England, its cathedral the site of Thomas Becket's 1170 murder and a major medieval pilgrimage destination.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Dartford",
+      "latitude": 51.433036,
+      "longitude": 0.246838,
+      "description": "A town in Kent at the southern end of the Dartford Crossing, with a history stretching back to a key medieval river crossing and pilgrimage route.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Dover",
+      "latitude": 51.21472,
+      "longitude": 1.274264,
+      "description": "A historic port town in Kent famous for its White Cliffs and status as the closest point in England to mainland Europe, just 33km from France.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Gravesham",
+      "latitude": 51.394979,
+      "longitude": 0.400912,
+      "description": "A district in Kent along the Thames Estuary, its main town of Gravesend historically a key stop for ships heading in and out of London's port.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Maidstone",
+      "latitude": 51.236345,
+      "longitude": 0.587293,
+      "description": "The county town of Kent on the River Medway, with a history in papermaking and brewing, and the ruins of a medieval archbishop's palace.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Medway",
+      "latitude": 51.407589,
+      "longitude": 0.560385,
+      "description": "A unitary authority in Kent formed from the historic 'Medway Towns' of Chatham, Rochester, and Gillingham, defined by the River Medway and centuries of naval shipbuilding history at the former Chatham Dockyard.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Sevenoaks",
+      "latitude": 51.274885,
+      "longitude": 0.18913,
+      "description": "An affluent commuter district in Kent, named for its historic town, and home to Knole, one of England's largest houses and a former archbishop's palace set in a medieval deer park.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "Shepway",
+      "latitude": 51.057991,
+      "longitude": 0.999049,
+      "description": "A former district covering Kent's Cinque Ports coastline, including Folkestone and the entrance to the Channel Tunnel.",
+      "category": "Region",
+      "order": 9
+    },
+    {
+      "name": "Swale",
+      "latitude": 51.335806,
+      "longitude": 0.808953,
+      "description": "A district in Kent covering the Isle of Sheppey and the historic town of Sittingbourne, with marshland and orchards along the Thames Estuary.",
+      "category": "Region",
+      "order": 10
+    },
+    {
+      "name": "Thanet",
+      "latitude": 51.350884,
+      "longitude": 1.330157,
+      "description": "A district in Kent covering the Isle of Thanet's seaside resorts, including Margate and Broadstairs, both long popular for traditional English seaside holidays.",
+      "category": "Region",
+      "order": 11
+    },
+    {
+      "name": "Tonbridge and Malling",
+      "latitude": 51.271377,
+      "longitude": 0.363628,
+      "description": "A district in Kent covering the historic market town of Tonbridge, with its Norman castle, and the countryside around West Malling.",
+      "category": "Region",
+      "order": 12
+    },
+    {
+      "name": "Tunbridge Wells",
+      "latitude": 51.102538,
+      "longitude": 0.39834,
+      "description": "A spa town in Kent that grew up around a chalybeate spring discovered in 1606, with an elegant Georgian colonnade, the Pantiles, still at its centre.",
+      "category": "Region",
+      "order": 13
+    }
+  ]
+}

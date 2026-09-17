@@ -1,0 +1,36 @@
+{
+  "id": "westmorland-and-furness",
+  "name": "Westmorland and Furness",
+  "description": "Westmorland and Furness is a ceremonial county created in 2023 covering the southern and eastern parts of the former Cumbria area. It includes Barrow-in-Furness, Kendal and much of the Lake District, making it one of England's most mountainous and scenic regions.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1670646669629-6c79633e8636?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Barrow-in-Furness",
+      "latitude": 54.131359,
+      "longitude": -3.209635,
+      "description": "A shipbuilding town on Cumbria's coast, historically central to Britain's submarine manufacturing, still home to BAE Systems' shipyards today.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Eden",
+      "latitude": 54.60559,
+      "longitude": -2.626641,
+      "description": "A rural district in Cumbria named for the River Eden, covering the market town of Penrith and the wild Pennine landscape of the North Pennines.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "South Lakeland",
+      "latitude": 54.296689,
+      "longitude": -2.775854,
+      "description": "A district covering much of the southern Lake District, including Windermere, England's largest natural lake, and the market town of Kendal.",
+      "category": "Region",
+      "order": 3
+    }
+  ]
+}

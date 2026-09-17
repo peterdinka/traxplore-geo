@@ -1,0 +1,20 @@
+{
+  "id": "city-of-london",
+  "name": "City of London",
+  "description": "City of London is a tiny ceremonial county at the historic heart of London, covering the ancient financial district known as the Square Mile. It is one of the world's leading financial centres, dominated by offices, historic churches and landmarks such as St Paul's Cathedral.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1604826720697-31c1b2fd889e",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "City of London",
+      "latitude": 51.515582,
+      "longitude": -0.093293,
+      "description": "The historic square-mile financial district at London's core, governed separately from the rest of the city since medieval times, blending ancient churches with skyscrapers like the Gherkin.",
+      "category": "City",
+      "order": 1
+    }
+  ]
+}

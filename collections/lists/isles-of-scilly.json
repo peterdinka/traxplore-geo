@@ -1,0 +1,20 @@
+{
+  "id": "isles-of-scilly",
+  "name": "Isles of Scilly",
+  "description": "Isles of Scilly are a small archipelago and ceremonial county approximately 28 miles off the coast of Cornwall. The islands are renowned for their subtropical climate, beaches, wildlife and distinctive island communities, with tourism forming a major part of the local economy.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1712786393964-dcefff30274e?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Isles of Scilly",
+      "latitude": 49.922697,
+      "longitude": -6.331378,
+      "description": "A remote archipelago off Cornwall's tip, England's southwesternmost point, known for a subtropical microclimate, flower farming, and pristine beaches.",
+      "category": "Region",
+      "order": 1
+    }
+  ]
+}

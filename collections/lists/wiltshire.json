@@ -1,0 +1,28 @@
+{
+  "id": "wiltshire",
+  "name": "Wiltshire",
+  "description": "Wiltshire is a largely rural county in South West England known for chalk downs, historic villages and prehistoric monuments such as Stonehenge and Avebury. Salisbury, Swindon and Trowbridge are among its principal centres, with agriculture, defence and manufacturing all contributing to the economy.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1589191702216-923536264808?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Swindon",
+      "latitude": 51.587582,
+      "longitude": -1.733982,
+      "description": "A large railway town in Wiltshire that grew rapidly around the Great Western Railway works in the 19th century. Today a commercial hub known for the STEAM museum, the Magic Roundabout junction, and its transformation from industrial town to modern business centre.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Wiltshire",
+      "latitude": 51.324067,
+      "longitude": -1.925659,
+      "description": "A large rural county in southwest England, home to Stonehenge, one of the world's most famous prehistoric monuments, alongside the cathedral city of Salisbury.",
+      "category": "Region",
+      "order": 2
+    }
+  ]
+}

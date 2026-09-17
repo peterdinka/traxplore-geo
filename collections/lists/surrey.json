@@ -1,0 +1,100 @@
+{
+  "id": "surrey",
+  "name": "Surrey",
+  "description": "Surrey is an affluent county immediately south-west of London, characterised by wooded hills, attractive villages and extensive protected countryside. Guildford is its main administrative centre, while towns such as Woking and Epsom have strong commuter and business connections to London.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1578126551850-8e66427fa0ef?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Epsom and Ewell",
+      "latitude": 51.336252,
+      "longitude": -0.261753,
+      "description": "A district in Surrey famous for Epsom Downs Racecourse, home of the Derby, one of the world's most prestigious horse races since 1780.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Elmbridge",
+      "latitude": 51.353465,
+      "longitude": -0.394282,
+      "description": "An affluent district in Surrey along the Thames, home to Hampton Court Palace's neighbouring towns and celebrity-favoured Weybridge and Esher.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Guildford",
+      "latitude": 51.252347,
+      "longitude": -0.567759,
+      "description": "A university town in Surrey with a hilltop cathedral and cobbled high street, gateway to the North Downs and the River Wey.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Mole Valley",
+      "latitude": 51.220147,
+      "longitude": -0.307515,
+      "description": "A leafy district in Surrey named for the River Mole, covering the market town of Dorking and the slopes of Box Hill, a popular Surrey Hills beauty spot and cycling landmark.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Reigate and Banstead",
+      "latitude": 51.251592,
+      "longitude": -0.198289,
+      "description": "A commuter district in Surrey at the foot of the North Downs, combining the market town of Reigate with suburban Banstead.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Runnymede",
+      "latitude": 51.394933,
+      "longitude": -0.538832,
+      "description": "A district in Surrey best known as the meadow where King John sealed Magna Carta in 1215, still marked today with memorials to that founding moment in constitutional history.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Spelthorne",
+      "latitude": 51.424982,
+      "longitude": -0.462002,
+      "description": "A district in Surrey on London's western fringe, home to Heathrow Airport's southern edge and Shepperton Studios, a major British film production site.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Surrey Heath",
+      "latitude": 51.335828,
+      "longitude": -0.661997,
+      "description": "A district in Surrey covering the town of Camberley, with heathland and forest shaped by its long association with the nearby Royal Military Academy Sandhurst.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "Tandridge",
+      "latitude": 51.237707,
+      "longitude": -0.048384,
+      "description": "A rural district in Surrey covering the market town of Oxted and the North Downs, with commuter villages close to the M25.",
+      "category": "Region",
+      "order": 9
+    },
+    {
+      "name": "Waverley",
+      "latitude": 51.158282,
+      "longitude": -0.631095,
+      "description": "A district in Surrey covering the market town of Farnham and villages around Guildford's countryside, known for its Georgian architecture and the Surrey Hills.",
+      "category": "Region",
+      "order": 10
+    },
+    {
+      "name": "Woking",
+      "latitude": 51.307533,
+      "longitude": -0.555491,
+      "description": "A commuter town in Surrey known for its large Muslim heritage community and the Shah Jahan Mosque, one of the first purpose-built mosques in Britain.",
+      "category": "Region",
+      "order": 11
+    }
+  ]
+}

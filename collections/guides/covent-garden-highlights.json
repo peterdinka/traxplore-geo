@@ -1,0 +1,83 @@
+{
+  "id": "covent-garden-highlights",
+  "name": "Covent Garden Highlights",
+  "type": "Walking Tour",
+  "city": "London",
+  "country": "United Kingdom",
+  "description": "A leisurely walk through one of London's most beloved neighbourhoods — from the grand piazza and its street performers to hidden courtyards, independent shops, and centuries-old churches. Perfect for a weekend morning.",
+  "coverImageURL": "https://images.unsplash.com/photo-1653476493766-596ce6920cd6?q=80&w=3087&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "durationEstimate": "1.5–2 hours",
+  "order": 1,
+  "published": true,
+  "stops": [
+    {
+      "title": "Covent Garden Piazza",
+      "order": 1,
+      "day": 1,
+      "narrative": "The heart of Covent Garden, this grand piazza has been London's main marketplace since the 17th century. Designed by Inigo Jones in 1630, it was the city's first planned square. Today it buzzes with street performers, boutique shops, and the magnificent Victorian-era iron-and-glass market building at its centre.",
+      "category": "History",
+      "estimatedMinutes": 20,
+      "practicalTip": "Best visited before 11am to beat the crowds. The Apple Market inside the building has crafts on weekdays and antiques on weekends.",
+      "latitude": 51.5126,
+      "longitude": -0.124,
+      "photos": [
+        "https://images.unsplash.com/photo-1543484623-542877a80db5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1653476493766-596ce6920cd6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1598878492028-1315cf4ecf4a?q=80&w=1637&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "St Paul's Church",
+      "order": 2,
+      "day": 1,
+      "narrative": "Known as the Actors' Church, St Paul's has been linked to the performing arts since the 17th century. Its east portico — the large columned entrance facing the piazza — is an iconic London backdrop and famously the opening scene of My Fair Lady. The peaceful garden behind is one of central London's best-kept secrets.",
+      "category": "Architecture",
+      "estimatedMinutes": 15,
+      "practicalTip": "The church is usually open during the day. Pop inside to see the memorial plaques to actors, writers, and directors.",
+      "latitude": 51.5122,
+      "longitude": -0.1229
+    },
+    {
+      "title": "Neal's Yard",
+      "order": 3,
+      "day": 1,
+      "narrative": "Duck through an easily missed alleyway off Shorts Gardens to find Neal's Yard — a tiny, colourful courtyard that feels like stepping into a different world. Cobblestones, flower boxes, and buildings painted in vivid blues and yellows house wholefood cafés, alternative health shops, and artisan producers. A true hidden gem.",
+      "category": "Culture",
+      "estimatedMinutes": 15,
+      "practicalTip": "Try Neal's Yard Dairy if you're a cheese lover — they stock some of the best British farmhouse cheeses in London.",
+      "latitude": 51.5148,
+      "longitude": -0.1272,
+      "photos": [
+        "https://images.unsplash.com/photo-1606726826514-0386bbb05b5e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1687644618915-473a595eadbb?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1654376837609-2ec4a879ea8f?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Seven Dials",
+      "order": 4,
+      "day": 1,
+      "narrative": "Seven streets radiate out from this distinctive sundial column, creating one of London's most unusual junctions. Built in 1694, the original column was pulled down by a mob in 1773 amid rumours that treasure was buried at its base — it wasn't. The replica you see today was erected in 1989. The surrounding lanes are packed with independent boutiques and restaurants.",
+      "category": "History",
+      "estimatedMinutes": 10,
+      "practicalTip": "Monmouth Street and Earlham Street are worth exploring for independent fashion, bookshops, and coffee.",
+      "latitude": 51.5136,
+      "longitude": -0.1272
+    },
+    {
+      "title": "London Transport Museum",
+      "order": 5,
+      "day": 1,
+      "narrative": "Housed in the old Flower Market building — a magnificent Victorian iron structure — the London Transport Museum traces 200 years of the city's buses, trams, and underground. Even if you skip the museum itself, the building's cast-iron facade and the glimpse of vintage vehicles through the windows make it worth a stop on your walk.",
+      "category": "Architecture",
+      "estimatedMinutes": 25,
+      "practicalTip": "Entry is £21 for adults but free if you return within a year with your ticket. The gift shop sells the iconic London Underground map on everything imaginable.",
+      "latitude": 51.5121,
+      "longitude": -0.1226,
+      "photos": [
+        "https://images.unsplash.com/photo-1582532566794-90cbecbcc8df?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1668297015250-e2f51461d60c?q=80&w=1480&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ]
+}

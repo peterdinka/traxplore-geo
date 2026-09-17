@@ -1,0 +1,52 @@
+{
+  "id": "merseyside",
+  "name": "Merseyside",
+  "description": "Merseyside is a metropolitan county in North West England centred on the River Mersey and the city of Liverpool. It has a strong maritime and industrial heritage and is internationally known for Liverpool's music, football, architecture and cultural influence.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1599829174021-4b57637d5336?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Knowsley",
+      "latitude": 53.42523,
+      "longitude": -2.833006,
+      "description": "A district on Liverpool's eastern edge, home to Knowsley Safari Park and the historic Knowsley Hall, ancestral seat of the Earls of Derby.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Liverpool",
+      "latitude": 53.400878,
+      "longitude": -2.913378,
+      "description": "A major port city on the Mersey famous as the birthplace of The Beatles, with a UNESCO-recognised waterfront and a fiercely proud maritime and musical heritage.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Sefton",
+      "latitude": 53.568392,
+      "longitude": -2.99334,
+      "description": "A coastal district in Merseyside covering the seaside resort of Southport and the dune-backed beaches near Formby, home to a rare red squirrel population.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "St. Helens",
+      "latitude": 53.458393,
+      "longitude": -2.700854,
+      "description": "A former glass-manufacturing town in Merseyside, home to Pilkington Glass and a strong rugby league tradition.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Wirral",
+      "latitude": 53.369594,
+      "longitude": -3.078795,
+      "description": "A peninsula in Merseyside between the Mersey and Dee estuaries, combining seaside towns like New Brighton with commuter suburbs facing Liverpool across the water.",
+      "category": "Region",
+      "order": 5
+    }
+  ]
+}

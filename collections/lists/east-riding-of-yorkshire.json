@@ -1,0 +1,28 @@
+{
+  "id": "east-riding-of-yorkshire",
+  "name": "East Riding of Yorkshire",
+  "description": "East Riding of Yorkshire is a largely rural county surrounding Hull and stretching from the Yorkshire Wolds to the North Sea coast. It is known for fertile agricultural land, dramatic coastal scenery and historic market towns such as Beverley.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1655333080261-3a49c1533ab1?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "East Riding of Yorkshire",
+      "latitude": 53.873974,
+      "longitude": -0.477992,
+      "description": "A large rural district covering the Yorkshire Wolds' chalk hills and coastal towns, with the historic market town of Beverley at its heart.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "City of Kingston upon Hull",
+      "latitude": 53.766404,
+      "longitude": -0.332002,
+      "description": "A port city on the Humber estuary, historically built on fishing and maritime trade, and birthplace of anti-slavery campaigner William Wilberforce.",
+      "category": "Region",
+      "order": 2
+    }
+  ]
+}

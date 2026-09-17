@@ -1,0 +1,20 @@
+{
+  "id": "cornwall",
+  "name": "Cornwall",
+  "description": "Cornwall is a distinctive coastal county at the south-western tip of England, famous for dramatic cliffs, sandy beaches and rugged moorland. Its Celtic heritage, fishing communities, tourism and strong regional identity make it one of England's most recognisable counties.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1546085778-854f30251885?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Cornwall",
+      "latitude": 50.445035,
+      "longitude": -4.956615,
+      "description": "England's southwesternmost county, a peninsula of dramatic Atlantic coastline, fishing villages, and a distinct Celtic identity with its own language. Home to St Michael's Mount, the Eden Project, and some of Britain's best surfing beaches.",
+      "category": "County",
+      "order": 1
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "uk-train-stations",
+  "name": "UK Train Stations",
+  "description": "Every National Rail station in Great Britain — 2,608 of them, from Abbey Wood to Ynyswen. England, Scotland and Wales.",
+  "country": "United Kingdom",
+  "location": "Great Britain",
+  "order": 1,
+  "published": false,
+  "dataSourceURL": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/uk-railway-stations-main/stations.json"
+}

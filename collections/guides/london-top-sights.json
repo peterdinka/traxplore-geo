@@ -1,0 +1,361 @@
+{
+  "id": "london-top-sights",
+  "name": "London Top Sights",
+  "type": "Multiple Days",
+  "city": "London",
+  "country": "United Kingdom",
+  "description": "London in four days, no filler. From Buckingham Palace's Changing of the Guard to the Tower of London's ravens, Westminster Abbey where monarchs have been crowned since 1066, and the Prime Meridian line that set the world's clocks, this route strings together the capital's essential sights into a walkable, first-timer-friendly itinerary — with the history worth knowing built into every stop.",
+  "coverImageURL": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1770&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "durationEstimate": "4 days",
+  "order": 1,
+  "published": true,
+  "stops": [
+    {
+      "title": "Buckingham Palace",
+      "order": 1,
+      "day": 1,
+      "narrative": "The Royal Family's official London residence since Queen Victoria moved in in 1837 — the first monarch to do so. Originally built as Buckingham House for the Duke of Buckingham in 1703, then bought by George III in 1761 as a private residence for Queen Charlotte, nicknamed 'The Queen's House.' The famous balcony, used for Trooping the Colour flypasts, wasn't part of the original design — it was added during John Nash's 19th-century remodel. The palace has 775 rooms, and the Royal Standard flies above it only when the monarch is in residence.",
+      "category": "History",
+      "estimatedMinutes": 60,
+      "practicalTip": "Changing of the Guard runs at 11am on alternate days (check the official schedule) — arrive 30-45 minutes early for a good spot at the railings.",
+      "latitude": 51.501364,
+      "longitude": -0.14189,
+      "photos": [
+        "https://images.unsplash.com/photo-1556821862-33ec0be5c2c0?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1661626831134-45922244d262?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1682129040258-9fb699614d74?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "St James's Park",
+      "order": 2,
+      "day": 1,
+      "narrative": "London's oldest Royal Park, drained from marshland in the 16th century on the orders of Henry VIII, who used the land as a deer park attached to St James's Palace. The resident pelicans have an odd diplomatic backstory: the first pair arrived in 1664 as a gift from the Russian ambassador, and the tradition of Russian pelican gifts has continued on and off ever since. The bridge across the lake gives one of the best photo angles in London — Buckingham Palace to the west, the Whitehall and Shard skyline to the east.",
+      "category": "Nature",
+      "estimatedMinutes": 30,
+      "practicalTip": "Free and open 24 hours — a good spot to catch your breath between Buckingham Palace and Westminster.",
+      "latitude": 51.502967,
+      "longitude": -0.1339534,
+      "photos": [
+        "https://images.unsplash.com/photo-1630208208637-d553a59d1632?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1647876761805-422beec62cb4?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1716301775330-9d9c2e76da1f?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Westminster Abbey",
+      "order": 3,
+      "day": 1,
+      "narrative": "A Gothic masterpiece and the setting for every coronation since William the Conqueror's in 1066, with the sole exceptions of Edward V and Edward VIII. Also the venue for 16 royal weddings, including Prince William and Catherine Middleton in 2011. Poets' Corner holds memorials to Chaucer, Dickens, and Austen, while the Coronation Chair — commissioned in 1296 — has been used at every coronation since, including King Charles III's in 2023. It's technically a 'Royal Peculiar,' answering directly to the monarch rather than to any bishop.",
+      "category": "Architecture",
+      "estimatedMinutes": 75,
+      "practicalTip": "Book timed entry online in advance — queues without a pre-booked ticket can run over an hour.",
+      "latitude": 51.4993695,
+      "longitude": -0.1272993,
+      "photos": [
+        "https://images.unsplash.com/photo-1534011640498-530cfd0e854a?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1633094625975-1b70f1ccf1df?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1658582473006-187832f21712?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Big Ben & Houses of Parliament",
+      "order": 4,
+      "day": 1,
+      "narrative": "The Palace of Westminster has stood on this site since the 11th century, though most of what you see today dates from the 1840s-1870s rebuild after a catastrophic 1834 fire destroyed the original palace. Big Ben is technically only the Great Bell inside the tower — the tower itself was renamed Elizabeth Tower in 2012 for the Queen's Diamond Jubilee. The bell cracked during testing in 1857 and again in 1859, leaving the distinctive off-key chime still heard today.",
+      "category": "Architecture",
+      "estimatedMinutes": 20,
+      "practicalTip": "Best photos are from Westminster Bridge — cross to the London Eye side for the classic postcard shot with the Thames in frame.",
+      "latitude": 51.4994794,
+      "longitude": -0.1248092,
+      "photos": [
+        "https://images.unsplash.com/photo-1532219362275-a1cbe9dc3602?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1674738675757-4bfc2b2e1fad?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1512734099960-65a682cbfe2b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Churchill War Rooms",
+      "order": 5,
+      "day": 1,
+      "narrative": "The underground bunker complex beneath Whitehall where Winston Churchill and his War Cabinet directed Britain's WWII strategy from 1939 to 1945. Everything was left almost exactly as it was on the day the lights were switched off — sugar cubes, pinned convoy maps, even a lump of sugar allegedly saved by a secretary as a wartime souvenir. Churchill rarely slept here, preferring his own flat above ground, but the Cabinet Room hosted 115 meetings during the war.",
+      "category": "History",
+      "estimatedMinutes": 90,
+      "practicalTip": "Book online in advance — timed tickets sell out, especially in summer. Budget at least 90 minutes with the audio guide.",
+      "latitude": 51.5021585,
+      "longitude": -0.1293572,
+      "photos": [
+        "https://images.unsplash.com/photo-1713700743303-8e52427cf872?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1581279218313-43c08e086a6b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "London Eye",
+      "order": 6,
+      "day": 1,
+      "narrative": "At 135 metres, it was the world's tallest Ferris wheel when it opened for the millennium in 2000, and remains Europe's tallest cantilevered observation wheel. Each of its 32 sealed capsules represents a London borough, though none is officially numbered '13' — a nod to superstition. On a clear day, visibility stretches up to 40km, taking in Windsor Castle to the west.",
+      "category": "Culture",
+      "estimatedMinutes": 45,
+      "practicalTip": "Book a sunset slot in advance — they're the most popular and sell out first. A full rotation takes about 30 minutes.",
+      "latitude": 51.5031864,
+      "longitude": -0.1195192,
+      "photos": [
+        "https://images.unsplash.com/photo-1633912343155-6073bc1075e9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1611078214787-8095d414314e?q=80&w=1070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1598710868982-98556cbc2631?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Tower of London",
+      "order": 7,
+      "day": 2,
+      "narrative": "Founded by William the Conqueror in 1066 as a statement of Norman power over a freshly conquered city — the White Tower at its centre is nearly 1,000 years old. It's served as a royal palace, an armoury, a mint, and most infamously a prison and execution site: Anne Boleyn and Catherine Howard were both beheaded within its walls. Legend holds the kingdom will fall if its resident ravens ever leave, so Charles II decreed a minimum of six be kept at all times. The Crown Jewels held here include the Cullinan I diamond, at 530 carats the largest clear-cut diamond in the world.",
+      "category": "History",
+      "estimatedMinutes": 150,
+      "practicalTip": "Allow at least 2.5 hours. Join a free Yeoman Warder (Beefeater) tour — included in admission and the best way to hear the stories properly.",
+      "latitude": 51.5081124,
+      "longitude": -0.0759493,
+      "photos": [
+        "https://images.unsplash.com/photo-1576408169293-7d2d456717d3?q=80&w=1664&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1678739815865-4cc92aaf635a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1718788426912-68eb8b8c6ec3?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Tower Bridge",
+      "order": 8,
+      "day": 2,
+      "narrative": "Frequently mistaken for London Bridge, which sits plainly one bridge upstream, Tower Bridge is the ornate Victorian Gothic bascule bridge completed in 1894 to relieve congestion while still allowing tall ships to pass. Its twin towers conceal a lifting mechanism, steam-powered until 1976, that could raise the roadway to 86 degrees in about a minute. It still opens for river traffic today, around 800 times a year.",
+      "category": "Architecture",
+      "estimatedMinutes": 30,
+      "practicalTip": "The bridge is free to walk across; pay only if you want the glass-floor walkway and engine rooms exhibition.",
+      "latitude": 51.5054564,
+      "longitude": -0.0753565,
+      "photos": [
+        "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1543832923-44667a44c804?q=80&w=1644&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1592575296126-78f7f9338279?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Borough Market",
+      "order": 9,
+      "day": 2,
+      "narrative": "One of London's oldest markets, with trading recorded on or near this site as far back as the 12th century — older than Westminster Abbey's current building. It survived the construction of London Bridge station literally overhead, the market now tucked partly beneath Victorian railway arches. Today it's less a survivor of history and more a genuine food destination, but the wrought-iron and glass structure still carries its 1851 bones.",
+      "category": "Culture",
+      "estimatedMinutes": 60,
+      "practicalTip": "Go hungry — this is a lunch stop, not a snack stop. Closed Mondays, quietest first thing on weekday mornings.",
+      "latitude": 51.5055826,
+      "longitude": -0.0904808,
+      "photos": [
+        "https://images.unsplash.com/photo-1679966395114-671e12f3a54d?q=80&w=1658&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1662714194223-7afefe9417a3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1662714216258-44852ccedfeb?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Shakespeare's Globe",
+      "order": 10,
+      "day": 2,
+      "narrative": "A faithful reconstruction, opened in 1997, of the open-air playhouse where Shakespeare's own company performed many of his works from 1599. The original burned down in 1613 when a cannon shot during a performance of Henry VIII set the thatched roof alight — remarkably, the only recorded casualty was a man whose burning breeches were put out with a bottle of ale. Today's Globe sits about 230 metres from the original site and is the only building in London permitted a thatched roof since the Great Fire of 1666.",
+      "category": "Culture",
+      "estimatedMinutes": 45,
+      "practicalTip": "Standing 'groundling' tickets in the yard are the cheapest way in and closest to how Elizabethan audiences experienced it — just be ready to stand the whole performance.",
+      "latitude": 51.508076,
+      "longitude": -0.097194,
+      "photos": [
+        "https://images.unsplash.com/photo-1646643259199-534d89fed202?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "St Paul's Cathedral",
+      "order": 11,
+      "day": 2,
+      "narrative": "Christopher Wren's masterpiece, completed in 1710 as the fifth cathedral on this site since 604 AD, built after the Great Fire of London destroyed its Gothic predecessor. Its dome — one of the largest in the world — became a symbol of British resilience when photos of it standing defiant amid the smoke of the Blitz circulated worldwide in December 1940. Wren himself is buried in the crypt beneath a simple Latin epitaph that translates: 'If you seek his monument, look around you.'",
+      "category": "Architecture",
+      "estimatedMinutes": 60,
+      "practicalTip": "Climb to the Whispering Gallery if you can manage 257 steps — whisper against the wall and it carries clearly to the other side, 34 metres away.",
+      "latitude": 51.5138453,
+      "longitude": -0.0983506,
+      "photos": [
+        "https://images.unsplash.com/photo-1532444143931-9f60a76242e7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1626000815090-7d5c2cfaeda6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1667229031816-81d3739199fe?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Millennium Bridge",
+      "order": 12,
+      "day": 2,
+      "narrative": "London's first new Thames crossing in over a century when it opened in June 2000 — and it lasted just three days before wobbling so alarmingly underfoot that it was closed for nearly two years of retrofitting. The synchronised sway, caused by pedestrians unconsciously matching footsteps to the bridge's motion, earned it the enduring nickname 'the wobbly bridge' even though the fix has long since worked.",
+      "category": "Architecture",
+      "estimatedMinutes": 20,
+      "practicalTip": "Golden hour gives the best shot in either direction — St Paul's dome one way, Tate Modern's chimney the other.",
+      "latitude": 51.5095291,
+      "longitude": -0.0985425,
+      "photos": [
+        "https://images.unsplash.com/photo-1690947930650-4b9dc90ee2f6?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1577229846672-ce3b93d35c26?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1627980366329-5231302fa049?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "British Museum",
+      "order": 13,
+      "day": 3,
+      "narrative": "Founded in 1753 from the personal collection of physician Sir Hans Sloane, it was the first national public museum in the world and remains free to enter. The Rosetta Stone, acquired in 1802, carries the same decree in three scripts — Greek, Demotic, and hieroglyphic — and was the key that let scholars finally decode ancient Egyptian writing in 1822. The Parthenon Marbles, taken from Athens in the early 1800s by Lord Elgin, remain one of the museum's most disputed holdings, with Greece continuing to request their return.",
+      "category": "Culture",
+      "estimatedMinutes": 150,
+      "practicalTip": "Book a free timed entry slot online. Head straight for the Egyptian and Parthenon galleries before 11am to beat tour groups.",
+      "latitude": 51.5194133,
+      "longitude": -0.1269566,
+      "photos": [
+        "https://images.unsplash.com/photo-1577729507926-78897cc4de05?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1707657282066-73137e51af56?q=80&w=2266&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1534235826754-0a3572d1d6d5?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Covent Garden Piazza",
+      "order": 14,
+      "day": 3,
+      "narrative": "London's first planned square, laid out in 1630 by architect Inigo Jones for the Earl of Bedford, modelled on the Italian piazzas he'd admired on his travels. It began as a fruit and vegetable market before the market moved to Nine Elms in 1974 and the space reinvented itself as a hub for street performance and shopping. Buskers here are hand-selected through an audition process — one of the few formally regulated street performance pitches in the world.",
+      "category": "History",
+      "estimatedMinutes": 60,
+      "practicalTip": "Street performances run on a strict half-hourly schedule at the West Piazza — worth timing your coffee stop around it.",
+      "latitude": 51.5122737,
+      "longitude": -0.1234492,
+      "photos": [
+        "https://images.unsplash.com/photo-1662714214932-5b2085dddc38?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1686863461326-5cd6893f0684?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1756934535926-bb6363c535c9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Trafalgar Square",
+      "order": 15,
+      "day": 3,
+      "narrative": "Laid out in the 1840s to commemorate Britain's 1805 naval victory over Napoleon's combined French and Spanish fleet at the Battle of Trafalgar. Nelson's Column stands 52 metres tall, the admiral looking permanently toward the English Channel and the battle he didn't survive. The Fourth Plinth, originally intended for a royal statue that was never funded, has hosted rotating contemporary art commissions since 1999.",
+      "category": "History",
+      "estimatedMinutes": 30,
+      "practicalTip": "The National Gallery on the north side is free and holds one of the world's great collections — even a quick hour is worthwhile if you're already here.",
+      "latitude": 51.508039,
+      "longitude": -0.128069,
+      "photos": [
+        "https://images.unsplash.com/photo-1668860707686-b51826f68e69?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1610813328519-0ade655c40c1?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1594675735522-b5832e83144c?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Soho & Chinatown",
+      "order": 16,
+      "day": 3,
+      "narrative": "Soho's name likely comes from a 17th-century hunting cry — 'Soho!' — shouted across what was then open fields used for royal hunts. It became London's bohemian quarter through the 19th and 20th centuries, home to jazz clubs, publishing houses, and a film industry that still clusters on Wardour Street. Chinatown, on Gerrard Street, only took its current form in the 1970s after the original docklands Chinese community relocated west — the ornate gates and lanterns came later, but the food has been the draw since day one.",
+      "category": "Culture",
+      "estimatedMinutes": 60,
+      "practicalTip": "Berwick Street Market is good for a wander, and the neon-lit stretch of Gerrard Street is at its best after dark.",
+      "latitude": 51.5136143,
+      "longitude": -0.1365486,
+      "photos": [
+        "https://images.unsplash.com/photo-1662714215474-acc0a5d94bba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1543691110-1c7d6b1927f6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1585585587066-e55ad05bb1a4?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "West End Show",
+      "order": 17,
+      "day": 3,
+      "narrative": "London's West End has staged professional theatre since the 17th century, and today rivals Broadway as the world's most prestigious commercial theatre district, with around 40 venues packed into a few streets around Shaftesbury Avenue. Leicester Square sits at its heart — the half-price TKTS booth here, run by the Society of London Theatre, is the only official same-day discount outlet in the city.",
+      "category": "Culture",
+      "estimatedMinutes": 150,
+      "practicalTip": "Book ahead for popular shows, but the official TKTS booth in Leicester Square is worth checking for same-day deals — avoid unofficial resellers nearby.",
+      "latitude": 51.510359,
+      "longitude": -0.1300625,
+      "photos": [
+        "https://images.unsplash.com/photo-1758884085332-876824194c9c?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1766049819294-49972fbc03da?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1498683656341-d8e0f5958001?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Cutty Sark & Greenwich",
+      "order": 18,
+      "day": 4,
+      "narrative": "The Cutty Sark is the last surviving tea clipper of her kind, built in 1869 for the brutal China tea trade, where the fastest ship home each season commanded the best prices. She was later repurposed for the wool trade from Australia once steamships made clippers obsolete. A 2007 fire nearly destroyed her during restoration; most of her original timbers had thankfully been removed for conservation work at the time. She's now dry-docked and raised, letting visitors walk beneath her hull.",
+      "category": "History",
+      "estimatedMinutes": 60,
+      "practicalTip": "Combine with a wander up the hill to the Observatory — a steep but short climb with views back over the ship and the Thames.",
+      "latitude": 51.4828646,
+      "longitude": -0.0095917,
+      "photos": [
+        "https://images.unsplash.com/photo-1509470689623-172815263c57?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1557822477-ec8d8bbbcd2a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1706829114032-22592965ef1e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Prime Meridian Line",
+      "order": 19,
+      "day": 4,
+      "narrative": "The line marking 0° longitude, adopted as the world's international standard at the 1884 International Meridian Conference — before that, dozens of countries used their own reference points, making international navigation and timekeeping a genuine mess. It was chosen partly because, by the 1880s, most of the world's shipping already used British Admiralty charts referenced to Greenwich. Stand astride the marked line and you're straddling the Eastern and Western Hemispheres simultaneously.",
+      "category": "History",
+      "estimatedMinutes": 45,
+      "practicalTip": "Standing on the meridian line itself is free in the courtyard; you only pay to go inside the observatory buildings.",
+      "latitude": 51.476853,
+      "longitude": -0.0005002,
+      "photos": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg/3840px-Tourists_taking_pictures_at_Prime_Meridian_monument%2C_Greenwich_Observatory%2C_London.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "https://upload.wikimedia.org/wikipedia/commons/f/f3/Britannica_Figure_of_the_Earth.jpg?utm_source=en.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+      ]
+    },
+    {
+      "title": "Greenwich Market",
+      "order": 20,
+      "day": 4,
+      "narrative": "Trading under royal charter since 1700, when William III granted market rights to the Greenwich Hospital estate. The current covered market hall dates from the 1830s, though it's been rebuilt and extended since. It's smaller and more locally minded than Borough or Camden, known for independent craft stalls and street food rather than big-name vendors.",
+      "category": "Culture",
+      "estimatedMinutes": 60,
+      "practicalTip": "Good lunch stop before heading back into central London — quieter on weekdays than the weekend crowds.",
+      "latitude": 51.4812937,
+      "longitude": -0.0088082,
+      "photos": [
+        "https://images.unsplash.com/photo-1686051371029-be67f7fcbe3d?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1697656359687-da3343a77fc5?q=80&w=995&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Tate Modern",
+      "order": 21,
+      "day": 4,
+      "narrative": "Housed in the former Bankside Power Station, a Sir Giles Gilbert Scott-designed building that generated electricity for London until 1981 and sat derelict for over a decade before its 2000 conversion into Britain's national gallery of modern and contemporary art. The cavernous Turbine Hall, once home to the station's generators, now hosts vast rotating installations that have included Olafur Eliasson's giant indoor sun and Ai Weiwei's field of 100 million porcelain sunflower seeds.",
+      "category": "Culture",
+      "estimatedMinutes": 90,
+      "practicalTip": "The permanent collection is free; the viewing level near the top has one of the best free skyline views in London.",
+      "latitude": 51.5075953,
+      "longitude": -0.0993564,
+      "photos": [
+        "https://images.unsplash.com/photo-1671668943401-c296f0009358?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1636403034061-f6f09b51bc36?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1730987106598-1e211f6c9c71?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Camden Lock Market",
+      "order": 22,
+      "day": 4,
+      "narrative": "Grew from a single weekend crafts market in 1974 into one of London's largest markets, now spanning several interconnected sites along the Regent's Canal. Camden Lock itself refers to the actual canal lock built in 1820 as part of the Regent's Canal, which once carried goods rather than tourists. The area's alternative, punk-rock reputation dates to the 1970s and 80s music scene that grew up around Camden's pubs and clubs — Amy Winehouse lived nearby and is commemorated with a statue in Camden Stables Market.",
+      "category": "Culture",
+      "estimatedMinutes": 90,
+      "practicalTip": "Explore Stables Market too, a few minutes further along — less crowded than the main Lock Market with a similar mix of food and vintage finds.",
+      "latitude": 51.5411853,
+      "longitude": -0.1462467,
+      "photos": [
+        "https://images.unsplash.com/photo-1527596615124-8b23ab91882f?q=80&w=1622&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1561566302-67abce51c2c3?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1705113509833-2445b5c13c45?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ]
+}

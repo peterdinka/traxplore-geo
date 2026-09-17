@@ -1,0 +1,76 @@
+{
+  "id": "leicestershire",
+  "name": "Leicestershire",
+  "description": "Leicestershire is a centrally located county in the East Midlands, combining productive farmland with a network of market towns. Leicester is the dominant urban centre, while the county is also known for its multicultural heritage, industrial history and association with the National Forest.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1555356247-48be98c748d1?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Melton",
+      "latitude": 52.811805,
+      "longitude": -0.855371,
+      "description": "A rural district in Leicestershire centred on Melton Mowbray, famous as the home of the pork pie and a historic centre of Stilton cheese production.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Hinckley and Bosworth",
+      "latitude": 52.608148,
+      "longitude": -1.385528,
+      "description": "A district in Leicestershire named for the market town of Hinckley and the site of the 1485 Battle of Bosworth Field, where Richard III was killed and the Tudor dynasty began.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Blaby",
+      "latitude": 52.578789,
+      "longitude": -1.199263,
+      "description": "A small district in Leicestershire just southwest of Leicester city, largely suburban and semi-rural. Best known locally for Fosse Park, one of the region's largest retail and leisure parks.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Charnwood",
+      "latitude": 52.739277,
+      "longitude": -1.14116,
+      "description": "A district in Leicestershire named for Charnwood Forest, an ancient upland landscape, and home to the university town of Loughborough.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Harborough",
+      "latitude": 52.538554,
+      "longitude": -1.0097,
+      "description": "A rural district in Leicestershire around the market town of Market Harborough, known for its well-preserved Georgian high street.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Leicester",
+      "latitude": 52.636077,
+      "longitude": -1.1311,
+      "description": "A historic city in the East Midlands where the remains of King Richard III were famously discovered beneath a car park in 2012. Home to significant Roman heritage sites and one of Britain's most diverse populations.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "North West Leicestershire",
+      "latitude": 52.770501,
+      "longitude": -1.422348,
+      "description": "A district covering former coalfield towns like Coalville alongside the National Forest, and home to East Midlands Airport.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Oadby and Wigston",
+      "latitude": 52.587119,
+      "longitude": -1.092944,
+      "description": "A small suburban district on Leicester's southern edge, largely residential with a mix of Victorian terraces and green space.",
+      "category": "Region",
+      "order": 8
+    }
+  ]
+}

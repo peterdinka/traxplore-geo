@@ -1,0 +1,84 @@
+{
+  "id": "derbyshire",
+  "name": "Derbyshire",
+  "description": "Derbyshire is a county in the East Midlands known for its varied countryside, including the dramatic landscapes of the Peak District. Derby is its principal city, while towns such as Chesterfield and Buxton reflect the county's industrial and market-town heritage.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1587971758416-a5471af70f07",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Amber Valley",
+      "latitude": 53.029068,
+      "longitude": -1.458773,
+      "description": "A district in Derbyshire named for the River Amber, covering former mill and mining towns including Belper, a UNESCO World Heritage mill town on the Derwent.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Erewash",
+      "latitude": 52.937989,
+      "longitude": -1.359141,
+      "description": "A district in Derbyshire covering the towns of Ilkeston and Long Eaton, historically tied to lace-making and the East Midlands' industrial rail network.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Bolsover",
+      "latitude": 53.196948,
+      "longitude": -1.272378,
+      "description": "A district in Derbyshire named for its dramatic 17th-century castle overlooking former coalfield towns, now reclaimed for green space.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Chesterfield",
+      "latitude": 53.255724,
+      "longitude": -1.392736,
+      "description": "A market town in Derbyshire famous for the twisted spire of its parish church, said to have been warped by either a devil's curse or simple medieval carpentry error.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Derby",
+      "latitude": 52.914617,
+      "longitude": -1.469968,
+      "description": "An industrial city in Derbyshire long associated with Rolls-Royce aero engines and railway engineering, with roots in the world's first factory, Lombe's Silk Mill, built in 1721.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Derbyshire Dales",
+      "latitude": 53.130285,
+      "longitude": -1.706964,
+      "description": "A district covering much of the Peak District's limestone dale country, including the spa town of Matlock Bath and the historic village of Bakewell, famous for its tart.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "High Peak",
+      "latitude": 53.367579,
+      "longitude": -1.843953,
+      "description": "A district in Derbyshire covering the dramatic gritstone edges and moorland of the northern Peak District, including the towns of Buxton and Glossop.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "North East Derbyshire",
+      "latitude": 53.222658,
+      "longitude": -1.440656,
+      "description": "A rural district in Derbyshire on the Peak District's eastern edge, covering former mining villages and market towns like Clay Cross.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "South Derbyshire",
+      "latitude": 52.822333,
+      "longitude": -1.534517,
+      "description": "A largely rural district in southern Derbyshire, home to the National Forest and the market town of Swadlincote, with a landscape shaped by former coalfields now reclaimed for woodland and leisure.",
+      "category": "Region",
+      "order": 8
+    }
+  ]
+}

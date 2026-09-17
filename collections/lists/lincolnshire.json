@@ -1,0 +1,84 @@
+{
+  "id": "lincolnshire",
+  "name": "Lincolnshire",
+  "description": "Lincolnshire is a large, predominantly rural county in eastern England, characterised by fertile farmland, the Lincolnshire Wolds and an extensive North Sea coastline. Lincoln, Boston and Grantham are among its principal towns, with agriculture remaining important to the local economy.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1634585899148-51bb2c55f552?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Boston",
+      "latitude": 52.974769,
+      "longitude": -0.02357,
+      "description": "A market town in Lincolnshire named for St Botolph's, whose towering church spire (locally 'the Stump') can be seen for miles across the flat Fens. The town lent its name to Boston, Massachusetts.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "East Lindsey",
+      "latitude": 53.263895,
+      "longitude": 0.019082,
+      "description": "A large rural district in Lincolnshire covering the seaside resort of Skegness and the wolds countryside, known for its flat coastline and traditional English beach holidays.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Lincoln",
+      "latitude": 53.220422,
+      "longitude": -0.558267,
+      "description": "A cathedral city in Lincolnshire with a hilltop Gothic cathedral once the tallest building in the world, and a well-preserved Norman castle holding an original copy of Magna Carta.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "North East Lincolnshire",
+      "latitude": 53.535709,
+      "longitude": -0.137415,
+      "description": "A district on the Humber estuary covering Grimsby, once the world's largest fishing port, its docks now diversifying into renewable energy.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "North Kesteven",
+      "latitude": 53.072542,
+      "longitude": -0.477019,
+      "description": "A rural district in Lincolnshire south of Lincoln city, characterised by flat farmland, RAF airfield heritage tied to the county's 'Bomber County' legacy, and the market town of Sleaford.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "North Lincolnshire",
+      "latitude": 53.584948,
+      "longitude": -0.577144,
+      "description": "A district around the industrial town of Scunthorpe, historically built on steelmaking, with the Humber estuary forming its northern boundary.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "South Holland",
+      "latitude": 52.790149,
+      "longitude": -0.017314,
+      "description": "A flat, agricultural district in Lincolnshire named for its Fenland landscape, centred on the market town of Spalding, historically famous for tulip growing.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "South Kesteven",
+      "latitude": 52.85006,
+      "longitude": -0.508397,
+      "description": "A district in Lincolnshire centred on the market town of Grantham, birthplace of Margaret Thatcher and Isaac Newton, with Stamford's Georgian stone streets also within its boundary.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "West Lindsey",
+      "latitude": 53.397617,
+      "longitude": -0.475946,
+      "description": "A rural district in Lincolnshire centred on the cathedral city of Lincoln's northern outskirts, and the historic market town of Gainsborough on the River Trent.",
+      "category": "Region",
+      "order": 9
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "northamptonshire",
+  "name": "Northamptonshire",
+  "description": "Northamptonshire is a centrally located county in the East Midlands known for rolling countryside, historic market towns and a long association with shoemaking. Northampton and Kettering are major population centres, while its position near major motorways gives it an important logistics role.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://commons.wikimedia.org/wiki/File:Castle_Ashby_House,_Northamptonshire.jpg",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "East Northamptonshire",
+      "latitude": 52.448528,
+      "longitude": -0.508243,
+      "description": "A former rural district in Northamptonshire covering market towns like Oundle, known for its well-preserved stone architecture.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Daventry",
+      "latitude": 52.310285,
+      "longitude": -1.035227,
+      "description": "A market town in Northamptonshire with a history as a coaching stop on the road between London and the Midlands, now known for its reservoir and country park.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Wellingborough",
+      "latitude": 52.277957,
+      "longitude": -0.714281,
+      "description": "A market town in Northamptonshire with a long history in the boot and shoe trade, sitting along the River Nene in the county's industrial heartland.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Corby",
+      "latitude": 52.506541,
+      "longitude": -0.702174,
+      "description": "A town in Northamptonshire shaped by 20th-century steelmaking and a strong Scottish immigrant community drawn by industrial jobs, earning it the nickname 'Little Scotland.'",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Kettering",
+      "latitude": 52.437686,
+      "longitude": -0.760028,
+      "description": "A market town in Northamptonshire historically tied to the boot and shoe trade, sitting amid rolling countryside near Rockingham Castle.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Northampton",
+      "latitude": 52.234391,
+      "longitude": -0.881205,
+      "description": "The county town of Northamptonshire, historically the centre of England's shoemaking industry, with a heritage still celebrated at the town's shoe museum.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "South Northamptonshire",
+      "latitude": 52.11837,
+      "longitude": -1.018704,
+      "description": "A rural district of honey-coloured stone villages in Northamptonshire, home to Silverstone Circuit, the historic home of the British Grand Prix.",
+      "category": "Region",
+      "order": 7
+    }
+  ]
+}

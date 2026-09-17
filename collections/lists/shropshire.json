@@ -1,0 +1,28 @@
+{
+  "id": "shropshire",
+  "name": "Shropshire",
+  "description": "Shropshire is a large, predominantly rural county on the Welsh border, known for rolling hills, historic towns and the Shropshire Hills. Shrewsbury is the principal town, while Telford provides the county's largest modern urban and industrial centre.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1638804814328-672eee8b6246?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Shropshire",
+      "latitude": 52.652331,
+      "longitude": -2.73422,
+      "description": "A large, rural county on the Welsh border, home to Ironbridge Gorge — the birthplace of the Industrial Revolution and a UNESCO World Heritage Site — alongside rolling hills and market towns like Shrewsbury and Ludlow.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Telford and Wrekin",
+      "latitude": 52.721478,
+      "longitude": -2.489787,
+      "description": "A New Town in Shropshire built around historic villages, named for engineer Thomas Telford, sitting near the Wrekin hill and the Ironbridge Gorge birthplace of industry.",
+      "category": "Region",
+      "order": 2
+    }
+  ]
+}

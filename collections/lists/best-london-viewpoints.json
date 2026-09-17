@@ -1,0 +1,25 @@
+{
+  "id": "best-london-viewpoints",
+  "name": "Best London Viewpoints",
+  "description": "Rooftops, hilltops and bridges…",
+  "country": "United Kingdom",
+  "location": "London",
+  "coverImageURL": "https://images.unsplash.com/photo-1635106769553-2382c5ab9761?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Primrose Hill",
+      "latitude": 51.5388,
+      "longitude": -0.1604,
+      "description": "Panoramic view over the city…",
+      "category": "Nature",
+      "order": 1,
+      "photos": [
+        "https://images.unsplash.com/photo-1635106769553-2382c5ab9761?q=80&w=2075&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1578245314526-e46137ef5ae7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1688820873303-3e913a2757dc?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ]
+}

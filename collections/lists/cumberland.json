@@ -1,0 +1,36 @@
+{
+  "id": "cumberland",
+  "name": "Cumberland",
+  "description": "Cumberland is a ceremonial county in north-west England created in the 2023 local government reorganisation. It covers much of the western part of the former Cumbria area, including Carlisle and the Solway Coast, with the Lake District forming a major part of its landscape.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1600707430388-c0274cc7e603",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Allerdale",
+      "latitude": 54.704287,
+      "longitude": -3.281477,
+      "description": "A district on Cumbria's northwest coast bordering the Lake District National Park, including the town of Keswick and Derwentwater, one of the region's most photographed lakes.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Carlisle",
+      "latitude": 54.982566,
+      "longitude": -2.806922,
+      "description": "The historic border city of Cumbria, shaped for centuries by conflict between England and Scotland, with a Norman castle and cathedral still standing at its core.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Copeland",
+      "latitude": 54.397781,
+      "longitude": -3.376959,
+      "description": "A coastal district on Cumbria's west coast, home to the market town of Whitehaven and the Sellafield nuclear site, with the western fells of the Lake District rising just inland.",
+      "category": "Region",
+      "order": 3
+    }
+  ]
+}

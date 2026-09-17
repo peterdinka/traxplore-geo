@@ -1,0 +1,20 @@
+{
+  "id": "bristol",
+  "name": "Bristol",
+  "description": "Bristol is a ceremonial county centred on the historic city of Bristol in South West England. The city is a major cultural, economic and educational centre, known for its harbour, creative industries, engineering heritage and distinctive Georgian and Victorian architecture.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1604826720697-31c1b2fd889e",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "City of Bristol",
+      "latitude": 51.470858,
+      "longitude": -2.614408,
+      "description": "A major port city and unitary authority in the West of England, famous for its maritime trading history, the Clifton Suspension Bridge, and a fiercely independent creative and music culture. Once central to the transatlantic slave trade, a history the city has increasingly confronted in recent years.",
+      "category": "City",
+      "order": 1
+    }
+  ]
+}

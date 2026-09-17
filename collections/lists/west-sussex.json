@@ -1,0 +1,68 @@
+{
+  "id": "west-sussex",
+  "name": "West Sussex",
+  "description": "West Sussex is a largely rural and affluent county on the south coast of England, stretching from the South Downs to the English Channel. Chichester, Worthing and Crawley are major centres, while the county is known for its countryside, coastal resorts and historic estates.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1602665170043-001578bd6d31?q=80&w=2920&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Adur",
+      "latitude": 50.846099,
+      "longitude": -0.293428,
+      "description": "A small coastal district in West Sussex covering Shoreham-by-Sea, one of England's oldest ports, with a working harbour and airport.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Arun",
+      "latitude": 50.832035,
+      "longitude": -0.564185,
+      "description": "A coastal district in West Sussex covering Bognor Regis, Littlehampton, and the historic town of Arundel, dominated by its dramatic medieval castle.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Chichester",
+      "latitude": 50.908514,
+      "longitude": -0.715409,
+      "description": "A cathedral city in West Sussex with a well-preserved Roman city wall layout, a Norman cathedral, and a renowned annual arts festival.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Crawley",
+      "latitude": 51.126057,
+      "longitude": -0.194255,
+      "description": "A New Town in West Sussex built after WWII, now best known as the location of Gatwick Airport, England's second-busiest.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Horsham",
+      "latitude": 51.00264,
+      "longitude": -0.38448,
+      "description": "A market town in West Sussex with a well-preserved medieval street pattern, surrounded by the wooded countryside of the Sussex Weald.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Mid Sussex",
+      "latitude": 51.005323,
+      "longitude": -0.102287,
+      "description": "A rural district in West Sussex covering the market town of Haywards Heath and the Ashdown Forest's southern edge.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Worthing",
+      "latitude": 50.83322,
+      "longitude": -0.38964,
+      "description": "A traditional Victorian seaside resort on the West Sussex coast, known for its long pier and mild, sunny climate that gave it the nickname 'sunny Worthing.'",
+      "category": "Region",
+      "order": 7
+    }
+  ]
+}

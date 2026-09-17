@@ -1,0 +1,12 @@
+{
+  "id": "london",
+  "name": "London",
+  "description": "London is the capital and largest city of England and the United Kingdom.",
+  "coverImageURL": "https://images.unsplash.com/photo-1520986606214-8b456906c813?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "published": true,
+  "lists": [
+    "best-london-viewpoints",
+    "london-boroughs",
+    "city-of-london"
+  ]
+}

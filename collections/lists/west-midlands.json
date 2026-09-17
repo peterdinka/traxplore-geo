@@ -1,0 +1,68 @@
+{
+  "id": "west-midlands",
+  "name": "West Midlands",
+  "description": "West Midlands is a metropolitan county centred on Birmingham, Britain's second-largest city. It is a major economic and transport hub with a strong manufacturing heritage, a diverse population and a dense network of surrounding towns and cities.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1587995430048-dff2c324ce2f?q=80&w=2209&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Solihull",
+      "latitude": 52.431101,
+      "longitude": -1.732448,
+      "description": "An affluent town in the West Midlands known for its Touchwood shopping centre and the Land Rover factory that has anchored its economy for decades.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Birmingham",
+      "latitude": 52.494879,
+      "longitude": -1.881253,
+      "description": "England's second-largest city, built on centuries of metalworking and manufacturing, with an extensive canal network and a fast-growing modern skyline.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Coventry",
+      "latitude": 52.414329,
+      "longitude": -1.519203,
+      "description": "A West Midlands city rebuilt after WWII bombing destroyed its medieval cathedral, whose ruins stand beside the striking modern cathedral built alongside them.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Dudley",
+      "latitude": 52.492119,
+      "longitude": -2.101633,
+      "description": "A district in the Black Country, West Midlands, historically central to England's iron and coal industries, with Dudley Castle and Zoo standing above the town.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Sandwell",
+      "latitude": 52.514899,
+      "longitude": -2.007622,
+      "description": "A district in the Black Country, West Midlands, formed from towns including West Bromwich and Oldbury, shaped by heavy industry and metalworking heritage.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Walsall",
+      "latitude": 52.605004,
+      "longitude": -1.975185,
+      "description": "A town in the Black Country historically known as the centre of England's leather goods and saddlery trade, still reflected in its 'Saddlers' football club nickname.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Wolverhampton",
+      "latitude": 52.590912,
+      "longitude": -2.127455,
+      "description": "A city in the West Midlands historically built on lock-making and heavy engineering, home to a striking medieval church and a strong football tradition.",
+      "category": "Region",
+      "order": 7
+    }
+  ]
+}

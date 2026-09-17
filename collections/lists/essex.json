@@ -1,0 +1,124 @@
+{
+  "id": "essex",
+  "name": "Essex",
+  "description": "Essex is a large county north-east of London, combining fertile farmland and attractive rural landscapes with rapidly growing towns and major transport corridors. Chelmsford, Colchester and Southend-on-Sea are among its principal urban centres, while the county's proximity to London strongly influences its economy.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1598109512598-3ac374aeff71?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Thurrock",
+      "latitude": 51.509469,
+      "longitude": 0.375884,
+      "description": "A district in Essex along the Thames Estuary, home to the Lakeside shopping centre and the Dartford Crossing linking Essex to Kent.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Basildon",
+      "latitude": 51.590593,
+      "longitude": 0.471931,
+      "description": "A New Town in Essex built from the 1940s, now one of the county's largest towns, on the Thames Estuary's northern shore.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Braintree",
+      "latitude": 51.918718,
+      "longitude": 0.58092,
+      "description": "A rural district in Essex covering the market town of Braintree, historically known for silk weaving thanks to the Courtauld family's mills.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Brentwood",
+      "latitude": 51.640653,
+      "longitude": 0.294105,
+      "description": "A commuter town in Essex on the edge of London's green belt, historically a coaching stop on the road from London to East Anglia.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Castle Point",
+      "latitude": 51.548034,
+      "longitude": 0.577398,
+      "description": "A district in Essex on the Thames Estuary, covering the towns of Canvey Island and Benfleet, with a landscape shaped by 20th-century sea defences and flood history.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Chelmsford",
+      "latitude": 51.737083,
+      "longitude": 0.489482,
+      "description": "The county town of Essex, granted city status in 2012, historically a centre for radio and electronics innovation with Marconi's early wireless work.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Colchester",
+      "latitude": 51.874477,
+      "longitude": 0.863096,
+      "description": "Britain's oldest recorded town, founded as the Roman capital Camulodunum, with extensive Roman walls and a Norman castle built atop a Roman temple's foundations.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Epping Forest",
+      "latitude": 51.713306,
+      "longitude": 0.163862,
+      "description": "A district in Essex named for the ancient royal hunting forest at its heart, alongside the town of Loughton on London's northeastern fringe.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "Harlow",
+      "latitude": 51.765946,
+      "longitude": 0.111017,
+      "description": "A New Town in Essex built after WWII as one of Britain's first planned 'garden cities,' known for its public sculpture collection and modernist town planning.",
+      "category": "Region",
+      "order": 9
+    },
+    {
+      "name": "Maldon",
+      "latitude": 51.72517,
+      "longitude": 0.769882,
+      "description": "A historic town in Essex on the Blackwater Estuary, known for Maldon sea salt, traditional Thames sailing barges, and the site of the 991 AD Battle of Maldon.",
+      "category": "Region",
+      "order": 10
+    },
+    {
+      "name": "Rochford",
+      "latitude": 51.5885,
+      "longitude": 0.753552,
+      "description": "A district in Essex along the Thames Estuary, covering the town of Rayleigh and Southend Airport, with marshland and countryside toward the coast.",
+      "category": "Region",
+      "order": 11
+    },
+    {
+      "name": "Southend-on-Sea",
+      "latitude": 51.549021,
+      "longitude": 0.722079,
+      "description": "A classic Essex seaside resort on the Thames Estuary, home to the world's longest pleasure pier, stretching well over a mile out to sea.",
+      "category": "Region",
+      "order": 12
+    },
+    {
+      "name": "Tendring",
+      "latitude": 51.864596,
+      "longitude": 1.113844,
+      "description": "A coastal district in Essex covering the resort town of Clacton-on-Sea and the historic 'Sunshine Coast,' including the pretty village of Manningtree.",
+      "category": "Region",
+      "order": 13
+    },
+    {
+      "name": "Uttlesford",
+      "latitude": 51.929987,
+      "longitude": 0.293666,
+      "description": "A rural district in Essex covering Stansted Airport and the historic wool town of Saffron Walden, known for its maze of medieval streets.",
+      "category": "Region",
+      "order": 14
+    }
+  ]
+}

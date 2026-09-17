@@ -1,0 +1,52 @@
+{
+  "id": "warwickshire",
+  "name": "Warwickshire",
+  "description": "Warwickshire is a historic county in the West Midlands famous for its connections to William Shakespeare and the town of Stratford-upon-Avon. It combines fertile countryside with historic towns such as Warwick and industrial centres such as Nuneaton and Rugby.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1630137183012-de22960cbc85?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "North Warwickshire",
+      "latitude": 52.56135,
+      "longitude": -1.624236,
+      "description": "A rural district in Warwickshire mixing former coalfield villages with open countryside, sitting close to the historic town of Atherstone.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Nuneaton and Bedworth",
+      "latitude": 52.501017,
+      "longitude": -1.479509,
+      "description": "A former mining and textile district in Warwickshire, birthplace of novelist George Eliot, who drew heavily on the local landscape in her writing.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Rugby",
+      "latitude": 52.393592,
+      "longitude": -1.318569,
+      "description": "A market town in Warwickshire that gave its name to rugby football, said to have been invented at Rugby School in 1823 when a pupil picked up the ball and ran with it.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Stratford-on-Avon",
+      "latitude": 52.161716,
+      "longitude": -1.596844,
+      "description": "A district in Warwickshire built around the market town of Stratford-upon-Avon, birthplace of William Shakespeare and home to the Royal Shakespeare Company.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Warwick",
+      "latitude": 52.301494,
+      "longitude": -1.593133,
+      "description": "The county town of Warwickshire, dominated by Warwick Castle, one of England's best-preserved medieval fortresses, now a major visitor attraction.",
+      "category": "Region",
+      "order": 5
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "cambridgeshire",
+  "name": "Cambridgeshire",
+  "description": "Cambridgeshire is a predominantly flat county in the East of England, famous for its fenlands, waterways and agricultural landscape. Cambridge is its principal city and an internationally renowned centre for education, science, technology and research.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1706957854660-ff096ba1f758",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "East Cambridgeshire",
+      "latitude": 52.335007,
+      "longitude": 0.274426,
+      "description": "A rural district covering the cathedral city of Ely, whose Norman cathedral rises dramatically above the flat Fenland landscape, nicknamed 'the Ship of the Fens.'",
+      "category": "District",
+      "order": 1
+    },
+    {
+      "name": "Cambridge",
+      "latitude": 52.197573,
+      "longitude": 0.126567,
+      "description": "A university city on the River Cam, world-famous for its historic colleges, chapel architecture, and the tradition of punting along the Backs behind King's College.",
+      "category": "City",
+      "order": 2
+    },
+    {
+      "name": "South Cambridgeshire",
+      "latitude": 52.179545,
+      "longitude": 0.093015,
+      "description": "A rural district ringing Cambridge city, made up of villages and farmland, with the American Cemetery at Madingley among its notable sites.",
+      "category": "District",
+      "order": 3
+    },
+    {
+      "name": "Fenland",
+      "latitude": 52.562857,
+      "longitude": 0.019204,
+      "description": "A flat, rural district in Cambridgeshire covering the Fens, reclaimed marshland now some of England's most fertile farmland, and the market town of Wisbech.",
+      "category": "District",
+      "order": 4
+    },
+    {
+      "name": "Huntingdonshire",
+      "latitude": 52.371001,
+      "longitude": -0.224286,
+      "description": "A district in Cambridgeshire around the market town of Huntingdon, birthplace of Oliver Cromwell, with the riverside town of St Ives nearby.",
+      "category": "District",
+      "order": 5
+    },
+    {
+      "name": "Peterborough",
+      "latitude": 52.59065,
+      "longitude": -0.255261,
+      "description": "A cathedral city in Cambridgeshire with a striking Norman cathedral at its centre, transformed into a major New Town in the 1960s and now a growing commercial hub.",
+      "category": "City",
+      "order": 6
+    }
+  ]
+}

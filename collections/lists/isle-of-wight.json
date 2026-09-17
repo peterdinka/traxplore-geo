@@ -1,0 +1,20 @@
+{
+  "id": "isle-of-wight",
+  "name": "Isle of Wight",
+  "description": "Isle of Wight is an island ceremonial county off England's south coast, separated from Hampshire by the Solent. It is known for its coastal scenery, beaches, sailing heritage and Victorian resorts, with Newport serving as the island's main administrative centre.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1709144281350-518c8467bc79?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Isle of Wight",
+      "latitude": 50.671111,
+      "longitude": -1.329857,
+      "description": "An island county off England's south coast, a popular sailing and holiday destination known for the Needles chalk stacks and Queen Victoria's former residence, Osborne House.",
+      "category": "Region",
+      "order": 1
+    }
+  ]
+}

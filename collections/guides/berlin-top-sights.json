@@ -1,0 +1,150 @@
+{
+  "id": "berlin-top-sights",
+  "name": "Berlin Top Sights",
+  "type": "Multiple Days",
+  "city": "Berlin",
+  "country": "Germany",
+  "description": "Explore the best attractions in the German capital. All of these are must see locations to get an insight into the past, present and future of this multi-cultural city.",
+  "coverImageURL": "https://images.unsplash.com/photo-1659342126732-98ab9efd9ce0?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "durationEstimate": "3 days",
+  "order": 1,
+  "published": true,
+  "stops": [
+    {
+      "title": "Brandenburg Gate",
+      "order": 1,
+      "day": 1,
+      "narrative": "Iconic neoclassical gate; symbol of German unity.",
+      "category": "Architecture",
+      "latitude": 52.5163,
+      "longitude": 13.3777,
+      "photos": [
+        "https://images.unsplash.com/photo-1716831313398-102d0d4e6249?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1659342126732-98ab9efd9ce0?q=80&w=927&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1560969184-10fe8719e047?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Reichstag Building",
+      "order": 2,
+      "day": 1,
+      "narrative": "Historic parliament with glass dome views over the city.",
+      "category": "History",
+      "latitude": 52.5186,
+      "longitude": 13.3762,
+      "photos": [
+        "https://images.unsplash.com/photo-1591079751210-718012d90ff7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1670400531272-c5721f5d9414?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1648726443276-6cc1fc4f4759?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Berlin Wall Memorial",
+      "order": 3,
+      "day": 1,
+      "narrative": "Preserved section of the Wall with documentation centre.",
+      "category": "Culture",
+      "latitude": 52.5351,
+      "longitude": 13.3903,
+      "photos": [
+        "https://images.unsplash.com/photo-1704142944660-b7fab07a9c2d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Museum Island",
+      "order": 4,
+      "day": 2,
+      "narrative": "Cluster of world-class museums on the Spree River.",
+      "category": "Culture",
+      "latitude": 52.5169,
+      "longitude": 13.401,
+      "photos": [
+        "https://images.unsplash.com/photo-1747119421266-742889fcde8a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1724079694527-d98f21d059dc?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1658846600253-363998e2b3d2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Alexanderplatz",
+      "order": 5,
+      "day": 2,
+      "narrative": "Bustling square with shops and transport hub.",
+      "category": "Architecture",
+      "latitude": 52.5219,
+      "longitude": 13.4132,
+      "photos": [
+        "https://images.unsplash.com/photo-1587935046078-d4091d3bc0aa?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1676575615620-4fac195ea4cd?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1569574753494-45162d9a748e?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Berlin Cathedral",
+      "order": 6,
+      "day": 2,
+      "narrative": "Grand cathedral with dome and crypt.",
+      "category": "Architecture",
+      "latitude": 52.5194,
+      "longitude": 13.401,
+      "photos": [
+        "https://images.unsplash.com/photo-1538685634737-24b83e3fa2f8?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1592880802298-f85339966656?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1603787935137-58167f55336f?q=80&w=1065&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Checkpoint Charlie",
+      "order": 7,
+      "day": 2,
+      "narrative": "Famous former border crossing between East and West Berlin.",
+      "category": "History",
+      "latitude": 52.5076,
+      "longitude": 13.3904,
+      "photos": [
+        "https://images.unsplash.com/photo-1535186830872-2c5fe5cc62fb?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1704471504052-63ae32427d49?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1664979424791-56e5f01ddaf9?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "East Side Gallery",
+      "order": 8,
+      "day": 3,
+      "narrative": "Long stretch of Wall covered in murals.",
+      "category": "Culture",
+      "latitude": 52.505,
+      "longitude": 13.4394,
+      "photos": [
+        "https://images.unsplash.com/photo-1664820489719-6aaaf22c1059?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1561617398-f5b36165c26a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1641630405549-822dd29961a5?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Tiergarten",
+      "order": 9,
+      "day": 3,
+      "narrative": "Large urban park ideal for walking and cycling.",
+      "category": "Nature",
+      "latitude": 52.5145,
+      "longitude": 13.3501,
+      "photos": [
+        "https://images.unsplash.com/photo-1552553302-9211bf7f7053?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Charlottenburg Palace",
+      "order": 10,
+      "day": 3,
+      "narrative": "Elegant royal palace with gardens.",
+      "category": "History",
+      "latitude": 52.5206,
+      "longitude": 13.2956,
+      "photos": [
+        "https://images.unsplash.com/photo-1561929651-072653c8b9ea?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1633881788043-7c8b216aad3c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        "https://images.unsplash.com/photo-1737587298691-17e2906f9a96?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    }
+  ]
+}

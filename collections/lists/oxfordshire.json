@@ -1,0 +1,52 @@
+{
+  "id": "oxfordshire",
+  "name": "Oxfordshire",
+  "description": "Oxfordshire is an affluent county in South East England centred on the historic city of Oxford. It is known internationally for the University of Oxford, picturesque countryside and a strong concentration of science, technology and research industries.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://plus.unsplash.com/premium_photo-1717351887353-befc71e582bb?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Oxford",
+      "latitude": 51.753622,
+      "longitude": -1.240015,
+      "description": "A world-famous university city, home to the oldest university in the English-speaking world, with dreaming spires, historic colleges, and the Bodleian Library dating to 1602.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "West Oxfordshire",
+      "latitude": 51.84034,
+      "longitude": -1.502826,
+      "description": "A rural Cotswolds-adjacent district in Oxfordshire home to Blenheim Palace, birthplace of Winston Churchill and a UNESCO World Heritage Site, and the market town of Witney.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Cherwell",
+      "latitude": 51.974715,
+      "longitude": -1.285069,
+      "description": "A rural district in Oxfordshire covering the market town of Banbury, famous for the nursery rhyme 'Ride a cock-horse to Banbury Cross.'",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "South Oxfordshire",
+      "latitude": 51.636637,
+      "longitude": -1.080159,
+      "description": "A rural district southeast of Oxford, taking in the Chiltern Hills, the Thames-side town of Wallingford, and the riverside village of Goring.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Vale of White Horse",
+      "latitude": 51.654202,
+      "longitude": -1.451217,
+      "description": "A rural district in Oxfordshire named for the prehistoric Uffington White Horse chalk figure carved into a hillside, alongside the market town of Abingdon.",
+      "category": "Region",
+      "order": 5
+    }
+  ]
+}

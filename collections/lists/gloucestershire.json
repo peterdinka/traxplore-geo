@@ -1,0 +1,68 @@
+{
+  "id": "gloucestershire",
+  "name": "Gloucestershire",
+  "description": "Gloucestershire is a county in South West England known for the Cotswolds, the Forest of Dean and the Severn Valley. Gloucester and Cheltenham are its principal urban centres, alongside numerous historic villages and market towns.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1444309251453-6b95825ea872?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Cheltenham",
+      "latitude": 51.898604,
+      "longitude": -2.076613,
+      "description": "A Regency spa town in Gloucestershire known for its elegant white-stucco architecture, the Cheltenham Festival horse racing, and its famous literature and jazz festivals.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Cotswold",
+      "latitude": 51.845085,
+      "longitude": -1.969401,
+      "description": "A district covering the heart of the Cotswolds Area of Outstanding Natural Beauty in Gloucestershire, famous for honey-coloured limestone villages like Bourton-on-the-Water and Bibury.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Forest of Dean",
+      "latitude": 51.816607,
+      "longitude": -2.477319,
+      "description": "A rural district in Gloucestershire named for its ancient royal forest, one of England's few surviving medieval woodlands with a distinct dialect and mining heritage.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "Gloucester",
+      "latitude": 51.846395,
+      "longitude": -2.239309,
+      "description": "A cathedral city in Gloucestershire on the River Severn, with a Norman cathedral whose cloisters were used as filming locations for the Harry Potter films.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "South Gloucestershire",
+      "latitude": 51.546589,
+      "longitude": -2.462961,
+      "description": "A district on Bristol's northern edge, combining suburban towns like Yate with rural countryside toward the Cotswolds.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Stroud",
+      "latitude": 51.719963,
+      "longitude": -2.301716,
+      "description": "A market town district in Gloucestershire's Cotswolds, known for its independent, artsy character, converted wool mills, and the surrounding 'Five Valleys' countryside.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Tewkesbury",
+      "latitude": 51.934929,
+      "longitude": -2.077219,
+      "description": "A market town in Gloucestershire at the confluence of the Severn and Avon rivers, home to a magnificent Norman abbey and the site of a decisive 1471 Wars of the Roses battle.",
+      "category": "Region",
+      "order": 7
+    }
+  ]
+}

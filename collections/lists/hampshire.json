@@ -1,0 +1,116 @@
+{
+  "id": "hampshire",
+  "name": "Hampshire",
+  "description": "Hampshire is a large county on the south coast of England, combining extensive countryside with major urban centres and important ports. Winchester, Southampton and Portsmouth are its principal centres, while the New Forest and South Downs provide much of its distinctive landscape.",
+  "country": "United Kingdom",
+  "location": "England",
+  "coverImageURL": "https://images.unsplash.com/photo-1592118829219-ff9595ff404c?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "order": 1,
+  "published": true,
+  "places": [
+    {
+      "name": "Portsmouth",
+      "latitude": 50.804738,
+      "longitude": -1.06918,
+      "description": "A naval city on Hampshire's south coast, home to the Royal Navy's historic dockyard, HMS Victory, and the Spinnaker Tower overlooking the harbour.",
+      "category": "Region",
+      "order": 1
+    },
+    {
+      "name": "Fareham",
+      "latitude": 50.853996,
+      "longitude": -1.210435,
+      "description": "A market town in Hampshire on the Solent coast, historically a strawberry-growing centre and gateway to the naval heritage of Portsmouth harbour.",
+      "category": "Region",
+      "order": 2
+    },
+    {
+      "name": "Basingstoke and Deane",
+      "latitude": 51.25873,
+      "longitude": -1.21749,
+      "description": "A commercial town in Hampshire that grew rapidly from the 1960s as an overspill town for London, alongside rural villages in the surrounding Deane.",
+      "category": "Region",
+      "order": 3
+    },
+    {
+      "name": "East Hampshire",
+      "latitude": 51.040001,
+      "longitude": -0.938262,
+      "description": "A rural district in Hampshire covering part of the South Downs National Park and the market town of Petersfield, known for rolling chalk downland.",
+      "category": "Region",
+      "order": 4
+    },
+    {
+      "name": "Eastleigh",
+      "latitude": 50.926673,
+      "longitude": -1.32891,
+      "description": "A town in Hampshire that grew rapidly around its railway works, sitting close to Southampton Airport.",
+      "category": "Region",
+      "order": 5
+    },
+    {
+      "name": "Gosport",
+      "latitude": 50.806387,
+      "longitude": -1.163036,
+      "description": "A naval town on Hampshire's Solent coast, directly across the water from Portsmouth, with a history deeply tied to the Royal Navy — including submarine heritage at the Explosion Museum and HMS Alliance.",
+      "category": "Region",
+      "order": 6
+    },
+    {
+      "name": "Hart",
+      "latitude": 51.276163,
+      "longitude": -0.882608,
+      "description": "A district in Hampshire around the town of Fleet, largely affluent and residential, sitting between the Surrey border and Hampshire's rural heartland.",
+      "category": "Region",
+      "order": 7
+    },
+    {
+      "name": "Havant",
+      "latitude": 50.843224,
+      "longitude": -0.990627,
+      "description": "A borough on Hampshire's south coast, bordering Portsmouth and looking out over Langstone and Chichester Harbours. A mix of Georgian market-town streets in Havant itself and the seaside resort feel of neighbouring Hayling Island.",
+      "category": "Region",
+      "order": 8
+    },
+    {
+      "name": "New Forest",
+      "latitude": 50.857714,
+      "longitude": -1.632078,
+      "description": "A district in Hampshire built around the ancient royal hunting forest of the same name, now a National Park known for free-roaming ponies, heathland, and picturesque villages like Beaulieu.",
+      "category": "Region",
+      "order": 9
+    },
+    {
+      "name": "Rushmoor",
+      "latitude": 51.275271,
+      "longitude": -0.768478,
+      "description": "A district in Hampshire covering the towns of Aldershot and Farnborough, both long associated with the British Army and aviation history.",
+      "category": "Region",
+      "order": 10
+    },
+    {
+      "name": "Southampton",
+      "latitude": 50.918092,
+      "longitude": -1.400361,
+      "description": "A major port city in Hampshire from which the Titanic set sail in 1912, with a history stretching back to Roman and medieval trading days.",
+      "category": "Region",
+      "order": 11
+    },
+    {
+      "name": "Test Valley",
+      "latitude": 51.133835,
+      "longitude": -1.501458,
+      "description": "A rural district in Hampshire named for the River Test, one of England's premier chalk streams for fly fishing, and home to the market town of Andover.",
+      "category": "Region",
+      "order": 12
+    },
+    {
+      "name": "Winchester",
+      "latitude": 51.026052,
+      "longitude": -1.245212,
+      "description": "The ancient capital of Wessex and once of all England under Alfred the Great, a cathedral city known for its Gothic cathedral, Winchester College, and the legendary Round Table on display at the Great Hall.",
+      "category": "Region",
+      "order": 13
+    }
+  ]
+}

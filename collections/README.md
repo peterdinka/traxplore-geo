@@ -35,3 +35,14 @@ list ids.
 `published: false` hides something from the app without deleting it.
 
 Anything absent is simply omitted rather than written as null.
+
+## The build
+
+`collections/build.py` validates every file and writes `index.json` and
+`all.json`. It runs in CI on each push, and by hand:
+
+    python3 collections/build.py
+
+A file that fails validation stops the build with a message naming the file, the
+entry and the field. That is the point: the app cannot tell a missing latitude
+from a place you have not been to yet, so the mistake has to be caught here.

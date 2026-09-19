@@ -40,17 +40,23 @@ Order in the file is the order of the rotation.
 
 ## Export settings
 
-- **3:1, landscape** — 1800 x 600 is a good size. Banners are cropped to fill
-  that ratio rather than letterboxed, so a few pixels out is invisible, but
-  something markedly squarer will lose its top and bottom.
+- **Roughly 4.7:1, landscape** — about 1200 x 255. The autumn set runs 4.67 to
+  4.94 and that is fine: each banner is fitted inside a slot sized to the
+  tallest one, so nothing is ever cropped. Something markedly squarer would sit
+  in the middle of the slot with space either side.
+- **Export tight to the artwork.** The autumn set came with a wide transparent
+  margin — the banner filled about 60% of its canvas — which made it draw inset
+  and undersized. Those were trimmed before they shipped. Trimming them at
+  export saves the step.
+- **Rounded corners belong in the file.** The app no longer rounds them, since
+  doing it twice shaves the ones already painted in.
 - **The lettering is part of the artwork.** The app draws no text over it, so
   everything the banner says — the eyebrow, the title, the description, the
   button — has to be in the image.
 - The whole banner is one tap target and opens Seasonal Challenges. A drawn
   button is decoration, so keep it clear of the very edge.
-- Corners are rounded by the app at 20pt; do not round them in the file.
-- Opaque is fine here, unlike badges and icons — the banner fills its own
-  rectangle.
+- **Keep it around 600 KB.** All three download on the first launch that shows
+  them, on what may well be a cellular connection.
 
 ## Where the app reads this from
 

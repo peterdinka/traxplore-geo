@@ -41,6 +41,12 @@ than fatal.
 The `main` branch, deliberately — this is unrelated to the `collections`
 migration, so the URL does not have to change when that merges.
 
-Downloads are cached to disk on the device and never re-fetched, because the
-filename is the identity. **Changing an image in place will not reach phones
-that already have it** — ship a redraw under a new id, or bump the filename.
+Downloads are cached to disk on the device, and the app revalidates each one
+once per launch with a conditional request. Replacing an image in place does
+reach phones that already have the old one — they pick it up on the next launch,
+with no reinstall. When nothing has changed the server answers 304 with no body.
+
+**Export with a transparent background.** Five of the first badges were exported
+opaque, which drew a grey box behind them in the app; their backgrounds were
+stripped after the fact, which works but softens the rim slightly compared to
+exporting it right.

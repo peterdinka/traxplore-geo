@@ -1,0 +1,10 @@
+{
+  "banners": [
+    {
+      "id": "autumn-london",
+      "image": "autumn-london.png",
+      "from": "2026-09-01",
+      "to": "2026-11-30"
+    }
+  ]
+}

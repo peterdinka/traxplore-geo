@@ -1,0 +1,13 @@
+{
+  "id": "level-pioneer",
+  "name": "Pioneer",
+  "family": "levels",
+  "tier": "legend",
+  "xp": 0,
+  "order": 4,
+  "description": "Reach Level V by earning 50,000 XP.",
+  "rule": {
+    "type": "xpAtLeast",
+    "xp": 50000
+  }
+}

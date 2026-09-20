@@ -1,0 +1,14 @@
+{
+  "id": "londonboroughs-5",
+  "name": "Borough Hopper",
+  "family": "places",
+  "tier": "bronze",
+  "xp": 100,
+  "order": 1,
+  "description": "Visit 5 different London boroughs.",
+  "rule": {
+    "type": "placeCategoryCount",
+    "category": "borough",
+    "count": 5
+  }
+}

@@ -264,5 +264,14 @@
       "category": "Borough",
       "order": 32
     }
-  ]
+  ],
+  "badge": {
+    "id": "london_boroughs",
+    "name": "London Boroughs",
+    "family": "places",
+    "tier": "legend",
+    "xp": 750,
+    "order": 2,
+    "description": "Complete the London Boroughs list."
+  }
 }

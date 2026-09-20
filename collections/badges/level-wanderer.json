@@ -1,0 +1,13 @@
+{
+  "id": "level-wanderer",
+  "name": "Wanderer",
+  "family": "levels",
+  "tier": "silver",
+  "xp": 0,
+  "order": 1,
+  "description": "Reach Level II by earning 2,500 XP.",
+  "rule": {
+    "type": "xpAtLeast",
+    "xp": 2500
+  }
+}

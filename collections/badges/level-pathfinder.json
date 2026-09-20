@@ -1,0 +1,13 @@
+{
+  "id": "level-pathfinder",
+  "name": "Pathfinder",
+  "family": "levels",
+  "tier": "gold",
+  "xp": 0,
+  "order": 2,
+  "description": "Reach Level III by earning 7,500 XP.",
+  "rule": {
+    "type": "xpAtLeast",
+    "xp": 7500
+  }
+}

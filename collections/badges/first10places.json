@@ -1,0 +1,13 @@
+{
+  "id": "first10places",
+  "name": "First 10 Places",
+  "family": "exploration",
+  "tier": "bronze",
+  "xp": 150,
+  "order": 1,
+  "description": "Visit 10 places anywhere in the world.",
+  "rule": {
+    "type": "visitedCount",
+    "count": 10
+  }
+}

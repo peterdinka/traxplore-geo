@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "families": [
+    {
+      "id": "exploration",
+      "name": "Exploration",
+      "symbol": "binoculars.fill",
+      "order": 1
+    },
+    {
+      "id": "outdoors",
+      "name": "Outdoors",
+      "symbol": "leaf.fill",
+      "order": 2
+    },
+    {
+      "id": "transport",
+      "name": "Transport",
+      "symbol": "tram.fill",
+      "order": 3
+    },
+    {
+      "id": "places",
+      "name": "Places",
+      "symbol": "map.fill",
+      "order": 4
+    },
+    {
+      "id": "guides",
+      "name": "Tourist Guides",
+      "symbol": "book.closed.fill",
+      "order": 5
+    },
+    {
+      "id": "levels",
+      "name": "Levels",
+      "symbol": "star.fill",
+      "order": 6
+    }
+  ]
+}

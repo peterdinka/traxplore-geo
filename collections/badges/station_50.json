@@ -1,0 +1,14 @@
+{
+  "id": "station_50",
+  "name": "Station Hopper",
+  "family": "transport",
+  "tier": "gold",
+  "xp": 400,
+  "order": 1,
+  "description": "Visit 50 different railway stations.",
+  "rule": {
+    "type": "poiTypeCount",
+    "poiType": "train-station",
+    "count": 50
+  }
+}

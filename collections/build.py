@@ -25,6 +25,24 @@ import sys
 ROOT = pathlib.Path(__file__).parent
 PLACE_REQUIRED = ("latitude", "longitude")
 
+# What a badge rule may say. The app implements one evaluator per entry here and
+# nothing else, so a typo in a rule type is caught at build time rather than
+# becoming a badge that can never be earned.
+RULE_FIELDS = {
+    "visitedCount":        {"count"},
+    "autoVisitCount":      {"count"},
+    "countryCount":        {"count"},
+    "guideCount":          {"count"},
+    "xpAtLeast":           {"xp"},
+    "placeCategoryCount":  {"category", "count"},
+    "poiTypeCount":        {"poiType", "count"},
+    "listComplete":        {"list"},
+    "listCount":           {"list", "count"},
+    "guideComplete":       {"guide"},
+    "listsTouchedWithTag": {"tag"},          # count optional — omit for "all"
+}
+BADGE_REQUIRED = ("id", "name", "family")
+
 
 class Problem(Exception):
     pass
@@ -77,11 +95,71 @@ def collect(folder: str, kind: str, child_key: str, name_field: str) -> list:
     return out
 
 
+def check_badge(where: str, badge: dict, families: set, rule: dict) -> None:
+    for field in BADGE_REQUIRED:
+        if not badge.get(field):
+            raise Problem(f"{where} badge has no '{field}'")
+    if badge["family"] not in families:
+        raise Problem(f"{where} badge '{badge['id']}' is in family "
+                      f"'{badge['family']}', which is not in badge-families.json")
+    kind = rule.get("type")
+    if kind not in RULE_FIELDS:
+        raise Problem(f"{where} badge '{badge['id']}' has rule type {kind!r}. "
+                      f"Known types: {', '.join(sorted(RULE_FIELDS))}")
+    for field in RULE_FIELDS[kind]:
+        if rule.get(field) in (None, ""):
+            raise Problem(f"{where} badge '{badge['id']}' is a {kind} rule and "
+                          f"needs '{field}'")
+
+
+def collect_badges(lists: list, guides: list) -> tuple:
+    """Standalone badges, plus the ones authored inside a list or guide.
+
+    A badge that is earned by finishing one collection lives in that
+    collection's file, so authoring a guide and the badge it awards is one edit
+    in one place — and the guide page can show the badge without a lookup.
+    """
+    families_doc = load(ROOT / "badge-families.json")
+    families = families_doc.get("families", [])
+    ids = {f["id"] for f in families}
+    if len(ids) != len(families):
+        raise Problem("badge-families.json has two families with the same id")
+
+    badges, seen = [], {}
+
+    def add(badge: dict, where: str) -> None:
+        check_badge(where, badge, ids, badge.get("rule", {}))
+        if badge["id"] in seen:
+            raise Problem(f"two badges share the id '{badge['id']}': "
+                          f"{seen[badge['id']]} and {where}")
+        seen[badge["id"]] = where
+        badges.append(badge)
+
+    for path in sorted((ROOT / "badges").glob("*.json")):
+        doc = load(path)
+        add(doc, str(path.relative_to(ROOT.parent)))
+
+    # Synthesised: the collection supplies the label, the builder supplies the
+    # rule, so an author never writes the same slug twice.
+    for doc in guides:
+        if badge := doc.get("badge"):
+            add({**badge, "rule": {"type": "guideComplete", "guide": doc["id"]}},
+                f"guides/{doc['id']}.json")
+    for doc in lists:
+        if badge := doc.get("badge"):
+            add({**badge, "rule": {"type": "listComplete", "list": doc["id"]}},
+                f"lists/{doc['id']}.json")
+
+    badges.sort(key=lambda b: (b.get("family", ""), b.get("order", 0), b["id"]))
+    return families, badges
+
+
 def main() -> int:
     try:
         lists = collect("lists", "list", "places", "name")
         guides = collect("guides", "guide", "stops", "title")
         bundles = collect("bundles", "bundle", "__none__", "name")
+        families, badges = collect_badges(lists, guides)
 
         known = {d["id"] for d in lists}
         for bundle in bundles:
@@ -89,6 +167,22 @@ def main() -> int:
                 if ref not in known:
                     raise Problem(f"bundle '{bundle['id']}' points at list "
                                   f"'{ref}', which does not exist")
+
+        # A rule pointing at a collection that does not exist is a badge nobody
+        # can ever earn, and silently so.
+        known_guides = {d["id"] for d in guides}
+        tags = {t for d in lists for t in (d.get("tags") or [])}
+        for badge in badges:
+            rule = badge["rule"]
+            if rule["type"] in ("listComplete", "listCount") and rule["list"] not in known:
+                raise Problem(f"badge '{badge['id']}' needs list '{rule['list']}', "
+                              f"which does not exist")
+            if rule["type"] == "guideComplete" and rule["guide"] not in known_guides:
+                raise Problem(f"badge '{badge['id']}' needs guide '{rule['guide']}', "
+                              f"which does not exist")
+            if rule["type"] == "listsTouchedWithTag" and rule["tag"] not in tags:
+                raise Problem(f"badge '{badge['id']}' counts lists tagged "
+                              f"'{rule['tag']}', and no list carries that tag")
     except Problem as e:
         print(f"::error::{e}", file=sys.stderr)
         print(f"\n✗ {e}\n", file=sys.stderr)
@@ -109,12 +203,15 @@ def main() -> int:
         "lists": [d for d in lists if d.get("published")],
         "guides": [d for d in guides if d.get("published")],
         "bundles": [d for d in bundles if d.get("published")],
+        "badgeFamilies": families,
+        "badges": badges,
     })
 
     places = sum(len(d.get("places", [])) for d in lists)
     stops = sum(len(d.get("stops", [])) for d in guides)
     print(f"✓ {len(lists)} lists ({places} places) · {len(guides)} guides "
-          f"({stops} stops) · {len(bundles)} bundles")
+          f"({stops} stops) · {len(bundles)} bundles · {len(badges)} badges "
+          f"in {len(families)} families")
     print(f"  index.json {(ROOT / 'index.json').stat().st_size / 1024:.0f} KB · "
           f"all.json {(ROOT / 'all.json').stat().st_size / 1024:.0f} KB")
     return 0

@@ -1,0 +1,13 @@
+{
+  "id": "level-trailblazer",
+  "name": "Trailblazer",
+  "family": "levels",
+  "tier": "gold",
+  "xp": 0,
+  "order": 3,
+  "description": "Reach Level IV by earning 20,000 XP.",
+  "rule": {
+    "type": "xpAtLeast",
+    "xp": 20000
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "nature_10",
+  "name": "Nature Lover",
+  "family": "outdoors",
+  "tier": "silver",
+  "xp": 150,
+  "order": 1,
+  "description": "Visit 10 parks, gardens or green spaces.",
+  "rule": {
+    "type": "placeCategoryCount",
+    "category": "park",
+    "count": 10
+  }
+}

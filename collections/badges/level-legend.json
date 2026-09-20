@@ -1,0 +1,13 @@
+{
+  "id": "level-legend",
+  "name": "Legend",
+  "family": "levels",
+  "tier": "legend",
+  "xp": 0,
+  "order": 5,
+  "description": "Reach Level VI by earning 100,000 XP.",
+  "rule": {
+    "type": "xpAtLeast",
+    "xp": 100000
+  }
+}

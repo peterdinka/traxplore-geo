@@ -1,0 +1,13 @@
+{
+  "id": "english_counties",
+  "name": "English Counties",
+  "family": "places",
+  "tier": "legend",
+  "xp": 2000,
+  "order": 3,
+  "description": "Set foot in every English county.",
+  "rule": {
+    "type": "listsTouchedWithTag",
+    "tag": "english-county"
+  }
+}

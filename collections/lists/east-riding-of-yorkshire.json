@@ -13,7 +13,7 @@
       "latitude": 53.873974,
       "longitude": -0.477992,
       "description": "A large rural district covering the Yorkshire Wolds' chalk hills and coastal towns, with the historic market town of Beverley at its heart.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.766404,
       "longitude": -0.332002,
       "description": "A port city on the Humber estuary, historically built on fishing and maritime trade, and birthplace of anti-slavery campaigner William Wilberforce.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     }
   ],

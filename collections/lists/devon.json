@@ -13,7 +13,7 @@
       "latitude": 50.757729,
       "longitude": -3.236054,
       "description": "A district of red cliffs and Jurassic Coast heritage in Devon, including the Regency seaside town of Sidmouth alongside the cathedral city of Exeter's eastern neighbours.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 50.718185,
       "longitude": -3.510917,
       "description": "A cathedral city in Devon with roots stretching back to Roman Britain, centred on its Gothic cathedral and a compact, walkable historic core. A regional hub for the South West, with a well-regarded university.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 50.868516,
       "longitude": -3.534164,
       "description": "A rural district in Devon centred on the market town of Tiverton, with rolling farmland and the Grand Western Canal running through it.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.061394,
       "longitude": -3.928175,
       "description": "A rugged, rural district on Devon's Atlantic coast, home to the surf town of Woolacombe, the historic port of Barnstaple, and Exmoor's western reaches. Known for dramatic cliffs and some of England's best surfing beaches.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 50.388626,
       "longitude": -4.112504,
       "description": "A major naval port city in Devon from which the Pilgrims set sail for America in 1620, with a history deeply tied to explorers like Sir Francis Drake.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 50.372208,
       "longitude": -3.848822,
       "description": "A rural district in south Devon covering the fishing town of Salcombe and the countryside of the South Hams, a favourite sailing destination.",
-      "category": "Region",
+      "category": "County",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 50.612562,
       "longitude": -3.653666,
       "description": "A district in south Devon covering the Georgian resort town of Teignmouth, the market town of Newton Abbot, and a stretch of Dartmoor National Park's eastern edge.",
-      "category": "Region",
+      "category": "County",
       "order": 7
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 50.446007,
       "longitude": -3.554491,
       "description": "The 'English Riviera' on Devon's south coast, made up of the resort towns of Torquay, Paignton, and Brixham, known for palm-lined promenades and a mild microclimate.",
-      "category": "Region",
+      "category": "County",
       "order": 8
     },
     {
@@ -77,7 +77,7 @@
       "latitude": 50.92449,
       "longitude": -4.282236,
       "description": "A rural district in North Devon covering the market town of Bideford and dramatic Atlantic coastline near Hartland Point.",
-      "category": "Region",
+      "category": "County",
       "order": 9
     },
     {
@@ -85,7 +85,7 @@
       "latitude": 50.654452,
       "longitude": -4.033686,
       "description": "A rural district covering much of Dartmoor National Park's western side, including the market town of Tavistock, birthplace of Sir Francis Drake.",
-      "category": "Region",
+      "category": "County",
       "order": 10
     }
   ],

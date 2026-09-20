@@ -13,7 +13,7 @@
       "latitude": 51.587582,
       "longitude": -1.733982,
       "description": "A large railway town in Wiltshire that grew rapidly around the Great Western Railway works in the 19th century. Today a commercial hub known for the STEAM museum, the Magic Roundabout junction, and its transformation from industrial town to modern business centre.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.324067,
       "longitude": -1.925659,
       "description": "A large rural county in southwest England, home to Stonehenge, one of the world's most famous prehistoric monuments, alongside the cathedral city of Salisbury.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     }
   ],

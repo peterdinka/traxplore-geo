@@ -13,7 +13,7 @@
       "latitude": 51.898604,
       "longitude": -2.076613,
       "description": "A Regency spa town in Gloucestershire known for its elegant white-stucco architecture, the Cheltenham Festival horse racing, and its famous literature and jazz festivals.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.845085,
       "longitude": -1.969401,
       "description": "A district covering the heart of the Cotswolds Area of Outstanding Natural Beauty in Gloucestershire, famous for honey-coloured limestone villages like Bourton-on-the-Water and Bibury.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 51.816607,
       "longitude": -2.477319,
       "description": "A rural district in Gloucestershire named for its ancient royal forest, one of England's few surviving medieval woodlands with a distinct dialect and mining heritage.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.846395,
       "longitude": -2.239309,
       "description": "A cathedral city in Gloucestershire on the River Severn, with a Norman cathedral whose cloisters were used as filming locations for the Harry Potter films.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.546589,
       "longitude": -2.462961,
       "description": "A district on Bristol's northern edge, combining suburban towns like Yate with rural countryside toward the Cotswolds.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 51.719963,
       "longitude": -2.301716,
       "description": "A market town district in Gloucestershire's Cotswolds, known for its independent, artsy character, converted wool mills, and the surrounding 'Five Valleys' countryside.",
-      "category": "Region",
+      "category": "County",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 51.934929,
       "longitude": -2.077219,
       "description": "A market town in Gloucestershire at the confluence of the Severn and Avon rivers, home to a magnificent Norman abbey and the site of a decisive 1471 Wars of the Roses battle.",
-      "category": "Region",
+      "category": "County",
       "order": 7
     }
   ],

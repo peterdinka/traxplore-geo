@@ -6,8 +6,5 @@
   "location": "Great Britain",
   "order": 1,
   "published": false,
-  "dataSourceURL": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/uk-railway-stations-main/stations.json",
-  "tags": [
-    "english-county"
-  ]
+  "dataSourceURL": "https://raw.githubusercontent.com/peterdinka/traxplore-geo/main/uk-railway-stations-main/stations.json"
 }

@@ -13,7 +13,7 @@
       "latitude": 54.685102,
       "longitude": -1.798698,
       "description": "A large rural county in northeast England, home to Durham Cathedral, a UNESCO World Heritage Site and one of the finest examples of Norman architecture in Europe.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 54.535247,
       "longitude": -1.558502,
       "description": "A market town in County Durham with a well-preserved Victorian centre, historically a railway engineering hub as the birthplace of the Stockton and Darlington Railway.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 54.674532,
       "longitude": -1.27073,
       "description": "A historic port town on the northeast coast, with maritime roots stretching back to a 7th-century monastery, now home to the National Museum of the Royal Navy's HMS Trincomalee.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     }
   ],

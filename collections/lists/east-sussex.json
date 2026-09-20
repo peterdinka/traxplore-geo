@@ -13,7 +13,7 @@
       "latitude": 50.942931,
       "longitude": 0.206953,
       "description": "A large rural district in East Sussex covering the Ashdown Forest, inspiration for A.A. Milne's Winnie-the-Pooh, and the historic town of Battle, site of the 1066 Norman Conquest.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 50.845788,
       "longitude": -0.130514,
       "description": "A vibrant seaside city on the East Sussex coast, known for its Regency architecture, the exotic Royal Pavilion, and one of Britain's most famous LGBTQ+ communities.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 50.774009,
       "longitude": 0.274271,
       "description": "A genteel Victorian seaside resort on the East Sussex coast, known for its long promenade, pier, and proximity to the chalk cliffs of Beachy Head, one of England's most dramatic coastal viewpoints.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 50.868981,
       "longitude": 0.580806,
       "description": "A historic town on the East Sussex coast, forever linked to the 1066 Battle of Hastings fought just inland, with a fishing quarter of distinctive tall wooden net huts.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 50.879142,
       "longitude": 0.009278,
       "description": "A historic county town in East Sussex famous for its dramatic Bonfire Night celebrations, a Norman castle, and a compact, hilly high street of independent shops.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 50.951976,
       "longitude": 0.594706,
       "description": "A rural district in East Sussex covering the historic town of Rye, with its cobbled medieval streets, and stretches of coastline and countryside near Bexhill and Battle. Rich in Cinque Ports and Norman Conquest history.",
-      "category": "Region",
+      "category": "County",
       "order": 6
     }
   ],

@@ -13,7 +13,7 @@
       "latitude": 53.42523,
       "longitude": -2.833006,
       "description": "A district on Liverpool's eastern edge, home to Knowsley Safari Park and the historic Knowsley Hall, ancestral seat of the Earls of Derby.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.400878,
       "longitude": -2.913378,
       "description": "A major port city on the Mersey famous as the birthplace of The Beatles, with a UNESCO-recognised waterfront and a fiercely proud maritime and musical heritage.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.568392,
       "longitude": -2.99334,
       "description": "A coastal district in Merseyside covering the seaside resort of Southport and the dune-backed beaches near Formby, home to a rare red squirrel population.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 53.458393,
       "longitude": -2.700854,
       "description": "A former glass-manufacturing town in Merseyside, home to Pilkington Glass and a strong rugby league tradition.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 53.369594,
       "longitude": -3.078795,
       "description": "A peninsula in Merseyside between the Mersey and Dee estuaries, combining seaside towns like New Brighton with commuter suburbs facing Liverpool across the water.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     }
   ],

@@ -13,7 +13,7 @@
       "latitude": 52.56135,
       "longitude": -1.624236,
       "description": "A rural district in Warwickshire mixing former coalfield villages with open countryside, sitting close to the historic town of Atherstone.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.501017,
       "longitude": -1.479509,
       "description": "A former mining and textile district in Warwickshire, birthplace of novelist George Eliot, who drew heavily on the local landscape in her writing.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.393592,
       "longitude": -1.318569,
       "description": "A market town in Warwickshire that gave its name to rugby football, said to have been invented at Rugby School in 1823 when a pupil picked up the ball and ran with it.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.161716,
       "longitude": -1.596844,
       "description": "A district in Warwickshire built around the market town of Stratford-upon-Avon, birthplace of William Shakespeare and home to the Royal Shakespeare Company.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.301494,
       "longitude": -1.593133,
       "description": "The county town of Warwickshire, dominated by Warwick Castle, one of England's best-preserved medieval fortresses, now a major visitor attraction.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     }
   ],

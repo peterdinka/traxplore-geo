@@ -13,7 +13,7 @@
       "latitude": 53.167297,
       "longitude": -2.363895,
       "description": "A district covering much of eastern Cheshire, including the historic town of Macclesfield and the market town of Nantwich, known for its Tudor black-and-white architecture and dairy farming heritage.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.163806,
       "longitude": -2.728536,
       "description": "A district covering the Roman walled city of Chester, with its distinctive black-and-white Tudor 'Rows' shopping galleries and a well-preserved medieval street plan.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.353779,
       "longitude": -2.713841,
       "description": "A district in Cheshire covering the towns of Runcorn and Widnes, historically a centre of the chemical industry on the banks of the River Mersey.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {

@@ -13,7 +13,7 @@
       "latitude": 51.900016,
       "longitude": -0.839175,
       "description": "A rural district in Buckinghamshire named for the fertile Vale of Aylesbury, home to the county town of Aylesbury and close to Waddesdon Manor, a lavish Rothschild estate.",
-      "category": "Region",
+      "category": "County",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.678926,
       "longitude": -0.63363,
       "description": "A former district in Buckinghamshire covering the Chiltern Hills' beech woodlands and the towns of Amersham and Chesham.",
-      "category": "Region",
+      "category": "County",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.082771,
       "longitude": -0.739589,
       "description": "A planned New Town in Buckinghamshire built from 1967, known for its grid-system roads, extensive parkland, and iconic concrete cow sculptures.",
-      "category": "Region",
+      "category": "County",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.560114,
       "longitude": -0.5901,
       "description": "A former affluent, rural district in Buckinghamshire near the Thames, covering villages close to Slough and Burnham Beeches ancient woodland.",
-      "category": "Region",
+      "category": "County",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.663601,
       "longitude": -0.810116,
       "description": "A former district in Buckinghamshire centred on High Wycombe, historically the centre of England's furniture-making industry, particularly Windsor chairs.",
-      "category": "Region",
+      "category": "County",
       "order": 5
     }
   ],

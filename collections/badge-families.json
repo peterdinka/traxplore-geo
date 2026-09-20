@@ -2,34 +2,34 @@
   "version": 1,
   "families": [
     {
-      "id": "exploration",
-      "name": "Exploration",
-      "symbol": "safari",
-      "order": 1
-    },
-    {
-      "id": "places",
-      "name": "Lists",
-      "symbol": "map.fill",
-      "order": 2
-    },
-    {
       "id": "levels",
       "name": "Levels",
       "symbol": "star.fill",
-      "order": 3
+      "order": 1
     },
     {
       "id": "seasonal",
       "name": "Seasonal",
       "symbol": "leaf.fill",
-      "order": 4,
+      "order": 2,
       "shape": "round"
     },
     {
-      "id": "sports",
-      "name": "Sports",
+      "id": "tourist",
+      "name": "Tourist",
+      "symbol": "book.closed.fill",
+      "order": 3
+    },
+    {
+      "id": "sport",
+      "name": "Sport",
       "symbol": "figure.run",
+      "order": 4
+    },
+    {
+      "id": "nature",
+      "name": "Nature Lover",
+      "symbol": "tree.fill",
       "order": 5
     },
     {
@@ -45,28 +45,22 @@
       "order": 7
     },
     {
-      "id": "traveller",
-      "name": "Traveller",
-      "symbol": "airplane",
+      "id": "exploration",
+      "name": "Exploration",
+      "symbol": "safari",
       "order": 8
-    },
-    {
-      "id": "outdoors",
-      "name": "Outdoors",
-      "symbol": "leaf.fill",
-      "order": 9
     },
     {
       "id": "transport",
       "name": "Transport",
       "symbol": "tram.fill",
-      "order": 10
+      "order": 9
     },
     {
-      "id": "guides",
-      "name": "Tourist Guides",
-      "symbol": "book.closed.fill",
-      "order": 11
+      "id": "traveller",
+      "name": "Traveller",
+      "symbol": "airplane",
+      "order": 10
     }
   ]
 }

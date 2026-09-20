@@ -173,7 +173,7 @@
   "badge": {
     "id": "budapest",
     "name": "Budapest",
-    "family": "guides",
+    "family": "tourist",
     "tier": "gold",
     "xp": 400,
     "order": 2,

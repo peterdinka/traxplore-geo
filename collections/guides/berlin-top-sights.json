@@ -160,7 +160,7 @@
   "badge": {
     "id": "berlin",
     "name": "Berlin",
-    "family": "guides",
+    "family": "tourist",
     "tier": "gold",
     "xp": 400,
     "order": 1,

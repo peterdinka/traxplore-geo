@@ -1,7 +1,7 @@
 {
   "id": "english_counties",
   "name": "English Counties",
-  "family": "exploration",
+  "family": "territories",
   "tier": "legend",
   "xp": 2000,
   "order": 3,

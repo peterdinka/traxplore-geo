@@ -268,7 +268,7 @@
   "badge": {
     "id": "london_boroughs",
     "name": "London Boroughs",
-    "family": "exploration",
+    "family": "territories",
     "tier": "legend",
     "xp": 750,
     "order": 2,

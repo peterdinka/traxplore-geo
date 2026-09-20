@@ -28,7 +28,7 @@
     },
     {
       "id": "nature",
-      "name": "Nature Lover",
+      "name": "Nature",
       "symbol": "tree.fill",
       "order": 5
     },
@@ -45,22 +45,28 @@
       "order": 7
     },
     {
+      "id": "territories",
+      "name": "Territories",
+      "symbol": "map.fill",
+      "order": 8
+    },
+    {
       "id": "exploration",
       "name": "Exploration",
       "symbol": "safari",
-      "order": 8
+      "order": 9
     },
     {
       "id": "transport",
       "name": "Transport",
       "symbol": "tram.fill",
-      "order": 9
+      "order": 10
     },
     {
       "id": "traveller",
       "name": "Traveller",
       "symbol": "airplane",
-      "order": 10
+      "order": 11
     }
   ]
 }

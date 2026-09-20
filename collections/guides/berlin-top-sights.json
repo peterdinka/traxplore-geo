@@ -16,6 +16,7 @@
       "day": 1,
       "narrative": "Iconic neoclassical gate; symbol of German unity.",
       "category": "Architecture",
+      "poiType": "monument",
       "latitude": 52.5163,
       "longitude": 13.3777,
       "photos": [
@@ -30,6 +31,7 @@
       "day": 1,
       "narrative": "Historic parliament with glass dome views over the city.",
       "category": "History",
+      "poiType": "landmark",
       "latitude": 52.5186,
       "longitude": 13.3762,
       "photos": [
@@ -44,6 +46,7 @@
       "day": 1,
       "narrative": "Preserved section of the Wall with documentation centre.",
       "category": "Culture",
+      "poiType": "monument",
       "latitude": 52.5351,
       "longitude": 13.3903,
       "photos": [
@@ -56,6 +59,7 @@
       "day": 2,
       "narrative": "Cluster of world-class museums on the Spree River.",
       "category": "Culture",
+      "poiType": "museum",
       "latitude": 52.5169,
       "longitude": 13.401,
       "photos": [
@@ -70,6 +74,7 @@
       "day": 2,
       "narrative": "Bustling square with shops and transport hub.",
       "category": "Architecture",
+      "poiType": "landmark",
       "latitude": 52.5219,
       "longitude": 13.4132,
       "photos": [
@@ -84,6 +89,7 @@
       "day": 2,
       "narrative": "Grand cathedral with dome and crypt.",
       "category": "Architecture",
+      "poiType": "church",
       "latitude": 52.5194,
       "longitude": 13.401,
       "photos": [
@@ -98,6 +104,7 @@
       "day": 2,
       "narrative": "Famous former border crossing between East and West Berlin.",
       "category": "History",
+      "poiType": "monument",
       "latitude": 52.5076,
       "longitude": 13.3904,
       "photos": [
@@ -112,6 +119,7 @@
       "day": 3,
       "narrative": "Long stretch of Wall covered in murals.",
       "category": "Culture",
+      "poiType": "gallery",
       "latitude": 52.505,
       "longitude": 13.4394,
       "photos": [
@@ -126,6 +134,7 @@
       "day": 3,
       "narrative": "Large urban park ideal for walking and cycling.",
       "category": "Nature",
+      "poiType": "park",
       "latitude": 52.5145,
       "longitude": 13.3501,
       "photos": [
@@ -138,6 +147,7 @@
       "day": 3,
       "narrative": "Elegant royal palace with gardens.",
       "category": "History",
+      "poiType": "castle",
       "latitude": 52.5206,
       "longitude": 13.2956,
       "photos": [

@@ -13,7 +13,7 @@
       "latitude": 53.557676,
       "longitude": -2.047773,
       "description": "A former cotton-spinning town in Greater Manchester that was once the most productive cotton-milling town in the world, its Victorian mill architecture still a defining feature.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.527158,
       "longitude": -2.572552,
       "description": "A former coal-mining town in Greater Manchester, its identity shaped by centuries of mining, textiles, and a resilient working-class culture.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.584439,
       "longitude": -2.48283,
       "description": "A former cotton-spinning town in Greater Manchester, home to Bolton Wanderers football club and Smithills Hall, one of the oldest manor houses in the North West.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 53.589535,
       "longitude": -2.308757,
       "description": "A market town in Greater Manchester famous for its indoor market and black pudding, with a strong textile and papermaking industrial past.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 53.442347,
       "longitude": -2.233363,
       "description": "A major Northern English city that drove the Industrial Revolution as the world's first industrialised city, today known for its music scene, football rivalry, and vibrant Northern Quarter.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 53.60738,
       "longitude": -2.154655,
       "description": "A former cotton-milling town in Greater Manchester, birthplace of the Co-operative Movement, founded here by the Rochdale Pioneers in 1844.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 53.478999,
       "longitude": -2.367435,
       "description": "A city in Greater Manchester on the banks of the River Irwell, transformed from industrial docklands into MediaCityUK, now home to BBC and ITV studios at Salford Quays.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 53.391088,
       "longitude": -2.119602,
       "description": "A town in Greater Manchester famous for its Victorian railway viaduct, one of the largest brick structures in Europe, and its historic hatting industry.",
-      "category": "County",
+      "category": "Region",
       "order": 8
     },
     {
@@ -77,7 +77,7 @@
       "latitude": 53.478632,
       "longitude": -2.066519,
       "description": "A district in Greater Manchester made up of former mill towns including Ashton-under-Lyne and Stalybridge, shaped by the cotton industry and the Pennine hills at its eastern edge.",
-      "category": "County",
+      "category": "Region",
       "order": 9
     },
     {
@@ -85,7 +85,7 @@
       "latitude": 53.418877,
       "longitude": -2.365747,
       "description": "A district in Greater Manchester covering Old Trafford, home to Manchester United's stadium, and the Imperial War Museum North.",
-      "category": "County",
+      "category": "Region",
       "order": 10
     }
   ],

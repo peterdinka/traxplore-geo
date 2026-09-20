@@ -13,7 +13,7 @@
       "latitude": 52.431101,
       "longitude": -1.732448,
       "description": "An affluent town in the West Midlands known for its Touchwood shopping centre and the Land Rover factory that has anchored its economy for decades.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.494879,
       "longitude": -1.881253,
       "description": "England's second-largest city, built on centuries of metalworking and manufacturing, with an extensive canal network and a fast-growing modern skyline.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.414329,
       "longitude": -1.519203,
       "description": "A West Midlands city rebuilt after WWII bombing destroyed its medieval cathedral, whose ruins stand beside the striking modern cathedral built alongside them.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.492119,
       "longitude": -2.101633,
       "description": "A district in the Black Country, West Midlands, historically central to England's iron and coal industries, with Dudley Castle and Zoo standing above the town.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.514899,
       "longitude": -2.007622,
       "description": "A district in the Black Country, West Midlands, formed from towns including West Bromwich and Oldbury, shaped by heavy industry and metalworking heritage.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 52.605004,
       "longitude": -1.975185,
       "description": "A town in the Black Country historically known as the centre of England's leather goods and saddlery trade, still reflected in its 'Saddlers' football club nickname.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 52.590912,
       "longitude": -2.127455,
       "description": "A city in the West Midlands historically built on lock-making and heavy engineering, home to a striking medieval church and a strong football tradition.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     }
   ],

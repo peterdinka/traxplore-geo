@@ -13,7 +13,7 @@
       "latitude": 52.335007,
       "longitude": 0.274426,
       "description": "A rural district covering the cathedral city of Ely, whose Norman cathedral rises dramatically above the flat Fenland landscape, nicknamed 'the Ship of the Fens.'",
-      "category": "District",
+      "category": "Region",
       "order": 1
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.179545,
       "longitude": 0.093015,
       "description": "A rural district ringing Cambridge city, made up of villages and farmland, with the American Cemetery at Madingley among its notable sites.",
-      "category": "District",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.562857,
       "longitude": 0.019204,
       "description": "A flat, rural district in Cambridgeshire covering the Fens, reclaimed marshland now some of England's most fertile farmland, and the market town of Wisbech.",
-      "category": "District",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.371001,
       "longitude": -0.224286,
       "description": "A district in Cambridgeshire around the market town of Huntingdon, birthplace of Oliver Cromwell, with the riverside town of St Ives nearby.",
-      "category": "District",
+      "category": "Region",
       "order": 5
     },
     {

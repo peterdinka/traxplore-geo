@@ -13,7 +13,7 @@
       "latitude": 52.196514,
       "longitude": -2.210287,
       "description": "A cathedral city on the River Severn in the West Midlands, best known for Worcester Cathedral, its porcelain-making heritage, and the nearby Battle of Worcester site that ended the English Civil War in 1651.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.361657,
       "longitude": -2.006596,
       "description": "A market town district in Worcestershire on the edge of the West Midlands conurbation, known for the Avoncroft Museum of Historic Buildings and its role in the 19th-century needle and nail-making trades.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.167535,
       "longitude": -2.405984,
       "description": "A district in Worcestershire named for its dramatic hill range, long associated with composer Edward Elgar and the source of Malvern spring water.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.27971,
       "longitude": -1.947066,
       "description": "A New Town in Worcestershire built up rapidly from the 1960s, though its older core has centuries of history as a world centre of needle manufacturing.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.180238,
       "longitude": -2.01673,
       "description": "A rural district in Worcestershire covering the market town of Evesham and the Vale of Evesham, a major fruit and vegetable growing region.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 52.38507,
       "longitude": -2.277866,
       "description": "A district in Worcestershire named for its ancient woodland, covering the Severn-side town of Bewdley and the resort town of Kidderminster, historically famous for carpet-weaving.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     }
   ],

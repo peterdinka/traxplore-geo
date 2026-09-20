@@ -13,7 +13,7 @@
       "latitude": 52.448528,
       "longitude": -0.508243,
       "description": "A former rural district in Northamptonshire covering market towns like Oundle, known for its well-preserved stone architecture.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.310285,
       "longitude": -1.035227,
       "description": "A market town in Northamptonshire with a history as a coaching stop on the road between London and the Midlands, now known for its reservoir and country park.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.277957,
       "longitude": -0.714281,
       "description": "A market town in Northamptonshire with a long history in the boot and shoe trade, sitting along the River Nene in the county's industrial heartland.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.506541,
       "longitude": -0.702174,
       "description": "A town in Northamptonshire shaped by 20th-century steelmaking and a strong Scottish immigrant community drawn by industrial jobs, earning it the nickname 'Little Scotland.'",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.437686,
       "longitude": -0.760028,
       "description": "A market town in Northamptonshire historically tied to the boot and shoe trade, sitting amid rolling countryside near Rockingham Castle.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 52.234391,
       "longitude": -0.881205,
       "description": "The county town of Northamptonshire, historically the centre of England's shoemaking industry, with a heritage still celebrated at the town's shoe museum.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 52.11837,
       "longitude": -1.018704,
       "description": "A rural district of honey-coloured stone villages in Northamptonshire, home to Silverstone Circuit, the historic home of the British Grand Prix.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     }
   ],

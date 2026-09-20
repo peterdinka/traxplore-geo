@@ -13,7 +13,7 @@
       "latitude": 53.029068,
       "longitude": -1.458773,
       "description": "A district in Derbyshire named for the River Amber, covering former mill and mining towns including Belper, a UNESCO World Heritage mill town on the Derwent.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.937989,
       "longitude": -1.359141,
       "description": "A district in Derbyshire covering the towns of Ilkeston and Long Eaton, historically tied to lace-making and the East Midlands' industrial rail network.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.196948,
       "longitude": -1.272378,
       "description": "A district in Derbyshire named for its dramatic 17th-century castle overlooking former coalfield towns, now reclaimed for green space.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 53.255724,
       "longitude": -1.392736,
       "description": "A market town in Derbyshire famous for the twisted spire of its parish church, said to have been warped by either a devil's curse or simple medieval carpentry error.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.914617,
       "longitude": -1.469968,
       "description": "An industrial city in Derbyshire long associated with Rolls-Royce aero engines and railway engineering, with roots in the world's first factory, Lombe's Silk Mill, built in 1721.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 53.130285,
       "longitude": -1.706964,
       "description": "A district covering much of the Peak District's limestone dale country, including the spa town of Matlock Bath and the historic village of Bakewell, famous for its tart.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 53.367579,
       "longitude": -1.843953,
       "description": "A district in Derbyshire covering the dramatic gritstone edges and moorland of the northern Peak District, including the towns of Buxton and Glossop.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 53.222658,
       "longitude": -1.440656,
       "description": "A rural district in Derbyshire on the Peak District's eastern edge, covering former mining villages and market towns like Clay Cross.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     },
     {
@@ -77,7 +77,7 @@
       "latitude": 52.822333,
       "longitude": -1.534517,
       "description": "A largely rural district in southern Derbyshire, home to the National Forest and the market town of Swadlincote, with a landscape shaped by former coalfields now reclaimed for woodland and leisure.",
-      "category": "County",
+      "category": "Region",
       "order": 8
     }
   ],

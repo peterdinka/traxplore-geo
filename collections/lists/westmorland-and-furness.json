@@ -13,7 +13,7 @@
       "latitude": 54.131359,
       "longitude": -3.209635,
       "description": "A shipbuilding town on Cumbria's coast, historically central to Britain's submarine manufacturing, still home to BAE Systems' shipyards today.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 54.60559,
       "longitude": -2.626641,
       "description": "A rural district in Cumbria named for the River Eden, covering the market town of Penrith and the wild Pennine landscape of the North Pennines.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 54.296689,
       "longitude": -2.775854,
       "description": "A district covering much of the southern Lake District, including Windermere, England's largest natural lake, and the market town of Kendal.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     }
   ],

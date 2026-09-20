@@ -13,7 +13,7 @@
       "latitude": 55.01969,
       "longitude": -1.653252,
       "description": "A major city on the River Tyne famous for its iconic bridges, lively nightlife, and roots as a centre of coal export that gave rise to the phrase 'coals to Newcastle.'",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 54.93114,
       "longitude": -1.681531,
       "description": "A town in Tyne and Wear on the south bank of the Tyne, home to the striking Angel of the North sculpture and the Sage music venue on the regenerated quayside.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 55.028939,
       "longitude": -1.521242,
       "description": "A coastal district at the mouth of the Tyne, covering the seaside resort of Whitley Bay and the historic priory ruins at Tynemouth.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 54.969879,
       "longitude": -1.443679,
       "description": "A district in Tyne and Wear covering South Shields, a seaside town at the mouth of the Tyne with a Roman fort and sweeping sandy beach.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 54.87161,
       "longitude": -1.458089,
       "description": "A former shipbuilding city in Tyne and Wear on the mouth of the River Wear, once one of the world's largest shipbuilding centres, now home to a growing automotive industry led by Nissan.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     }
   ],

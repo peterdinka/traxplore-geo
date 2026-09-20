@@ -13,7 +13,7 @@
       "latitude": 50.744889,
       "longitude": -1.839371,
       "description": "A classic Victorian seaside resort on England's south coast, known for its wide sandy beach, pine-lined chines, and lively nightlife around the town centre. Merged with Poole and Christchurch into a single unitary authority in 2019.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 50.765579,
       "longitude": -1.777783,
       "description": "A historic town in Dorset named for its Norman priory church, the longest parish church in England, sitting where the Avon and Stour rivers meet the sea.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 50.740786,
       "longitude": -1.965748,
       "description": "A historic harbour town on England's south coast, home to one of the largest natural harbours in the world. Known for Sandbanks' expensive waterfront, Brownsea Island (birthplace of the Scout movement), and a Blue Flag beach that regularly ranks among Britain's best.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 50.867453,
       "longitude": -1.97737,
       "description": "A former rural district in Dorset covering market towns like Wimborne Minster, home to a striking medieval minster church with a chained library.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 50.919861,
       "longitude": -2.260078,
       "description": "A rural district of rolling chalk downs and market towns in Dorset, including Blandford Forum's Georgian streets and the ancient hillfort of Hambledon Hill.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 50.684752,
       "longitude": -2.126076,
       "description": "A rural district in Dorset covering the dramatic Jurassic Coast around Lulworth Cove and the Isle of Purbeck, home to Corfe Castle's ruins.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 50.795327,
       "longitude": -2.611536,
       "description": "A rural district covering the rolling hills and Jurassic Coast fringes of west Dorset, including the market town of Bridport and the fossil-famous seaside town of Lyme Regis. Known for dramatic coastline, thatched villages, and a slower pace of English countryside life.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 50.595875,
       "longitude": -2.454689,
       "description": "A Georgian seaside resort in Dorset, a favourite of King George III, with the dramatic limestone Isle of Portland forming the southern tip of Chesil Beach.",
-      "category": "County",
+      "category": "Region",
       "order": 8
     }
   ],

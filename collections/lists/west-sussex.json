@@ -13,7 +13,7 @@
       "latitude": 50.846099,
       "longitude": -0.293428,
       "description": "A small coastal district in West Sussex covering Shoreham-by-Sea, one of England's oldest ports, with a working harbour and airport.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 50.832035,
       "longitude": -0.564185,
       "description": "A coastal district in West Sussex covering Bognor Regis, Littlehampton, and the historic town of Arundel, dominated by its dramatic medieval castle.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 50.908514,
       "longitude": -0.715409,
       "description": "A cathedral city in West Sussex with a well-preserved Roman city wall layout, a Norman cathedral, and a renowned annual arts festival.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.126057,
       "longitude": -0.194255,
       "description": "A New Town in West Sussex built after WWII, now best known as the location of Gatwick Airport, England's second-busiest.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.00264,
       "longitude": -0.38448,
       "description": "A market town in West Sussex with a well-preserved medieval street pattern, surrounded by the wooded countryside of the Sussex Weald.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 51.005323,
       "longitude": -0.102287,
       "description": "A rural district in West Sussex covering the market town of Haywards Heath and the Ashdown Forest's southern edge.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 50.83322,
       "longitude": -0.38964,
       "description": "A traditional Victorian seaside resort on the West Sussex coast, known for its long pier and mild, sunny climate that gave it the nickname 'sunny Worthing.'",
-      "category": "County",
+      "category": "Region",
       "order": 7
     }
   ],

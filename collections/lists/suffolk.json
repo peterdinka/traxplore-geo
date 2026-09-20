@@ -13,7 +13,7 @@
       "latitude": 52.234766,
       "longitude": 1.103513,
       "description": "A rural district of Suffolk market towns and villages, including Stowmarket and Eye, known for timber-framed buildings and gentle farmland.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.064868,
       "longitude": 0.952961,
       "description": "A rural district in Suffolk known for its picture-postcard wool towns like Lavenham, with some of England's best-preserved medieval timber-framed buildings.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.332641,
       "longitude": 0.529427,
       "description": "A former district in Suffolk covering Newmarket, the historic headquarters of British horse racing and home to the National Horseracing Museum.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.057605,
       "longitude": 1.165413,
       "description": "The county town of Suffolk and one of England's oldest continuously inhabited towns, with a waterfront marina built from its historic docks.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.22729,
       "longitude": 0.674608,
       "description": "A former district in Suffolk centred on Bury St Edmunds, a medieval town named for the martyred Anglo-Saxon king whose shrine once made it a major pilgrimage site.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 52.150599,
       "longitude": 1.412484,
       "description": "A rural, coastal former district in Suffolk covering the seaside town of Aldeburgh and the Sutton Hoo Anglo-Saxon burial site.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 52.430933,
       "longitude": 1.554494,
       "description": "A former coastal district in Suffolk covering the seaside town of Lowestoft, England's most easterly point.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     }
   ],

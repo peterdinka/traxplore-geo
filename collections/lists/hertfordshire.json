@@ -13,7 +13,7 @@
       "latitude": 51.768978,
       "longitude": -0.575293,
       "description": "A district in Hertfordshire covering the New Town of Hemel Hempstead and the historic canal town of Berkhamsted, with its Norman castle ruins.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.772976,
       "longitude": -0.184877,
       "description": "A district in Hertfordshire home to Welwyn Garden City, one of Britain's pioneering planned garden cities from the early 20th century, alongside the historic town of Hatfield.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 51.670245,
       "longitude": -0.45095,
       "description": "A district in Hertfordshire named for the Chess, Colne, and Gade rivers, covering the town of Rickmansworth and access to the Chiltern Hills.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.730705,
       "longitude": -0.04986,
       "description": "A district in Hertfordshire along the Lee Valley, covering the towns of Cheshunt and Hoddesdon on London's northern commuter fringe.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.865695,
       "longitude": 0.005978,
       "description": "A rural district covering the market towns of Hertford and Bishop's Stortford, with countryside stretching toward the Essex border.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 51.680866,
       "longitude": -0.275034,
       "description": "A district in Hertfordshire home to Elstree Studios, a historic British film and TV production hub, and the town of Borehamwood.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 51.956882,
       "longitude": -0.166016,
       "description": "A district covering the historic market town of Hitchin and the garden city of Letchworth, the world's first, planned in 1903.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     },
     {
@@ -69,7 +69,7 @@
       "latitude": 51.768575,
       "longitude": -0.341106,
       "description": "A cathedral city in Hertfordshire built on the site of the Roman city of Verulamium, with an abbey marking the martyrdom of Britain's first Christian saint.",
-      "category": "County",
+      "category": "Region",
       "order": 8
     },
     {
@@ -77,7 +77,7 @@
       "latitude": 51.900875,
       "longitude": -0.190589,
       "description": "One of Britain's first post-war New Towns, built in Hertfordshire from 1946 as a model for pedestrian-friendly urban planning.",
-      "category": "County",
+      "category": "Region",
       "order": 9
     },
     {
@@ -85,7 +85,7 @@
       "latitude": 51.669549,
       "longitude": -0.404211,
       "description": "A commuter town in Hertfordshire on the edge of London, historically a printing and brewing centre, now known for its large shopping centre and football club.",
-      "category": "County",
+      "category": "Region",
       "order": 10
     }
   ],

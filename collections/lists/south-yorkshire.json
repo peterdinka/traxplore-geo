@@ -13,7 +13,7 @@
       "latitude": 53.40382,
       "longitude": -1.56307,
       "description": "A South Yorkshire city famous worldwide for steel production, particularly cutlery, now reinvented with extensive green space — a third of the city sits within the Peak District — and a strong music heritage.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.525539,
       "longitude": -1.549189,
       "description": "A former coal-mining town in South Yorkshire, its identity still shaped by that industrial heritage even as the pits have long closed. Known for its market, Elsecar Heritage Centre, and strong working-class cultural pride.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.533514,
       "longitude": -1.106983,
       "description": "A South Yorkshire town with deep railway heritage, home to the St Leger Stakes, the world's oldest classic horse race, run at Doncaster Racecourse since 1776.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 53.408421,
       "longitude": -1.285929,
       "description": "A former steel and coal town in South Yorkshire, home to Magna Science Adventure Centre inside a converted steelworks, and close to Wentworth Woodhouse, one of England's largest private houses.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     }
   ],

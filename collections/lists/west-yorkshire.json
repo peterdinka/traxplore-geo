@@ -13,7 +13,7 @@
       "latitude": 53.843724,
       "longitude": -1.850786,
       "description": "A West Yorkshire city built on the wool and textile trade, now known for its curry heritage, striking Victorian architecture, and the National Science and Media Museum. Named UK City of Culture for 2025.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 53.720478,
       "longitude": -1.950258,
       "description": "A district in West Yorkshire covering the mill town of Halifax, known for the Piece Hall, a magnificent 18th-century cloth trading hall.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 53.642321,
       "longitude": -1.790273,
       "description": "A district in West Yorkshire covering the mill town of Huddersfield and Dewsbury, shaped by the region's textile manufacturing heritage.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 53.822428,
       "longitude": -1.545377,
       "description": "A major Yorkshire city that grew from the wool trade into a modern financial and cultural centre, known for its Victorian arcades, Kirkgate Market, and a lively music and nightlife scene.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 53.658546,
       "longitude": -1.411828,
       "description": "A cathedral city in West Yorkshire historically built on wool trading, home to the Hepworth Wakefield gallery honouring sculptor Barbara Hepworth, born in the city.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     }
   ],

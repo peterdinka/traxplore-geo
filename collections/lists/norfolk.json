@@ -13,7 +13,7 @@
       "latitude": 52.590301,
       "longitude": 0.819399,
       "description": "A rural district in Norfolk named for the Brecks, a distinctive sandy heathland landscape, and home to the market town of Thetford.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 52.693019,
       "longitude": 1.334156,
       "description": "A district in Norfolk taking in part of the Norfolk Broads, a network of navigable rivers and lakes popular for boating holidays, just north of Norwich.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 52.634385,
       "longitude": 1.645334,
       "description": "A traditional English seaside resort on the Norfolk coast, once a major herring fishing port, now known for its beach, pier, and Victorian promenade.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 52.712392,
       "longitude": 0.4878,
       "description": "A district centred on the historic Hanseatic League port of King's Lynn, with a well-preserved medieval merchant quarter and the nearby royal Sandringham Estate.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 52.829943,
       "longitude": 1.191643,
       "description": "A coastal district in Norfolk known for its salt marshes, seal colonies, and genteel seaside towns like Cromer and Wells-next-the-Sea.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 52.640054,
       "longitude": 1.273045,
       "description": "A historic cathedral city in Norfolk, one of medieval England's largest and wealthiest, with a Norman cathedral, castle, and a distinctive circular market dating back centuries.",
-      "category": "County",
+      "category": "Region",
       "order": 6
     },
     {
@@ -61,7 +61,7 @@
       "latitude": 52.516935,
       "longitude": 1.314604,
       "description": "A rural district ringing Norwich, covering market towns like Wymondham with its twin-towered abbey church.",
-      "category": "County",
+      "category": "Region",
       "order": 7
     }
   ],

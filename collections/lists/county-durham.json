@@ -21,7 +21,7 @@
       "latitude": 54.535247,
       "longitude": -1.558502,
       "description": "A market town in County Durham with a well-preserved Victorian centre, historically a railway engineering hub as the birthplace of the Stockton and Darlington Railway.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 54.674532,
       "longitude": -1.27073,
       "description": "A historic port town on the northeast coast, with maritime roots stretching back to a 7th-century monastery, now home to the National Museum of the Royal Navy's HMS Trincomalee.",
-      "category": "County",
+      "category": "Region",
       "order": 3
     }
   ],

@@ -13,7 +13,7 @@
       "latitude": 51.40034,
       "longitude": -0.733968,
       "description": "A district in Berkshire built up substantially as a post-war New Town, with the ancient Windsor Great Park and Swinley Forest woodland nearby.",
-      "category": "District",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.480316,
       "longitude": -0.688355,
       "description": "A district in Berkshire home to Windsor Castle, the oldest and largest inhabited castle in the world and a working royal residence.",
-      "category": "District",
+      "category": "Region",
       "order": 2
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.446337,
       "longitude": -1.284899,
       "description": "A large rural district in Berkshire covering the market town of Newbury, known for its racecourse and the rolling North Wessex Downs.",
-      "category": "District",
+      "category": "Region",
       "order": 5
     },
     {
@@ -53,7 +53,7 @@
       "latitude": 51.457103,
       "longitude": -0.900381,
       "description": "An affluent commuter town in Berkshire, historically a centre for silk weaving, now known for its Georgian high street and leafy surrounding countryside.",
-      "category": "District",
+      "category": "Region",
       "order": 6
     }
   ],

@@ -13,7 +13,7 @@
       "latitude": 51.753622,
       "longitude": -1.240015,
       "description": "A world-famous university city, home to the oldest university in the English-speaking world, with dreaming spires, historic colleges, and the Bodleian Library dating to 1602.",
-      "category": "County",
+      "category": "Region",
       "order": 1
     },
     {
@@ -21,7 +21,7 @@
       "latitude": 51.84034,
       "longitude": -1.502826,
       "description": "A rural Cotswolds-adjacent district in Oxfordshire home to Blenheim Palace, birthplace of Winston Churchill and a UNESCO World Heritage Site, and the market town of Witney.",
-      "category": "County",
+      "category": "Region",
       "order": 2
     },
     {
@@ -29,7 +29,7 @@
       "latitude": 51.974715,
       "longitude": -1.285069,
       "description": "A rural district in Oxfordshire covering the market town of Banbury, famous for the nursery rhyme 'Ride a cock-horse to Banbury Cross.'",
-      "category": "County",
+      "category": "Region",
       "order": 3
     },
     {
@@ -37,7 +37,7 @@
       "latitude": 51.636637,
       "longitude": -1.080159,
       "description": "A rural district southeast of Oxford, taking in the Chiltern Hills, the Thames-side town of Wallingford, and the riverside village of Goring.",
-      "category": "County",
+      "category": "Region",
       "order": 4
     },
     {
@@ -45,7 +45,7 @@
       "latitude": 51.654202,
       "longitude": -1.451217,
       "description": "A rural district in Oxfordshire named for the prehistoric Uffington White Horse chalk figure carved into a hillside, alongside the market town of Abingdon.",
-      "category": "County",
+      "category": "Region",
       "order": 5
     }
   ],

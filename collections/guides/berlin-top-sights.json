@@ -165,5 +165,10 @@
     "xp": 400,
     "order": 1,
     "description": "Finish the Berlin Top Sights guide."
-  }
+  },
+  "tags": [
+    "sightseeing",
+    "history",
+    "architecture"
+  ]
 }

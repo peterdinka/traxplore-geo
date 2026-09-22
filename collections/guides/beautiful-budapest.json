@@ -178,5 +178,10 @@
     "xp": 400,
     "order": 2,
     "description": "Finish the Beautiful Budapest guide."
-  }
+  },
+  "tags": [
+    "sightseeing",
+    "architecture",
+    "history"
+  ]
 }

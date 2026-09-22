@@ -16,5 +16,10 @@
     "xp": 400,
     "order": 4,
     "description": "Walk the full Causeway Coast Way."
-  }
+  },
+  "tags": [
+    "hiking",
+    "nature",
+    "views"
+  ]
 }

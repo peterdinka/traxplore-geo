@@ -16,5 +16,9 @@
     "xp": 400,
     "order": 5,
     "description": "Walk the full Hadrian's Wall Path."
-  }
+  },
+  "tags": [
+    "hiking",
+    "history"
+  ]
 }

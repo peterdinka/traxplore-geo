@@ -16,5 +16,9 @@
     "xp": 400,
     "order": 6,
     "description": "Walk the full South Downs Way."
-  }
+  },
+  "tags": [
+    "hiking",
+    "nature"
+  ]
 }

@@ -47,7 +47,7 @@
     },
     {
       "id": 5,
-      "name": "Chesters Roman Fort (Chollerford)",
+      "name": "Chesters Roman Fort",
       "category": "Historical Site / Fort",
       "coordinates": {
         "latitude": 55.0253,
@@ -57,17 +57,27 @@
     },
     {
       "id": 6,
-      "name": "Brocolitia Roman Fort & Temple of Mithras",
-      "category": "Historical Site / Temple",
+      "name": "Brocolitia Roman Fort",
+      "category": "Historical Site / Fort",
       "coordinates": {
-        "latitude": 55.0347,
-        "longitude": -2.2341
+        "latitude": 55.03505,
+        "longitude": -2.221709
       },
-      "description": "An ancient fort site containing a unique Roman temple dedicated to the mystery god Mithras."
+      "description": "A Roman fort on the wall, garrisoned by an auxiliary cohort and still legible as earthworks."
     },
     {
       "id": 7,
-      "name": "Sewellings Crags",
+      "name": "Temple of Mithras",
+      "category": "Historical Site / Temple",
+      "coordinates": {
+        "latitude": 55.033854,
+        "longitude": -2.222543
+      },
+      "description": "A third-century Mithraeum just below the fort, its altars still standing where the garrison left them."
+    },
+    {
+      "id": 8,
+      "name": "Sewingshields Crags",
       "category": "Scenic Viewpoint / High Country",
       "coordinates": {
         "latitude": 55.0194,
@@ -76,7 +86,7 @@
       "description": "The point where the path ascends sharply onto the dramatic dolerite cliffs of the Whin Sill escarpment."
     },
     {
-      "id": 8,
+      "id": 9,
       "name": "Housesteads Roman Fort",
       "category": "Historical Site / Fort Ruins",
       "coordinates": {
@@ -86,7 +96,7 @@
       "description": "The most complete Roman fort standing on a high crag, with intact granaries, barracks, and ancient latrines."
     },
     {
-      "id": 9,
+      "id": 10,
       "name": "Sycamore Gap",
       "category": "Natural / Historic Landmark",
       "coordinates": {
@@ -96,8 +106,8 @@
       "description": "The iconic dip in the Whin Sill crags along the wall line, famously known for the historical Sycamore tree location."
     },
     {
-      "id": 10,
-      "name": "Steel Rigg & Peel Crags",
+      "id": 11,
+      "name": "Peel Crags",
       "category": "Viewpoint / Ridge Walk",
       "coordinates": {
         "latitude": 55.0016,
@@ -106,8 +116,8 @@
       "description": "A high, rugged ridge section offering some of the most famous and breathtaking vistas along the trail."
     },
     {
-      "id": 11,
-      "name": "Cawfields Crags & Milecastle 42",
+      "id": 12,
+      "name": "Milecastle 42",
       "category": "Historical Site / Crags",
       "coordinates": {
         "latitude": 54.9961,
@@ -116,7 +126,7 @@
       "description": "A dramatic cliff section featuring a remarkably intact Roman milecastle fort built into the crag edge."
     },
     {
-      "id": 12,
+      "id": 13,
       "name": "Walltown Crags",
       "category": "Historical Site / Ridge Walk",
       "coordinates": {
@@ -126,18 +136,18 @@
       "description": "One of the steepest and most dramatic sections of wall perched directly above former quarry cliffs."
     },
     {
-      "id": 13,
+      "id": 14,
       "name": "Thirlwall Castle",
       "category": "Historical Site / Castle Ruins",
       "coordinates": {
-        "latitude": 54.9880,
+        "latitude": 54.988,
         "longitude": -2.5492
       },
       "description": "A 14th-century castle ruin built entirely out of salvaged stones taken from Hadrian's Wall."
     },
     {
-      "id": 14,
-      "name": "Willowford Bridge & Birdoswald Fort",
+      "id": 15,
+      "name": "Birdoswald Roman Fort",
       "category": "Historical Site / Fort",
       "coordinates": {
         "latitude": 54.9902,
@@ -146,7 +156,7 @@
       "description": "Features the remains of a Roman bridge abutment crossing the River Irthing and an extensive fort site."
     },
     {
-      "id": 15,
+      "id": 16,
       "name": "Lanercost Priory (Banks Side)",
       "category": "Historical Site / Abbey Ruins",
       "coordinates": {
@@ -156,8 +166,8 @@
       "description": "A beautiful 12th-century Augustinian priory built using Roman stones, located just off the main wall line."
     },
     {
-      "id": 16,
-      "name": "Walton Village",
+      "id": 17,
+      "name": "Walton",
       "category": "Village / Waypoint",
       "coordinates": {
         "latitude": 54.9634,
@@ -166,8 +176,8 @@
       "description": "A quiet Cumbrian village marking the descent from the high central crags into rolling western farmland."
     },
     {
-      "id": 17,
-      "name": "Carlisle Castle & Historic Centre",
+      "id": 18,
+      "name": "Carlisle Castle",
       "category": "City Walk / Historical Castle",
       "coordinates": {
         "latitude": 54.8978,
@@ -176,7 +186,7 @@
       "description": "The major city along the western trail leg, featuring a medieval fortress built over the original Roman fort."
     },
     {
-      "id": 18,
+      "id": 19,
       "name": "Burgh by Sands",
       "category": "Village / Historical Site",
       "coordinates": {
@@ -186,7 +196,7 @@
       "description": "A historic village near the Solway Marshes where King Edward I died in 1307 while campaigning."
     },
     {
-      "id": 19,
+      "id": 20,
       "name": "Drumburgh Castle",
       "category": "Historical Building / Marshland",
       "coordinates": {
@@ -196,7 +206,7 @@
       "description": "A fortified 14th-century Pele tower built directly from repurposed Roman wall stones."
     },
     {
-      "id": 20,
+      "id": 21,
       "name": "Bowness-on-Solway Pavilion",
       "category": "Trailhead / Estuary",
       "coordinates": {

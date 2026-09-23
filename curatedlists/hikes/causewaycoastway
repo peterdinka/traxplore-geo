@@ -7,7 +7,7 @@
   "waypoints": [
     {
       "id": 1,
-      "name": "Portstewart Strand Trailhead",
+      "name": "Portstewart Strand",
       "category": "Trailhead / Beach",
       "coordinates": {
         "latitude": 55.1831,
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "name": "Portstewart Promenade",
+      "name": "Portstewart",
       "category": "Town / Scenic Walk",
       "coordinates": {
         "latitude": 55.1812,
@@ -41,7 +41,7 @@
       "category": "Beach / Natural Feature",
       "coordinates": {
         "latitude": 55.2053,
-        "longitude": -6.6190
+        "longitude": -6.619
       },
       "description": "A scenic beach flanked by dramatic white limestone cliffs, natural arches, and sea caves carved into the rock."
     },
@@ -67,7 +67,7 @@
     },
     {
       "id": 7,
-      "name": "Runkerry House & Headland",
+      "name": "Runkerry Beach",
       "category": "Historical Building / Cliff Walk",
       "coordinates": {
         "latitude": 55.2078,
@@ -111,7 +111,7 @@
       "category": "Beach / Nature Reserve",
       "coordinates": {
         "latitude": 55.2335,
-        "longitude": -6.3980
+        "longitude": -6.398
       },
       "description": "A secluded arc of white sand backed by ancient dunes, chalk cliffs, and rich coastal wildlife habitat."
     },
@@ -137,7 +137,7 @@
     },
     {
       "id": 14,
-      "name": "Portaneevey Viewpoint",
+      "name": "Portaneevy Viewing Point",
       "category": "Viewpoint",
       "coordinates": {
         "latitude": 55.2384,

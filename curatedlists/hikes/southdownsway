@@ -8,25 +8,25 @@
   {
     "order": 2,
     "name": "Cheesefoot Head",
-    "latitude": 51.046270,
-    "longitude": -1.243390
+    "latitude": 51.04627,
+    "longitude": -1.24339
   },
   {
     "order": 3,
-    "name": "Beacon Hill",
+    "name": "Beacon Hill National Nature Reserve",
     "latitude": 51.000431,
     "longitude": -1.139844
   },
   {
     "order": 4,
     "name": "Old Winchester Hill",
-    "latitude": 50.980800,
-    "longitude": -1.088300
+    "latitude": 50.9808,
+    "longitude": -1.0883
   },
   {
     "order": 5,
     "name": "Butser Hill",
-    "latitude": 50.977750,
+    "latitude": 50.97775,
     "longitude": -0.980512
   },
   {
@@ -38,8 +38,8 @@
   {
     "order": 7,
     "name": "Harting Down",
-    "latitude": 50.958800,
-    "longitude": -0.870460
+    "latitude": 50.9588,
+    "longitude": -0.87046
   },
   {
     "order": 8,
@@ -75,13 +75,13 @@
     "order": 13,
     "name": "Devil's Dyke",
     "latitude": 50.884803,
-    "longitude": -0.212990
+    "longitude": -0.21299
   },
   {
     "order": 14,
     "name": "Ditchling Beacon",
-    "latitude": 50.901720,
-    "longitude": -0.107590
+    "latitude": 50.90172,
+    "longitude": -0.10759
   },
   {
     "order": 15,
@@ -98,8 +98,8 @@
   {
     "order": 17,
     "name": "Firle Beacon",
-    "latitude": 50.833800,
-    "longitude": 0.108020
+    "latitude": 50.8338,
+    "longitude": 0.10802
   },
   {
     "order": 18,

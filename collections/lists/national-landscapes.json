@@ -17,7 +17,7 @@
       "order": 1
     },
     {
-      "name": "Antrim Coast & Glens",
+      "name": "Antrim Coast and Glens National Landscape",
       "latitude": 55.0168243,
       "longitude": -6.0895283,
       "description": "A dramatic Northern Ireland coastline of nine glens running down to the sea, with the Antrim Coast Road ranked among the world's great scenic drives.",
@@ -25,7 +25,7 @@
       "order": 1
     },
     {
-      "name": "Arnside & Silverdale",
+      "name": "Arnside & Silverdale National Landscape",
       "latitude": 54.2022517,
       "longitude": -2.8280939,
       "description": "A small, coastal National Landscape straddling the Lancashire-Cumbria border, known for limestone pavement, ancient woodland, and views across Morecambe Bay's shifting sands.",
@@ -33,7 +33,7 @@
       "order": 1
     },
     {
-      "name": "Binevenagh",
+      "name": "Binevenagh National Landscape",
       "latitude": 55.1188483,
       "longitude": -6.8686141,
       "description": "A striking basalt escarpment overlooking the Roe Valley and the north coast, part of the same volcanic geology as the Giant's Causeway.",
@@ -41,7 +41,7 @@
       "order": 2
     },
     {
-      "name": "Blackdown Hills",
+      "name": "Blackdown Hills National Landscape",
       "latitude": 50.9185056,
       "longitude": -3.2245554,
       "description": "A quiet, little-visited National Landscape in Devon and Somerset, characterised by rolling hills, deep wooded combes, and traditional cider orchards.",
@@ -49,7 +49,7 @@
       "order": 2
     },
     {
-      "name": "Clwydian Range & Dee Valley",
+      "name": "Clwydian Range and Dee Valley National Landscape",
       "latitude": 53.0719177,
       "longitude": -3.2352251,
       "description": "A National Landscape of rolling hills and Iron Age hillforts in northeast Wales, extended in 2011 to include the Dee Valley near Llangollen.",
@@ -57,7 +57,7 @@
       "order": 2
     },
     {
-      "name": "Cannock Chase",
+      "name": "Cannock Chase National Landscape",
       "latitude": 52.755881,
       "longitude": -2.0044109,
       "description": "England's smallest National Landscape, a former royal hunting forest in Staffordshire now covered in heathland, pine forest, and mountain bike trails.",
@@ -65,7 +65,7 @@
       "order": 3
     },
     {
-      "name": "Causeway Coast",
+      "name": "Causeway Coast National Landscape",
       "latitude": 55.2292683,
       "longitude": -6.4610826,
       "description": "Home to the Giant's Causeway, a UNESCO World Heritage Site of hexagonal basalt columns formed by volcanic activity 60 million years ago.",
@@ -73,7 +73,7 @@
       "order": 3
     },
     {
-      "name": "Gower (Gŵyr)",
+      "name": "Gower National Landscape",
       "latitude": 51.5967069,
       "longitude": -4.1698347,
       "description": "The very first AONB in the UK, designated in 1956, a small Welsh peninsula famous for Rhossili Bay's sweeping sands, regularly rated among the world's best beaches.",
@@ -89,7 +89,7 @@
       "order": 4
     },
     {
-      "name": "Chichester Harbour",
+      "name": "Chichester Harbour National Landscape",
       "latitude": 50.8068707,
       "longitude": -0.8664326,
       "description": "A tidal estuary National Landscape on the Sussex-Hampshire border, a haven for sailing, wading birds, and quiet waterside villages like Bosham.",
@@ -113,7 +113,7 @@
       "order": 5
     },
     {
-      "name": "Chilterns",
+      "name": "Chilterns National Landscape",
       "latitude": 51.655159,
       "longitude": -0.8523373,
       "description": "A chalk escarpment National Landscape stretching from the Thames near Goring up through Buckinghamshire, known for beech woodlands and red kites reintroduced in the 1990s.",
@@ -129,7 +129,7 @@
       "order": 6
     },
     {
-      "name": "Ring of Gullion",
+      "name": "Ring of Gullion National Landscape",
       "latitude": 54.1226694,
       "longitude": -6.4293918,
       "description": "A ring-shaped range of hills in County Armagh formed by an ancient volcanic ring dyke, steeped in Irish mythology tied to the legend of Cú Chulainn.",
@@ -137,7 +137,7 @@
       "order": 6
     },
     {
-      "name": "Cotswolds",
+      "name": "Cotswolds National Landscape",
       "latitude": 51.7904231,
       "longitude": -1.9585663,
       "description": "The largest National Landscape in England, a belt of honey-coloured limestone hills famous for chocolate-box villages, dry-stone walls, and wool-church architecture.",
@@ -145,7 +145,7 @@
       "order": 7
     },
     {
-      "name": "Sperrin",
+      "name": "Sperrin National Landscape",
       "latitude": 54.7870077,
       "longitude": -7.0611908,
       "description": "Northern Ireland's largest upland area, a remote range of rounded hills straddling Counties Tyrone and Londonderry, historically mined for gold.",
@@ -153,7 +153,7 @@
       "order": 7
     },
     {
-      "name": "Strangford & Lecale Coast",
+      "name": "Strangford and Lecale National Landscape",
       "latitude": 54.4035399,
       "longitude": -5.6412205,
       "description": "A landscape of drumlin islands in Strangford Lough merging with the Lecale coastline, home to Mount Stewart's gardens and Game of Thrones filming locations.",
@@ -161,7 +161,7 @@
       "order": 8
     },
     {
-      "name": "Cranborne Chase",
+      "name": "Cranborne Chase National Landscape",
       "latitude": 50.9559809,
       "longitude": -2.0715265,
       "description": "A chalk landscape straddling Dorset, Wiltshire, and Hampshire, characterised by ancient hunting-forest woodland, Bronze Age barrows, and one of England's darkest night skies.",
@@ -169,7 +169,7 @@
       "order": 8
     },
     {
-      "name": "Dedham Vale",
+      "name": "Dedham Vale National Landscape",
       "latitude": 51.9604301,
       "longitude": 0.9943602,
       "description": "The compact Essex-Suffolk valley immortalised in John Constable's paintings, still recognisable today from the artist's landscapes of the River Stour.",
@@ -177,7 +177,7 @@
       "order": 9
     },
     {
-      "name": "Dorset",
+      "name": "Dorset National Landscape",
       "latitude": 50.686605,
       "longitude": -2.549514,
       "description": "A varied National Landscape covering chalk downland, heathland, and the Jurassic Coast's fossil-rich cliffs, stretching across much of the county.",
@@ -185,7 +185,7 @@
       "order": 10
     },
     {
-      "name": "East Devon",
+      "name": "East Devon National Landscape",
       "latitude": 50.7518807,
       "longitude": -3.1242642,
       "description": "A coastal and rural National Landscape of red sandstone cliffs and the Jurassic Coast's eastern reaches, including the resort town of Sidmouth.",
@@ -193,7 +193,7 @@
       "order": 11
     },
     {
-      "name": "Forest of Bowland",
+      "name": "Forest of Bowland National Landscape",
       "latitude": 53.9435122,
       "longitude": -2.5208125,
       "description": "A remote, heather-moorland National Landscape in Lancashire, historically a royal hunting ground and near the area associated with the 17th-century Pendle witch trials.",
@@ -209,7 +209,7 @@
       "order": 13
     },
     {
-      "name": "Howardian Hills",
+      "name": "Howardian Hills National Landscape",
       "latitude": 54.1399589,
       "longitude": -1.0075028,
       "description": "A gentle, wooded National Landscape in North Yorkshire between the Yorkshire Wolds and the North York Moors, dotted with historic estates like Castle Howard.",
@@ -225,7 +225,7 @@
       "order": 15
     },
     {
-      "name": "Isles of Scilly",
+      "name": "Isles of Scilly National Landscape",
       "latitude": 49.922697,
       "longitude": -6.331378,
       "description": "England's smallest National Landscape, an archipelago 28 miles off Cornwall known for a subtropical microclimate, flower farming, and pristine white-sand beaches.",
@@ -241,7 +241,7 @@
       "order": 17
     },
     {
-      "name": "Lincolnshire Wolds",
+      "name": "Lincolnshire Wolds National Landscape",
       "latitude": 53.3860166,
       "longitude": -0.1455561,
       "description": "A gently rolling range of chalk hills in Lincolnshire, one of England's least-visited National Landscapes, known for wide skies and quiet villages.",
@@ -249,7 +249,7 @@
       "order": 18
     },
     {
-      "name": "Malvern Hills",
+      "name": "Malvern Hills National Landscape",
       "latitude": 52.1048082,
       "longitude": -2.3375868,
       "description": "A dramatic ridge of ancient volcanic rock rising abruptly from the Severn plain, long associated with composer Edward Elgar and the source of Malvern spring water.",
@@ -257,7 +257,7 @@
       "order": 19
     },
     {
-      "name": "Mendip Hills",
+      "name": "Mendip Hills National Landscape",
       "latitude": 51.2987166,
       "longitude": -2.7157486,
       "description": "A limestone plateau in Somerset riddled with caves and gorges, including the dramatic Cheddar Gorge, England's largest gorge.",
@@ -265,7 +265,7 @@
       "order": 20
     },
     {
-      "name": "Nidderdale",
+      "name": "Nidderdale National Landscape",
       "latitude": 54.1159935,
       "longitude": -1.7291892,
       "description": "A Yorkshire Dales-adjacent National Landscape following the River Nidder, known for reservoirs, heather moorland, and the curious Brimham Rocks.",
@@ -273,7 +273,7 @@
       "order": 21
     },
     {
-      "name": "Norfolk Coast",
+      "name": "Norfolk Coast National Landscape",
       "latitude": 52.9249621,
       "longitude": 1.0645624,
       "description": "A low-lying coastal National Landscape of salt marshes, dunes, and pine woods, home to seal colonies and some of England's best birdwatching.",
@@ -281,7 +281,7 @@
       "order": 22
     },
     {
-      "name": "North Devon",
+      "name": "North Devon Coast National Landscape",
       "latitude": 51.1329103,
       "longitude": -4.2375322,
       "description": "A rugged Atlantic coastline National Landscape taking in dramatic cliffs, the surf beaches around Woolacombe, and Exmoor's western fringe.",
@@ -289,7 +289,7 @@
       "order": 23
     },
     {
-      "name": "North Pennines",
+      "name": "North Pennines National Landscape",
       "latitude": 54.7599253,
       "longitude": -2.2315979,
       "description": "England's largest National Landscape, a windswept upland region of moorland and dales sometimes called 'England's last wilderness,' and a UNESCO Global Geopark.",
@@ -297,7 +297,7 @@
       "order": 24
     },
     {
-      "name": "North Wessex Downs",
+      "name": "North Wessex Downs National Landscape",
       "latitude": 51.415081,
       "longitude": -1.4955863,
       "description": "A chalk downland National Landscape spanning Wiltshire, Berkshire, Hampshire, and Oxfordshire, home to Avebury's prehistoric stone circle.",
@@ -313,7 +313,7 @@
       "order": 26
     },
     {
-      "name": "Quantock Hills",
+      "name": "Quantock Hills National Landscape",
       "latitude": 51.1322222,
       "longitude": -3.2119444,
       "description": "England's first ever AONB, designated in 1957, a compact range of wooded hills and heather moorland in Somerset.",
@@ -321,7 +321,7 @@
       "order": 27
     },
     {
-      "name": "Shropshire Hills",
+      "name": "Shropshire Hills National Landscape",
       "latitude": 52.5377343,
       "longitude": -2.8068478,
       "description": "A varied upland National Landscape on the Welsh border, taking in the rocky Stiperstones, the Long Mynd moorland, and Wenlock Edge's wooded scarp.",
@@ -329,7 +329,7 @@
       "order": 28
     },
     {
-      "name": "Solway Coast",
+      "name": "Solway Coast National Landscape",
       "latitude": 54.871865,
       "longitude": -3.3840968,
       "description": "A remote, low-lying National Landscape on Cumbria's northern coast, facing Scotland across the Solway Firth, known for saltmarsh and migratory birdlife.",
@@ -337,7 +337,7 @@
       "order": 29
     },
     {
-      "name": "South Devon",
+      "name": "South Devon National Landscape",
       "latitude": 50.270191,
       "longitude": -3.7629109,
       "description": "A National Landscape of drowned river valleys ('rias'), fishing villages, and the South Hams' rolling countryside between Torbay and Plymouth.",
@@ -345,7 +345,7 @@
       "order": 30
     },
     {
-      "name": "Suffolk Coast & Heaths",
+      "name": "Suffolk & Essex Coast & Heaths National Landscape",
       "latitude": 52.0838604,
       "longitude": 1.4332206,
       "description": "A National Landscape of heathland, reed-fringed estuaries, and shingle beaches along the Suffolk and north Essex coast, including Sutton Hoo's Anglo-Saxon burial ground.",
@@ -361,7 +361,7 @@
       "order": 32
     },
     {
-      "name": "Tamar Valley",
+      "name": "Tamar Valley National Landscape",
       "latitude": 50.5145006,
       "longitude": -4.2220679,
       "description": "The most recently designated English National Landscape (1995), following the river that forms the Devon-Cornwall border through former mining and market-garden country.",
@@ -369,7 +369,7 @@
       "order": 33
     },
     {
-      "name": "Wye Valley",
+      "name": "Wye Valley National Landscape",
       "latitude": 51.836043,
       "longitude": -2.632493,
       "description": "A dramatic gorge landscape straddling England and Wales, carved by the River Wye, overlooked by the ruins of Tintern Abbey.",

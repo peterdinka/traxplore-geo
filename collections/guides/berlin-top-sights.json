@@ -54,14 +54,14 @@
       ]
     },
     {
-      "title": "Museum Island",
+      "title": "Museumsinsel Berlin",
       "order": 4,
       "day": 2,
       "narrative": "Cluster of world-class museums on the Spree River.",
       "category": "Culture",
       "poiType": "museum",
-      "latitude": 52.5169,
-      "longitude": 13.401,
+      "latitude": 52.521009,
+      "longitude": 13.396695,
       "photos": [
         "https://images.unsplash.com/photo-1747119421266-742889fcde8a?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1724079694527-d98f21d059dc?q=80&w=2034&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",

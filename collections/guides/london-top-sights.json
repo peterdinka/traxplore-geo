@@ -62,25 +62,39 @@
       ]
     },
     {
-      "title": "Big Ben & Houses of Parliament",
+      "title": "Palace of Westminster",
       "order": 4,
       "day": 1,
-      "narrative": "The Palace of Westminster has stood on this site since the 11th century, though most of what you see today dates from the 1840s-1870s rebuild after a catastrophic 1834 fire destroyed the original palace. Big Ben is technically only the Great Bell inside the tower — the tower itself was renamed Elizabeth Tower in 2012 for the Queen's Diamond Jubilee. The bell cracked during testing in 1857 and again in 1859, leaving the distinctive off-key chime still heard today.",
+      "narrative": "The Palace of Westminster has stood on this site since the 11th century, though most of what you see today dates from the 1840s-1870s rebuild after a catastrophic 1834 fire destroyed the original palace. Charles Barry won the competition to replace it and Augustus Pugin drew the Gothic detail, inside and out. It is still a working legislature: the Commons and the Lords both sit here.",
       "category": "Architecture",
       "poiType": "landmark",
       "estimatedMinutes": 20,
-      "practicalTip": "Best photos are from Westminster Bridge — cross to the London Eye side for the classic postcard shot with the Thames in frame.",
-      "latitude": 51.4994794,
-      "longitude": -0.1248092,
+      "practicalTip": "Tours run on Saturdays and during parliamentary recess — book online well ahead. The flag flying from Victoria Tower tells you whether either House is sitting.",
+      "latitude": 51.499767,
+      "longitude": -0.124681,
       "photos": [
         "https://images.unsplash.com/photo-1532219362275-a1cbe9dc3602?q=80&w=2076&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1674738675757-4bfc2b2e1fad?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1512734099960-65a682cbfe2b?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
-      "title": "Churchill War Rooms",
+      "title": "Big Ben",
       "order": 5,
+      "day": 1,
+      "narrative": "Big Ben is technically only the Great Bell inside the tower — the tower itself was renamed Elizabeth Tower in 2012 for the Queen's Diamond Jubilee. The bell cracked during testing in 1857 and again in 1859, leaving the distinctive off-key chime still heard today.",
+      "category": "Architecture",
+      "poiType": "landmark",
+      "estimatedMinutes": 10,
+      "practicalTip": "Best photos are from Westminster Bridge — cross to the London Eye side for the classic postcard shot with the Thames in frame.",
+      "latitude": 51.500702,
+      "longitude": -0.12457,
+      "photos": [
+        "https://images.unsplash.com/photo-1674738675757-4bfc2b2e1fad?q=80&w=1036&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      ]
+    },
+    {
+      "title": "Churchill War Rooms",
+      "order": 6,
       "day": 1,
       "narrative": "The underground bunker complex beneath Whitehall where Winston Churchill and his War Cabinet directed Britain's WWII strategy from 1939 to 1945. Everything was left almost exactly as it was on the day the lights were switched off — sugar cubes, pinned convoy maps, even a lump of sugar allegedly saved by a secretary as a wartime souvenir. Churchill rarely slept here, preferring his own flat above ground, but the Cabinet Room hosted 115 meetings during the war.",
       "category": "History",
@@ -96,7 +110,7 @@
     },
     {
       "title": "London Eye",
-      "order": 6,
+      "order": 7,
       "day": 1,
       "narrative": "At 135 metres, it was the world's tallest Ferris wheel when it opened for the millennium in 2000, and remains Europe's tallest cantilevered observation wheel. Each of its 32 sealed capsules represents a London borough, though none is officially numbered '13' — a nod to superstition. On a clear day, visibility stretches up to 40km, taking in Windsor Castle to the west.",
       "category": "Culture",
@@ -113,7 +127,7 @@
     },
     {
       "title": "Tower of London",
-      "order": 7,
+      "order": 8,
       "day": 2,
       "narrative": "Founded by William the Conqueror in 1066 as a statement of Norman power over a freshly conquered city — the White Tower at its centre is nearly 1,000 years old. It's served as a royal palace, an armoury, a mint, and most infamously a prison and execution site: Anne Boleyn and Catherine Howard were both beheaded within its walls. Legend holds the kingdom will fall if its resident ravens ever leave, so Charles II decreed a minimum of six be kept at all times. The Crown Jewels held here include the Cullinan I diamond, at 530 carats the largest clear-cut diamond in the world.",
       "category": "History",
@@ -130,7 +144,7 @@
     },
     {
       "title": "Tower Bridge",
-      "order": 8,
+      "order": 9,
       "day": 2,
       "narrative": "Frequently mistaken for London Bridge, which sits plainly one bridge upstream, Tower Bridge is the ornate Victorian Gothic bascule bridge completed in 1894 to relieve congestion while still allowing tall ships to pass. Its twin towers conceal a lifting mechanism, steam-powered until 1976, that could raise the roadway to 86 degrees in about a minute. It still opens for river traffic today, around 800 times a year.",
       "category": "Architecture",
@@ -147,7 +161,7 @@
     },
     {
       "title": "Borough Market",
-      "order": 9,
+      "order": 10,
       "day": 2,
       "narrative": "One of London's oldest markets, with trading recorded on or near this site as far back as the 12th century — older than Westminster Abbey's current building. It survived the construction of London Bridge station literally overhead, the market now tucked partly beneath Victorian railway arches. Today it's less a survivor of history and more a genuine food destination, but the wrought-iron and glass structure still carries its 1851 bones.",
       "category": "Culture",
@@ -164,7 +178,7 @@
     },
     {
       "title": "Shakespeare's Globe",
-      "order": 10,
+      "order": 11,
       "day": 2,
       "narrative": "A faithful reconstruction, opened in 1997, of the open-air playhouse where Shakespeare's own company performed many of his works from 1599. The original burned down in 1613 when a cannon shot during a performance of Henry VIII set the thatched roof alight — remarkably, the only recorded casualty was a man whose burning breeches were put out with a bottle of ale. Today's Globe sits about 230 metres from the original site and is the only building in London permitted a thatched roof since the Great Fire of 1666.",
       "category": "Culture",
@@ -179,7 +193,7 @@
     },
     {
       "title": "St Paul's Cathedral",
-      "order": 11,
+      "order": 12,
       "day": 2,
       "narrative": "Christopher Wren's masterpiece, completed in 1710 as the fifth cathedral on this site since 604 AD, built after the Great Fire of London destroyed its Gothic predecessor. Its dome — one of the largest in the world — became a symbol of British resilience when photos of it standing defiant amid the smoke of the Blitz circulated worldwide in December 1940. Wren himself is buried in the crypt beneath a simple Latin epitaph that translates: 'If you seek his monument, look around you.'",
       "category": "Architecture",
@@ -196,7 +210,7 @@
     },
     {
       "title": "Millennium Bridge",
-      "order": 12,
+      "order": 13,
       "day": 2,
       "narrative": "London's first new Thames crossing in over a century when it opened in June 2000 — and it lasted just three days before wobbling so alarmingly underfoot that it was closed for nearly two years of retrofitting. The synchronised sway, caused by pedestrians unconsciously matching footsteps to the bridge's motion, earned it the enduring nickname 'the wobbly bridge' even though the fix has long since worked.",
       "category": "Architecture",
@@ -213,7 +227,7 @@
     },
     {
       "title": "British Museum",
-      "order": 13,
+      "order": 14,
       "day": 3,
       "narrative": "Founded in 1753 from the personal collection of physician Sir Hans Sloane, it was the first national public museum in the world and remains free to enter. The Rosetta Stone, acquired in 1802, carries the same decree in three scripts — Greek, Demotic, and hieroglyphic — and was the key that let scholars finally decode ancient Egyptian writing in 1822. The Parthenon Marbles, taken from Athens in the early 1800s by Lord Elgin, remain one of the museum's most disputed holdings, with Greece continuing to request their return.",
       "category": "Culture",
@@ -230,7 +244,7 @@
     },
     {
       "title": "Covent Garden Piazza",
-      "order": 14,
+      "order": 15,
       "day": 3,
       "narrative": "London's first planned square, laid out in 1630 by architect Inigo Jones for the Earl of Bedford, modelled on the Italian piazzas he'd admired on his travels. It began as a fruit and vegetable market before the market moved to Nine Elms in 1974 and the space reinvented itself as a hub for street performance and shopping. Buskers here are hand-selected through an audition process — one of the few formally regulated street performance pitches in the world.",
       "category": "History",
@@ -247,7 +261,7 @@
     },
     {
       "title": "Trafalgar Square",
-      "order": 15,
+      "order": 16,
       "day": 3,
       "narrative": "Laid out in the 1840s to commemorate Britain's 1805 naval victory over Napoleon's combined French and Spanish fleet at the Battle of Trafalgar. Nelson's Column stands 52 metres tall, the admiral looking permanently toward the English Channel and the battle he didn't survive. The Fourth Plinth, originally intended for a royal statue that was never funded, has hosted rotating contemporary art commissions since 1999.",
       "category": "History",
@@ -263,42 +277,39 @@
       ]
     },
     {
-      "title": "Soho & Chinatown",
-      "order": 16,
+      "title": "Soho",
+      "order": 17,
       "day": 3,
-      "narrative": "Soho's name likely comes from a 17th-century hunting cry — 'Soho!' — shouted across what was then open fields used for royal hunts. It became London's bohemian quarter through the 19th and 20th centuries, home to jazz clubs, publishing houses, and a film industry that still clusters on Wardour Street. Chinatown, on Gerrard Street, only took its current form in the 1970s after the original docklands Chinese community relocated west — the ornate gates and lanterns came later, but the food has been the draw since day one.",
+      "narrative": "Soho's name likely comes from a 17th-century hunting cry — 'Soho!' — shouted across what was then open fields used for royal hunts. It became London's bohemian quarter through the 19th and 20th centuries, home to jazz clubs, publishing houses, and a film industry that still clusters on Wardour Street.",
       "category": "Culture",
       "poiType": "landmark",
-      "estimatedMinutes": 60,
-      "practicalTip": "Berwick Street Market is good for a wander, and the neon-lit stretch of Gerrard Street is at its best after dark.",
-      "latitude": 51.5136143,
-      "longitude": -0.1365486,
+      "estimatedMinutes": 35,
+      "practicalTip": "Berwick Street Market is good for a wander, and the side streets north of Brewer Street are where the neon comes out after dark.",
+      "latitude": 51.512971,
+      "longitude": -0.133648,
       "photos": [
-        "https://images.unsplash.com/photo-1662714215474-acc0a5d94bba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1543691110-1c7d6b1927f6?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         "https://images.unsplash.com/photo-1585585587066-e55ad05bb1a4?q=80&w=1674&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
-      "title": "West End Show",
-      "order": 17,
+      "title": "Chinatown",
+      "order": 18,
       "day": 3,
-      "narrative": "London's West End has staged professional theatre since the 17th century, and today rivals Broadway as the world's most prestigious commercial theatre district, with around 40 venues packed into a few streets around Shaftesbury Avenue. Leicester Square sits at its heart — the half-price TKTS booth here, run by the Society of London Theatre, is the only official same-day discount outlet in the city.",
+      "narrative": "Chinatown, on Gerrard Street, only took its current form in the 1970s after the original docklands Chinese community relocated west — the ornate gates and lanterns came later, but the food has been the draw since day one.",
       "category": "Culture",
-      "poiType": "theatre",
-      "estimatedMinutes": 150,
-      "practicalTip": "Book ahead for popular shows, but the official TKTS booth in Leicester Square is worth checking for same-day deals — avoid unofficial resellers nearby.",
-      "latitude": 51.510359,
-      "longitude": -0.1300625,
+      "poiType": "landmark",
+      "estimatedMinutes": 25,
+      "practicalTip": "The neon-lit stretch of Gerrard Street is at its best after dark. The gates on Wardour Street and Newport Place mark the edges.",
+      "latitude": 51.512141,
+      "longitude": -0.131266,
       "photos": [
-        "https://images.unsplash.com/photo-1758884085332-876824194c9c?q=80&w=1035&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1766049819294-49972fbc03da?q=80&w=987&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "https://images.unsplash.com/photo-1498683656341-d8e0f5958001?q=80&w=988&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "https://images.unsplash.com/photo-1662714215474-acc0a5d94bba?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
       ]
     },
     {
       "title": "Cutty Sark & Greenwich",
-      "order": 18,
+      "order": 19,
       "day": 4,
       "narrative": "The Cutty Sark is the last surviving tea clipper of her kind, built in 1869 for the brutal China tea trade, where the fastest ship home each season commanded the best prices. She was later repurposed for the wool trade from Australia once steamships made clippers obsolete. A 2007 fire nearly destroyed her during restoration; most of her original timbers had thankfully been removed for conservation work at the time. She's now dry-docked and raised, letting visitors walk beneath her hull.",
       "category": "History",
@@ -315,7 +326,7 @@
     },
     {
       "title": "Prime Meridian Line",
-      "order": 19,
+      "order": 20,
       "day": 4,
       "narrative": "The line marking 0° longitude, adopted as the world's international standard at the 1884 International Meridian Conference — before that, dozens of countries used their own reference points, making international navigation and timekeeping a genuine mess. It was chosen partly because, by the 1880s, most of the world's shipping already used British Admiralty charts referenced to Greenwich. Stand astride the marked line and you're straddling the Eastern and Western Hemispheres simultaneously.",
       "category": "History",
@@ -331,7 +342,7 @@
     },
     {
       "title": "Greenwich Market",
-      "order": 20,
+      "order": 21,
       "day": 4,
       "narrative": "Trading under royal charter since 1700, when William III granted market rights to the Greenwich Hospital estate. The current covered market hall dates from the 1830s, though it's been rebuilt and extended since. It's smaller and more locally minded than Borough or Camden, known for independent craft stalls and street food rather than big-name vendors.",
       "category": "Culture",
@@ -347,7 +358,7 @@
     },
     {
       "title": "Tate Modern",
-      "order": 21,
+      "order": 22,
       "day": 4,
       "narrative": "Housed in the former Bankside Power Station, a Sir Giles Gilbert Scott-designed building that generated electricity for London until 1981 and sat derelict for over a decade before its 2000 conversion into Britain's national gallery of modern and contemporary art. The cavernous Turbine Hall, once home to the station's generators, now hosts vast rotating installations that have included Olafur Eliasson's giant indoor sun and Ai Weiwei's field of 100 million porcelain sunflower seeds.",
       "category": "Culture",
@@ -364,7 +375,7 @@
     },
     {
       "title": "Camden Lock Market",
-      "order": 22,
+      "order": 23,
       "day": 4,
       "narrative": "Grew from a single weekend crafts market in 1974 into one of London's largest markets, now spanning several interconnected sites along the Regent's Canal. Camden Lock itself refers to the actual canal lock built in 1820 as part of the Regent's Canal, which once carried goods rather than tourists. The area's alternative, punk-rock reputation dates to the 1970s and 80s music scene that grew up around Camden's pubs and clubs — Amy Winehouse lived nearby and is commemorated with a statue in Camden Stables Market.",
       "category": "Culture",

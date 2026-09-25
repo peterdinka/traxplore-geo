@@ -1,0 +1,320 @@
+{
+  "id": "lisbon-first-time-guide",
+  "name": "First-Time Lisbon Guide",
+  "type": "Multiple Days",
+  "city": "Lisbon",
+  "country": "Portugal",
+  "description": "30 stops in geographic walking order across four days: Belem & Alcantara, Baixa-Chiado-Bairro Alto-Principe Real, Graca-Castelo-Alfama, and a Sintra hike.",
+  "coverImageURL": "https://images.unsplash.com/photo-1585208798174-6cedd86e019a?q=80&w=2070&auto=format&fit=crop",
+  "durationEstimate": "4 days",
+  "order": 1,
+  "published": true,
+  "tags": [
+    "sightseeing",
+    "history",
+    "architecture",
+    "food"
+  ],
+  "stops": [
+    {
+      "title": "Jerónimos Monastery",
+      "order": 1,
+      "day": 1,
+      "narrative": "UNESCO-listed Manueline monastery commissioned by King Manuel I to celebrate Vasco da Gama's route to India. Closed Mondays — go early.",
+      "category": "Architecture",
+      "latitude": 38.6979,
+      "longitude": -9.2064,
+      "poiType": "church"
+    },
+    {
+      "title": "Pastéis de Belém",
+      "order": 2,
+      "day": 1,
+      "narrative": "The original custard-tart bakery, baking to the same secret recipe since 1837, right by the monastery.",
+      "category": "Food",
+      "latitude": 38.6976,
+      "longitude": -9.2029,
+      "poiType": "cafe"
+    },
+    {
+      "title": "Padrão dos Descobrimentos",
+      "order": 3,
+      "day": 1,
+      "narrative": "Monument to the Discoveries, a riverside sail-shaped tribute to Portugal's Age of Exploration.",
+      "category": "History",
+      "latitude": 38.6936,
+      "longitude": -9.2057,
+      "poiType": "monument"
+    },
+    {
+      "title": "Torre de Belém",
+      "order": 4,
+      "day": 1,
+      "narrative": "The iconic 16th-century riverside fortress guarding the Tagus, symbol of Portugal's maritime age. Closed Mondays.",
+      "category": "History",
+      "latitude": 38.6916,
+      "longitude": -9.2159,
+      "poiType": "castle"
+    },
+    {
+      "title": "MAAT — Museum of Art, Architecture and Technology",
+      "order": 5,
+      "day": 1,
+      "narrative": "Striking modern riverside museum built beside the old Central Tejo power station.",
+      "category": "Architecture",
+      "latitude": 38.6958,
+      "longitude": -9.1967,
+      "poiType": "museum"
+    },
+    {
+      "title": "LX Factory",
+      "order": 6,
+      "day": 1,
+      "narrative": "Converted 19th-century textile factory in Alcântara, now a hub of design shops, street art and cafés.",
+      "category": "Culture",
+      "latitude": 38.7033,
+      "longitude": -9.1765,
+      "poiType": "landmark"
+    },
+    {
+      "title": "Rio Maravilha",
+      "order": 7,
+      "day": 1,
+      "narrative": "Rooftop restaurant inside LX Factory with sunset views over the 25 de Abril bridge.",
+      "category": "Food",
+      "latitude": 38.7033,
+      "longitude": -9.1766,
+      "poiType": "restaurant"
+    },
+    {
+      "title": "Praça do Comércio",
+      "order": 8,
+      "day": 2,
+      "narrative": "Grand riverside square flanked by yellow arcaded buildings, Lisbon's ceremonial gateway from the water.",
+      "category": "History",
+      "latitude": 38.7077,
+      "longitude": -9.1364,
+      "poiType": "landmark"
+    },
+    {
+      "title": "Arco da Rua Augusta",
+      "order": 9,
+      "day": 2,
+      "narrative": "Triumphal arch marking the entrance to the pedestrianised Rua Augusta; climb it for a rooftop view over Baixa.",
+      "category": "Architecture",
+      "latitude": 38.7082,
+      "longitude": -9.1371,
+      "poiType": "monument"
+    },
+    {
+      "title": "Rossio",
+      "order": 10,
+      "day": 2,
+      "narrative": "Praça Dom Pedro IV — Lisbon's liveliest square, with wave-patterned cobblestones and the Rossio train station nearby.",
+      "category": "History",
+      "latitude": 38.7148,
+      "longitude": -9.1395,
+      "poiType": "landmark"
+    },
+    {
+      "title": "Elevador de Santa Justa",
+      "order": 11,
+      "day": 2,
+      "narrative": "Neo-Gothic 1901 lift connecting Baixa to the Carmo ruins above, with an observation deck over the rooftops.",
+      "category": "Architecture",
+      "latitude": 38.7122,
+      "longitude": -9.1396,
+      "poiType": "landmark"
+    },
+    {
+      "title": "Convento do Carmo",
+      "order": 12,
+      "day": 2,
+      "narrative": "Roofless earthquake-ruined convent church at the top of the Santa Justa lift, now an archaeology museum.",
+      "category": "History",
+      "latitude": 38.7119,
+      "longitude": -9.1401,
+      "poiType": "church"
+    },
+    {
+      "title": "Café A Brasileira",
+      "order": 13,
+      "day": 2,
+      "narrative": "Historic 1905 coffee house on Rua Garrett in Chiado, famous for its bronze statue of poet Fernando Pessoa outside.",
+      "category": "Food",
+      "latitude": 38.7104,
+      "longitude": -9.1421,
+      "poiType": "cafe"
+    },
+    {
+      "title": "A Cevicheria",
+      "order": 14,
+      "day": 2,
+      "narrative": "Small, popular Peruvian-Portuguese ceviche bar near Príncipe Real — expect a short wait.",
+      "category": "Food",
+      "latitude": 38.7169,
+      "longitude": -9.1475,
+      "poiType": "restaurant"
+    },
+    {
+      "title": "Miradouro de São Pedro de Alcântara",
+      "order": 15,
+      "day": 2,
+      "narrative": "Bairro Alto's best-atmosphere viewpoint — tiled balustrades, a kiosk bar and one of the best sunsets in the city.",
+      "category": "Nature",
+      "latitude": 38.7152,
+      "longitude": -9.1452,
+      "poiType": "viewpoint"
+    },
+    {
+      "title": "Jardim do Príncipe Real",
+      "order": 16,
+      "day": 2,
+      "narrative": "Leafy square built around a century-old cedar tree, ringed by Lisbon's specialty coffee scene.",
+      "category": "Nature",
+      "latitude": 38.7167,
+      "longitude": -9.1461,
+      "poiType": "garden"
+    },
+    {
+      "title": "Dramático",
+      "order": 17,
+      "day": 2,
+      "narrative": "Small, tightly-edited specialty coffee bar just off Príncipe Real, across from the botanical garden.",
+      "category": "Food",
+      "latitude": 38.7164,
+      "longitude": -9.1462,
+      "poiType": "cafe"
+    },
+    {
+      "title": "Essencial",
+      "order": 18,
+      "day": 2,
+      "narrative": "Intimate Bairro Alto dinner spot serving a Portuguese tasting menu in a house-like setting.",
+      "category": "Food",
+      "latitude": 38.7136,
+      "longitude": -9.1465,
+      "poiType": "restaurant"
+    },
+    {
+      "title": "Incognito",
+      "order": 19,
+      "day": 2,
+      "narrative": "30-year-old Lisbon institution for indie, synthpop and post-punk nights.",
+      "category": "Culture",
+      "latitude": 38.7086,
+      "longitude": -9.1568,
+      "poiType": "music"
+    },
+    {
+      "title": "MusicBox Lisboa",
+      "order": 20,
+      "day": 2,
+      "narrative": "Brick-arched club under the railway on Pink Street in Cais do Sodré, known for cutting-edge music bookings.",
+      "category": "Culture",
+      "latitude": 38.7067,
+      "longitude": -9.1456,
+      "poiType": "music"
+    },
+    {
+      "title": "Cervejaria Ramiro",
+      "order": 21,
+      "day": 3,
+      "narrative": "Legendary seafood cervejaria near Intendente — go early or expect a queue.",
+      "category": "Food",
+      "latitude": 38.7233,
+      "longitude": -9.1378,
+      "poiType": "restaurant"
+    },
+    {
+      "title": "Miradouro da Senhora do Monte",
+      "order": 22,
+      "day": 3,
+      "narrative": "Lisbon's highest viewpoint — a full 270-degree panorama over the castle, river and bridge from Graça.",
+      "category": "Nature",
+      "latitude": 38.7167,
+      "longitude": -9.1319,
+      "poiType": "viewpoint"
+    },
+    {
+      "title": "Panteão Nacional",
+      "order": 23,
+      "day": 3,
+      "narrative": "Dramatic white-domed National Pantheon, a former church now housing the tombs of Portuguese notables. Closed Mondays.",
+      "category": "History",
+      "latitude": 38.7122,
+      "longitude": -9.1269,
+      "poiType": "church"
+    },
+    {
+      "title": "Castelo de São Jorge",
+      "order": 24,
+      "day": 3,
+      "narrative": "Hilltop Moorish castle with battlements to walk and the best wide view over the Baixa grid.",
+      "category": "History",
+      "latitude": 38.7139,
+      "longitude": -9.1335,
+      "poiType": "castle"
+    },
+    {
+      "title": "Miradouro de Santa Luzia",
+      "order": 25,
+      "day": 3,
+      "narrative": "Classic azulejo-framed Alfama viewpoint over the rooftops to the river — best around sunrise.",
+      "category": "Nature",
+      "latitude": 38.7115,
+      "longitude": -9.1316,
+      "poiType": "viewpoint"
+    },
+    {
+      "title": "Sé de Lisboa",
+      "order": 26,
+      "day": 3,
+      "narrative": "The fortress-like Lisbon Cathedral, built in 1147 on the site of a former mosque.",
+      "category": "History",
+      "latitude": 38.7098,
+      "longitude": -9.1326,
+      "poiType": "church"
+    },
+    {
+      "title": "Museu do Fado",
+      "order": 27,
+      "day": 3,
+      "narrative": "Museum dedicated to fado, the melancholic musical tradition born in these Alfama alleys.",
+      "category": "History",
+      "latitude": 38.7121,
+      "longitude": -9.1292,
+      "poiType": "museum"
+    },
+    {
+      "title": "Cantinho do Aziz",
+      "order": 28,
+      "day": 3,
+      "narrative": "Beloved family-run restaurant on the Alfama/Mouraria edge — book ahead for an evening with fado nearby.",
+      "category": "Food",
+      "latitude": 38.7121,
+      "longitude": -9.1283,
+      "poiType": "restaurant"
+    },
+    {
+      "title": "Lux Frágil",
+      "order": 29,
+      "day": 3,
+      "narrative": "Portugal's most internationally renowned club, on the river by Santa Apolónia — best after 2am.",
+      "category": "Culture",
+      "latitude": 38.7128,
+      "longitude": -9.1224,
+      "poiType": "music"
+    },
+    {
+      "title": "Castelo dos Mouros",
+      "order": 30,
+      "day": 4,
+      "narrative": "Half-day hike from Sintra train station up the Moorish castle ramparts and on through forest to Pena Palace, roughly 9-10km round trip.",
+      "category": "History",
+      "latitude": 38.7921,
+      "longitude": -9.3904,
+      "poiType": "castle"
+    }
+  ]
+}

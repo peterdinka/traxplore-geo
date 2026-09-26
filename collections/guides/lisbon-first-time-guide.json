@@ -22,8 +22,8 @@
       "day": 1,
       "narrative": "UNESCO-listed Manueline monastery commissioned by King Manuel I to celebrate Vasco da Gama's route to India. Closed Mondays — go early.",
       "category": "Architecture",
-      "latitude": 38.6979,
-      "longitude": -9.2064,
+      "latitude": 38.697626,
+      "longitude": -9.20549,
       "poiType": "church"
     },
     {
@@ -32,8 +32,8 @@
       "day": 1,
       "narrative": "The original custard-tart bakery, baking to the same secret recipe since 1837, right by the monastery.",
       "category": "Food",
-      "latitude": 38.6976,
-      "longitude": -9.2029,
+      "latitude": 38.697452,
+      "longitude": -9.203266,
       "poiType": "cafe"
     },
     {
@@ -52,8 +52,8 @@
       "day": 1,
       "narrative": "The iconic 16th-century riverside fortress guarding the Tagus, symbol of Portugal's maritime age. Closed Mondays.",
       "category": "History",
-      "latitude": 38.6916,
-      "longitude": -9.2159,
+      "latitude": 38.69171,
+      "longitude": -9.215894,
       "poiType": "castle"
     },
     {
@@ -62,8 +62,8 @@
       "day": 1,
       "narrative": "Striking modern riverside museum built beside the old Central Tejo power station.",
       "category": "Architecture",
-      "latitude": 38.6958,
-      "longitude": -9.1967,
+      "latitude": 38.695971,
+      "longitude": -9.1934,
       "poiType": "museum"
     },
     {
@@ -82,8 +82,8 @@
       "day": 1,
       "narrative": "Rooftop restaurant inside LX Factory with sunset views over the 25 de Abril bridge.",
       "category": "Food",
-      "latitude": 38.7033,
-      "longitude": -9.1766,
+      "latitude": 38.703516,
+      "longitude": -9.178843,
       "poiType": "restaurant"
     },
     {
@@ -92,8 +92,8 @@
       "day": 2,
       "narrative": "Grand riverside square flanked by yellow arcaded buildings, Lisbon's ceremonial gateway from the water.",
       "category": "History",
-      "latitude": 38.7077,
-      "longitude": -9.1364,
+      "latitude": 38.70752,
+      "longitude": -9.136457,
       "poiType": "landmark"
     },
     {
@@ -102,8 +102,8 @@
       "day": 2,
       "narrative": "Triumphal arch marking the entrance to the pedestrianised Rua Augusta; climb it for a rooftop view over Baixa.",
       "category": "Architecture",
-      "latitude": 38.7082,
-      "longitude": -9.1371,
+      "latitude": 38.708432,
+      "longitude": -9.136811,
       "poiType": "monument"
     },
     {
@@ -122,8 +122,8 @@
       "day": 2,
       "narrative": "Neo-Gothic 1901 lift connecting Baixa to the Carmo ruins above, with an observation deck over the rooftops.",
       "category": "Architecture",
-      "latitude": 38.7122,
-      "longitude": -9.1396,
+      "latitude": 38.71213,
+      "longitude": -9.139343,
       "poiType": "landmark"
     },
     {
@@ -132,8 +132,8 @@
       "day": 2,
       "narrative": "Roofless earthquake-ruined convent church at the top of the Santa Justa lift, now an archaeology museum.",
       "category": "History",
-      "latitude": 38.7119,
-      "longitude": -9.1401,
+      "latitude": 38.712234,
+      "longitude": -9.14003,
       "poiType": "church"
     },
     {
@@ -142,8 +142,8 @@
       "day": 2,
       "narrative": "Historic 1905 coffee house on Rua Garrett in Chiado, famous for its bronze statue of poet Fernando Pessoa outside.",
       "category": "Food",
-      "latitude": 38.7104,
-      "longitude": -9.1421,
+      "latitude": 38.710678,
+      "longitude": -9.142051,
       "poiType": "cafe"
     },
     {
@@ -152,8 +152,8 @@
       "day": 2,
       "narrative": "Small, popular Peruvian-Portuguese ceviche bar near Príncipe Real — expect a short wait.",
       "category": "Food",
-      "latitude": 38.7169,
-      "longitude": -9.1475,
+      "latitude": 38.715985,
+      "longitude": -9.147502,
       "poiType": "restaurant"
     },
     {
@@ -162,8 +162,8 @@
       "day": 2,
       "narrative": "Bairro Alto's best-atmosphere viewpoint — tiled balustrades, a kiosk bar and one of the best sunsets in the city.",
       "category": "Nature",
-      "latitude": 38.7152,
-      "longitude": -9.1452,
+      "latitude": 38.715243,
+      "longitude": -9.144369,
       "poiType": "viewpoint"
     },
     {
@@ -172,8 +172,8 @@
       "day": 2,
       "narrative": "Leafy square built around a century-old cedar tree, ringed by Lisbon's specialty coffee scene. The garden at the centre of Praça do Príncipe Real.",
       "category": "Nature",
-      "latitude": 38.7167,
-      "longitude": -9.1461,
+      "latitude": 38.716454,
+      "longitude": -9.148547,
       "poiType": "garden"
     },
     {
@@ -182,8 +182,8 @@
       "day": 2,
       "narrative": "Small, tightly-edited specialty coffee bar just off Príncipe Real, across from the botanical garden.",
       "category": "Food",
-      "latitude": 38.7164,
-      "longitude": -9.1462,
+      "latitude": 38.717545,
+      "longitude": -9.147459,
       "poiType": "cafe"
     },
     {
@@ -192,8 +192,8 @@
       "day": 2,
       "narrative": "Intimate Bairro Alto dinner spot serving a Portuguese tasting menu in a house-like setting.",
       "category": "Food",
-      "latitude": 38.7136,
-      "longitude": -9.1465,
+      "latitude": 38.714025,
+      "longitude": -9.145619,
       "poiType": "restaurant"
     },
     {
@@ -202,8 +202,8 @@
       "day": 2,
       "narrative": "30-year-old Lisbon institution for indie, synthpop and post-punk nights.",
       "category": "Culture",
-      "latitude": 38.7086,
-      "longitude": -9.1568,
+      "latitude": 38.710802,
+      "longitude": -9.150892,
       "poiType": "music"
     },
     {
@@ -212,8 +212,8 @@
       "day": 2,
       "narrative": "Brick-arched club under the railway on Pink Street in Cais do Sodré, known for cutting-edge music bookings.",
       "category": "Culture",
-      "latitude": 38.7067,
-      "longitude": -9.1456,
+      "latitude": 38.707167,
+      "longitude": -9.143359,
       "poiType": "music"
     },
     {
@@ -222,8 +222,8 @@
       "day": 3,
       "narrative": "Legendary seafood cervejaria near Intendente — go early or expect a queue.",
       "category": "Food",
-      "latitude": 38.7233,
-      "longitude": -9.1378,
+      "latitude": 38.720326,
+      "longitude": -9.135708,
       "poiType": "restaurant"
     },
     {
@@ -242,8 +242,8 @@
       "day": 3,
       "narrative": "Dramatic white-domed National Pantheon, a former church now housing the tombs of Portuguese notables. Closed Mondays.",
       "category": "History",
-      "latitude": 38.7122,
-      "longitude": -9.1269,
+      "latitude": 38.715008,
+      "longitude": -9.124494,
       "poiType": "church"
     },
     {
@@ -252,8 +252,8 @@
       "day": 3,
       "narrative": "Hilltop Moorish castle with battlements to walk and the best wide view over the Baixa grid.",
       "category": "History",
-      "latitude": 38.7139,
-      "longitude": -9.1335,
+      "latitude": 38.713922,
+      "longitude": -9.133472,
       "poiType": "castle"
     },
     {
@@ -262,8 +262,8 @@
       "day": 3,
       "narrative": "Classic azulejo-framed Alfama viewpoint over the rooftops to the river — best around sunrise.",
       "category": "Nature",
-      "latitude": 38.7115,
-      "longitude": -9.1316,
+      "latitude": 38.711584,
+      "longitude": -9.130352,
       "poiType": "viewpoint"
     },
     {
@@ -282,8 +282,8 @@
       "day": 3,
       "narrative": "Museum dedicated to fado, the melancholic musical tradition born in these Alfama alleys.",
       "category": "History",
-      "latitude": 38.7121,
-      "longitude": -9.1292,
+      "latitude": 38.711154,
+      "longitude": -9.127641,
       "poiType": "museum"
     },
     {
@@ -292,8 +292,8 @@
       "day": 3,
       "narrative": "Beloved family-run restaurant on the Alfama/Mouraria edge — book ahead for an evening with fado nearby.",
       "category": "Food",
-      "latitude": 38.7121,
-      "longitude": -9.1283,
+      "latitude": 38.714202,
+      "longitude": -9.135723,
       "poiType": "restaurant"
     },
     {
@@ -302,8 +302,8 @@
       "day": 3,
       "narrative": "Portugal's most internationally renowned club, on the river by Santa Apolónia — best after 2am.",
       "category": "Culture",
-      "latitude": 38.7128,
-      "longitude": -9.1224,
+      "latitude": 38.714991,
+      "longitude": -9.12068,
       "poiType": "music"
     },
     {
@@ -312,8 +312,8 @@
       "day": 4,
       "narrative": "Half-day hike from Sintra train station up the Moorish castle ramparts and on through forest to Pena Palace, roughly 9-10km round trip.",
       "category": "History",
-      "latitude": 38.7921,
-      "longitude": -9.3904,
+      "latitude": 38.792464,
+      "longitude": -9.388676,
       "poiType": "castle"
     }
   ]

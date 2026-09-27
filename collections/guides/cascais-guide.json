@@ -1,0 +1,188 @@
+{
+  "id": "cascais-guide",
+  "name": "Cascais in a Day",
+  "type": "Day Trip",
+  "city": "Cascais",
+  "country": "Portugal",
+  "description": "Eleven stops in the old royal resort west of Lisbon: seven sights from the citadel to the Atlantic cliffs, two cafes, two seafood restaurants.",
+  "coverImageURL": "https://images.unsplash.com/photo-1615672337908-13fb56e84ad0?q=80&w=2069&auto=format&fit=crop",
+  "durationEstimate": "1 day",
+  "order": 2,
+  "published": true,
+  "tags": [
+    "sightseeing",
+    "coastal",
+    "food",
+    "day trip"
+  ],
+  "stops": [
+    {
+      "title": "Cidadela de Cascais",
+      "order": 1,
+      "section": "Attractions",
+      "narrative": "The 15th-century sea fort that guarded the mouth of the Tagus, later a royal summer residence and now an open citadel quarter with a hotel, galleries and a marina-facing courtyard. You can walk the ramparts and drop into the artists' studios for free. Start here — everything else in town is within twenty minutes on foot.",
+      "category": "History",
+      "latitude": 38.693722,
+      "longitude": -9.418879,
+      "poiType": "castle",
+      "tags": [
+        "history",
+        "architecture",
+        "free"
+      ]
+    },
+    {
+      "title": "Santa Marta Lighthouse",
+      "order": 2,
+      "section": "Attractions",
+      "narrative": "A striped blue-and-white lighthouse from 1868, converted into a small museum about Portugal's coastal beacons, with the lamp room still intact. The terrace gives you the cleanest view back along the Cascais shoreline. Small entrance fee, and it closes Mondays.",
+      "category": "History",
+      "latitude": 38.690392,
+      "longitude": -9.420975,
+      "poiType": "museum",
+      "tags": [
+        "history",
+        "views",
+        "family"
+      ]
+    },
+    {
+      "title": "Casa das Histórias Paula Rego",
+      "order": 3,
+      "section": "Attractions",
+      "narrative": "Eduardo Souto de Moura's twin red pyramids house the work of Paula Rego, Portugal's most important modern painter, who lived nearby. The building is as much the draw as the collection — cool, top-lit rooms that make the darkness of her pictures land harder. Allow an hour.",
+      "category": "Culture",
+      "latitude": 38.695207,
+      "longitude": -9.424102,
+      "poiType": "museum",
+      "tags": [
+        "art",
+        "architecture",
+        "indoor"
+      ]
+    },
+    {
+      "title": "Parque Marechal Carmona",
+      "order": 4,
+      "section": "Attractions",
+      "narrative": "A shaded municipal park of ficus trees, peacocks, a duck pond and a café, wedged between the museum quarter and the old town. It is where Cascais goes to escape the Atlantic wind. Free, and the easiest place to lose an hour with a book.",
+      "category": "Nature",
+      "latitude": 38.693249,
+      "longitude": -9.422701,
+      "poiType": "park",
+      "tags": [
+        "nature",
+        "relaxed",
+        "free",
+        "family"
+      ]
+    },
+    {
+      "title": "Boca do Inferno",
+      "order": 5,
+      "section": "Attractions",
+      "narrative": "The \"Mouth of Hell\" — a collapsed sea cave where the Atlantic booms into an arch of limestone cliff. Go when there is a swell running, or at sunset; on a flat calm day it is just a pretty hole in the rock. Fifteen minutes' walk west of the citadel along the coast path.",
+      "category": "Nature",
+      "latitude": 38.69129,
+      "longitude": -9.430688,
+      "poiType": "landmark",
+      "tags": [
+        "nature",
+        "views",
+        "free",
+        "coastal"
+      ]
+    },
+    {
+      "title": "Praia Da Rainha",
+      "order": 6,
+      "section": "Attractions",
+      "narrative": "A tiny cove framed by rock stacks, once reserved for Queen Amélia, reached down a staircase off the seafront promenade. It all but disappears at high tide, which is exactly why it is the prettiest beach in town. Two minutes from the main square.",
+      "category": "Nature",
+      "latitude": 38.699099,
+      "longitude": -9.418123,
+      "poiType": "beach",
+      "tags": [
+        "coastal",
+        "swimming",
+        "free"
+      ]
+    },
+    {
+      "title": "Praia do Guincho",
+      "order": 7,
+      "section": "Attractions",
+      "narrative": "A wild, dune-backed Atlantic beach inside the Sintra-Cascais natural park, nine kilometres out of town and a world away from the sheltered coves. World-class wind and surf, which also means it is often too rough to swim. Take the coast road by bike or bus 1634 — the ride along the cliffs is half the point.",
+      "category": "Nature",
+      "latitude": 38.731623,
+      "longitude": -9.472125,
+      "poiType": "beach",
+      "tags": [
+        "coastal",
+        "nature",
+        "surf",
+        "windy"
+      ]
+    },
+    {
+      "title": "Santini",
+      "order": 8,
+      "section": "Cafés",
+      "narrative": "Gelato made in Cascais since 1949, when an Italian confectioner set up shop for the exiled European royalty summering here. The fruit flavours are the ones to order — they still use whole fruit and no colouring. Expect a queue out the door all summer.",
+      "category": "Food",
+      "latitude": 38.698519,
+      "longitude": -9.420232,
+      "poiType": "cafe",
+      "tags": [
+        "food",
+        "sweet",
+        "classic"
+      ]
+    },
+    {
+      "title": "Manteigaria - Fábrica de Pastéis de Nata - Cascais",
+      "order": 9,
+      "section": "Cafés",
+      "narrative": "Pastéis de nata pulled from the oven every few minutes and eaten standing at the marble counter, cinnamon shaker in hand. Manteigaria makes nothing else, which is the whole argument for it. A euro and a half, best in the afternoon when the trays keep coming.",
+      "category": "Food",
+      "latitude": 38.69975,
+      "longitude": -9.418932,
+      "poiType": "cafe",
+      "tags": [
+        "food",
+        "sweet",
+        "quick"
+      ]
+    },
+    {
+      "title": "Restaurante Mar do Inferno",
+      "order": 10,
+      "section": "Restaurants",
+      "narrative": "Grilled fish and shellfish on the cliff edge beside Boca do Inferno, with the Atlantic doing the entertaining through the window. Order whatever is on ice at the front and let them weigh it. Book for dinner, or arrive early for lunch.",
+      "category": "Food",
+      "latitude": 38.690895,
+      "longitude": -9.430075,
+      "poiType": "restaurant",
+      "tags": [
+        "food",
+        "seafood",
+        "views"
+      ]
+    },
+    {
+      "title": "O Pescador",
+      "order": 11,
+      "section": "Restaurants",
+      "narrative": "A 1964 fishermen's tavern in a back street off the marina, walls buried under photographs and maritime clutter, still doing arroz de marisco and salt-baked bass properly. It is old-fashioned rather than fashionable, and the better for it. Reservations advised.",
+      "category": "Food",
+      "latitude": 38.698205,
+      "longitude": -9.41906,
+      "poiType": "restaurant",
+      "tags": [
+        "food",
+        "seafood",
+        "classic"
+      ]
+    }
+  ]
+}

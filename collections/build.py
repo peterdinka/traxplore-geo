@@ -158,14 +158,14 @@ def main() -> int:
     try:
         lists = collect("lists", "list", "places", "name")
         guides = collect("guides", "guide", "stops", "title")
-        bundles = collect("bundles", "bundle", "__none__", "name")
+        series = collect("series", "series", "__none__", "name")
         families, badges = collect_badges(lists, guides)
 
         known = {d["id"] for d in lists}
-        for bundle in bundles:
-            for ref in bundle.get("lists", []):
+        for item in series:
+            for ref in item.get("lists", []):
                 if ref not in known:
-                    raise Problem(f"bundle '{bundle['id']}' points at list "
+                    raise Problem(f"series '{item['id']}' points at list "
                                   f"'{ref}', which does not exist")
 
         # A rule pointing at a collection that does not exist is a badge nobody
@@ -202,7 +202,7 @@ def main() -> int:
         "version": 1,
         "lists": [d for d in lists if d.get("published")],
         "guides": [d for d in guides if d.get("published")],
-        "bundles": [d for d in bundles if d.get("published")],
+        "series": [d for d in series if d.get("published")],
         "badgeFamilies": families,
         "badges": badges,
     })
@@ -210,7 +210,7 @@ def main() -> int:
     places = sum(len(d.get("places", [])) for d in lists)
     stops = sum(len(d.get("stops", [])) for d in guides)
     print(f"✓ {len(lists)} lists ({places} places) · {len(guides)} guides "
-          f"({stops} stops) · {len(bundles)} bundles · {len(badges)} badges "
+          f"({stops} stops) · {len(series)} series · {len(badges)} badges "
           f"in {len(families)} families")
     print(f"  index.json {(ROOT / 'index.json').stat().st_size / 1024:.0f} KB · "
           f"all.json {(ROOT / 'all.json').stat().st_size / 1024:.0f} KB")
